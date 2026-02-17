@@ -1,0 +1,13 @@
+@inproceedings{TUD-CS-2017-0077,
+	title = {Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback},
+	author = {P.V.S., Avinesh and Meyer, Christian M.},
+	publisher = {Association for Computational Linguistics},
+	volume = {Volume 1: Long Paper},
+	booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017)},
+	pages = {1353-1363},
+	month = jul,
+	year = {2017},
+	abstract = {In this paper, we propose an extractive multi-document summarization (MDS) system using joint optimization and active learning for content selection grounded in user feedback. Our method interactively obtains user feedback to gradually improve the results of a state-of-the-art integer linear programming (ILP) framework for MDS. Our methods complement fully automatic methods in producing high-quality summaries with a minimum number of iterations and feedbacks. We conduct multiple simulation-based experiments and analyze the effect of feedback-based concept selection in the ILP setup in order to maximize the user-desired content in the summary.},
+	location = {Vancouver, Canada},
+	website  = {http://www.aclweb.org/anthology/P17-1124},
+}
