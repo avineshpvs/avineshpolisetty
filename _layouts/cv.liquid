@@ -80,7 +80,7 @@ layout: default
               {% if cv.email %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
-                  <td class="p-1 pl-2 font-weight-light">{{ cv.email }}</td>
+                  <td class="p-1 pl-2 font-weight-light"><span id="cv-email" data-u="{{ cv.email | split: '@' | first }}" data-d="{{ cv.email | split: '@' | last }}"></span></td>
                 </tr>
               {% endif %}
               {% if cv.phone %}
@@ -220,7 +220,7 @@ layout: default
               {% if basics.email %}
                 <tr>
                   <td class="p-1 pr-2 font-weight-bold"><b>Email</b></td>
-                  <td class="p-1 pl-2 font-weight-light">{{ basics.email }}</td>
+                  <td class="p-1 pl-2 font-weight-light"><span id="cv-email" data-u="{{ basics.email | split: '@' | first }}" data-d="{{ basics.email | split: '@' | last }}"></span></td>
                 </tr>
               {% endif %}
               {% if basics.phone %}
@@ -390,3 +390,19 @@ layout: default
     </div>
   </article>
 </div>
+<script>
+(function() {
+  var el = document.getElementById('cv-email');
+  if (el) {
+    var u = el.getAttribute('data-u');
+    var d = el.getAttribute('data-d');
+    var addr = u + '@' + d;
+    var a = document.createElement('a');
+    a.href = 'mailto:' + addr;
+    a.textContent = addr;
+    el.appendChild(a);
+    el.removeAttribute('data-u');
+    el.removeAttribute('data-d');
+  }
+})();
+</script>
