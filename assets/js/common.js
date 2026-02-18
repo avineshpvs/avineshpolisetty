@@ -57,4 +57,19 @@ $(document).ready(function () {
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
   });
+
+  // fetch GitHub star counts for project cards
+  document.querySelectorAll("[id$='-stars']").forEach(function (span) {
+    var repo = span.id.replace(/-stars$/, "");
+    fetch("https://api.github.com/repos/" + repo)
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (data) {
+        if (data.stargazers_count !== undefined) {
+          span.textContent = data.stargazers_count;
+        }
+      })
+      .catch(function () {});
+  });
 });

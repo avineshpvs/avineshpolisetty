@@ -4,7 +4,7 @@ title: Book Reviews
 description: Sharing thoughts on books across sports, travel, self-improvement, and more.
 img: assets/img/blog/book-reviews/book-reviews.png
 importance: 4
-category: personal
+category: Personal
 ---
 
 Reviews of books I've read — sharing thoughts on books across sports, travel, self-improvement, and more.
