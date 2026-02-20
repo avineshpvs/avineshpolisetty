@@ -94,4 +94,7 @@ layout: default
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}
+  {% if site.graphcomment.website_id %}
+    {% include graphcomment.liquid %}
+  {% endif %}
 </div>

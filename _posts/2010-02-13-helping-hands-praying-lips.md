@@ -3,10 +3,11 @@ layout: post
 title: "Helping Hands > Praying Lips"
 date: 2010-02-13 13:58:51
 description: Helping hands make a significant difference in our society, not just generous praying -- my experience visiting an orphanage.
+thumbnail: /assets/img/blog/TharaKids.jpg
 tags: philosophy social-service
 categories: philosophy
 ---
-![image-center](/assets/img/blog/TharaKids.jpg){: .align-center}
+{% include figure.liquid loading="eager" path="/assets/img/blog/TharaKids.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="THARA Orphanage Kids" %}
 
 It's true that helping hands make a significant difference in our society and not generous praying.
 Well, for a while, I was also part of the bunch of guys who just talk about social problems and poverty but do nothing.

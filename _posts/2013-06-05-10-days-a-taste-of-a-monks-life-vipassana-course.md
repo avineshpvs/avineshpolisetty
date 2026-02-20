@@ -3,10 +3,11 @@ layout: post
 title: "10 days Vipassana: a taste of a monk's life"
 date: 2013-06-05 03:50:12
 description: My 10-day Vipassana meditation experience -- discovering inner peace through silence, discipline, and self-observation.
+thumbnail: /assets/img/blog/meditation.png
 tags: philosophy meditation vipassana
 categories: philosophy
 ---
-![image-center](/assets/img/blog/meditation.jpg){: .align-center}
+![image-center](/assets/img/blog/meditation.png){: .align-center}
 It has been almost a year since I did the course and started this post.
 Finally the post is up.
 

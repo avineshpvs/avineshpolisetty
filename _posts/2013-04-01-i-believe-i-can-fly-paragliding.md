@@ -3,6 +3,7 @@ layout: post
 title: '"I believe I can fly" - Paragliding Course'
 date: 2013-04-01 06:38:43
 description: A guide to paragliding schools in India and my personal experience learning to fly.
+thumbnail: /assets/img/blog/paragliding-p1.jpg
 tags: adventure paragliding
 categories: adventure
 ---

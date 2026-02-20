@@ -3,38 +3,25 @@ layout: post
 title: Dera baba nanak paidal yatra
 date: 2016-10-02 10:18:53
 description: Walking 90 km over 3 days from Dasuya to the Pakistan border on the annual Paidal Yatra in remembrance of Guru Nanak Dev Ji.
+thumbnail: /assets/img/blog/biketrip/derababa/derababa-gurudwara.jpg
 tags: [lonerider, travel]
 categories: travel
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-people.jpg" class="img-fluid rounded z-depth-1" alt="The journey with the religious battalion" %}
+<div class="row mt-3 g-2">
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-gurudwara.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Dera Baba Nanak Gurudwara" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-gurudwara-rest.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Resting at the Mukerian gurdwara" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-friend.jpg" class="img-fluid rounded z-depth-1" alt="Take a break during the rain at Dera Baba Nanak" %}
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-people.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The journey with the religious battalion" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-sunset.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Morning sunrise" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-border2.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Dera Baba Nanak Gurudwara" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-gurudwara-rest.jpg" class="img-fluid rounded z-depth-1" alt="Resting at the Mukerian gurdwara" %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-with-all.jpg" class="img-fluid rounded z-depth-1" alt="With the gang at the border" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-sunset.jpg" class="img-fluid rounded z-depth-1" alt="Morning sunrise" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-langar.jpg" class="img-fluid rounded z-depth-1" alt="People pleading to have langar" %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-border2.jpg" class="img-fluid rounded z-depth-1" alt="Dera Baba Nanak Gurudwara" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-border.jpg" class="img-fluid rounded z-depth-1" alt="At the border of Pakistan" %}
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-friend.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Take a break during the rain at Dera Baba Nanak" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-langar.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="People pleading to have langar" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/derababa/derababa-border.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="At the border of Pakistan" %}
     </div>
 </div>
 
@@ -45,11 +32,6 @@ These were the words which I could hear all the time during the 3 days of the Pa
 Firstly, this yatra was the main reason I visited Punjab.
 Every year, on the 1st of March, in the remembrance of Guru Nanak Devi Ji, the first Sikh Guru, this yatra is carried out by hundreds of thousands of people.
 It is said that the guru settled and mingled with the God near the village named Kartarpur, a village right across the border in Pakistan. In Kartarpur, the first gurdwara was built also called as gurdwara Kartarpur Sahib, where Guru Nanak Ji died. Later, Guru's decedents built a new town in India called Dera Baba Nanak named after their ancestors.
-
-<figure>
-  <img src="/assets/img/blog/biketrip/derababa/derababa-gurudwara.jpg" alt="Dera Baba Nanak Gurudwara">
-  <figcaption>Dera Baba Nanak Gurudwara</figcaption>
-</figure>
 
 The journey happens for 3 days starting from the village of Dasuya to Dere Baba Nanak (border of Pakistan)
 which is roughly 90 km.

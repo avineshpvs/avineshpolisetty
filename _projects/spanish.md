@@ -2,7 +2,7 @@
 layout: page
 title: Learn Spanish
 description: Journey to fluency in Spanish — tracking progress, resources, and milestones.
-img:
+img: assets/img/blog/projects/spanish_learning.png
 importance: 5
 category: Personal
 ---

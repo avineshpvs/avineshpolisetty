@@ -3,30 +3,31 @@ layout: post
 title: "Punjab: The State of love"
 date: 2016-05-08 10:45:54
 description: Experiencing authentic Punjabi village life in Chandidas near Dasuya, from sleeping on charpais to riding three-up through the fields.
+thumbnail: /assets/img/blog/biketrip/mukheria/mukheria-dadi.jpg
 tags: [lonerider, travel]
 categories: travel
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-dadi.jpg" class="img-fluid rounded z-depth-1" alt="With Bhaisab and Dadi" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-dadi.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="With Bhaisab and Dadi" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-dadaji.jpg" class="img-fluid rounded z-depth-1" alt="Dadaji doing working on the carpentry" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-dadaji.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Dadaji doing working on the carpentry" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-couple.jpg" class="img-fluid rounded z-depth-1" alt="My hosts: Awesome couple, Bhaisab and Bulli aunty" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-couple.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="My hosts: Awesome couple, Bhaisab and Bulli aunty" %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-temple.jpg" class="img-fluid rounded z-depth-1" alt="Shiv temple has a story related to Pandavas during the Agyatvas" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-temple.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Shiv temple has a story related to Pandavas during the Agyatvas" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-forest.jpg" class="img-fluid rounded z-depth-1" alt="Early morning walk in the between the fields" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-forest.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Early morning walk in the between the fields" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-temple-top.jpg" class="img-fluid rounded z-depth-1" alt="View of the village from the top of the temple" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-temple-top.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="View of the village from the top of the temple" %}
     </div>
 </div>
 
@@ -67,10 +68,9 @@ Some how I always had the perception about the Punjabi families that they were a
 families ("khate peete families" - love for food and party) (Courtesy: Bollywood movies).
 They have interesting nicknames "Jassi", "Happy", "Lovely", "Ruby" and I really don't know how they come up with these nicknames. Surprisingly, girl and boy names are similar except for the endings. If it is a boy it ends with a Singh and for a girl it is Kaur (this rule works most of the times). The most important thing in their life where they don't compromise is the "Food". Paratha with makkhan (butter) and with a big glass of lassi is the most popular combination. My stomach was full all the time and I had to prepare myself to say no because they always fed two servings more after saying enough. Most of the Punjabi's are religious, following Sikh or Hindu traditions. I knew about the religion before but I got to know their belief system when I stayed with them. Of course it did not change my ideologies of being an Atheist but will talk about it in detail in my next blog post.
 
-<figure>
-  <img src="/assets/img/blog/biketrip/mukheria/mukheria-lucky.jpg" alt="In my ninja gear with Lovely">
-  <figcaption>In my ninja gear with Lovely</figcaption>
-</figure>
+<div style="float: left; max-width: 35%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/mukheria/mukheria-lucky.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="In my ninja gear with Lovely" caption="In my ninja gear with Lovely" %}
+</div>
 
 Initially my hosts were a bit skeptical whether I would be okay to stay at their place and whether
 I would like the place. After a few days they told me about their first doubts and my reply was
@@ -81,10 +81,7 @@ I like the village life for it's peaceful and scenic beauty.
 I did some unusual things which I usually don't get to do.
 I showered outdoors and saw the cows enjoying my naked view, slept on the foldable beds called Charpai, brushed teeth with bush branches, pumped water from the hand pumps for shower and morning strolls between the fields, rode 3 people on my bike for long distances inside the village (this was the exact feeling as in Swades :)).
 
-<figure>
-  <img src="/assets/img/blog/biketrip/mukheria/swades_pic.jpg" alt="My so called Swades feeling">
-  <figcaption>My so called Swades feeling</figcaption>
-</figure>
+<div style="clear: both;"></div>
 
 I also bonded really well with the kids as I was free for the day (thanks to the bad internet connectivity).
 I played badminton with kids and taught them some cool tricks in math.

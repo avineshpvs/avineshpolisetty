@@ -3,10 +3,11 @@ layout: post
 title: What is Happiness?
 date: 2008-09-06 06:25:22
 description: A six-hour discussion among four friends about what happiness truly means.
+thumbnail: /assets/img/blog/happiness.png
 tags: philosophy happiness
 categories: philosophy
 ---
-![image-center](/assets/img/blog/entrepreneurs-habit.jpg){:.align-center height="250px" width="300px"}
+{% include figure.liquid loading="eager" path="/assets/img/blog/happiness.png" class="img-fluid rounded z-depth-1" zoomable=true alt="What is Happiness?" %}
 
 This post is about one of my longest discussions ever (6 hours long).
 The discussion is about **"What is happiness to you?"**

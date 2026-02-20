@@ -3,10 +3,11 @@ layout: post
 title: 'Am I a "CHILD" or an "ADULT"?'
 date: 2009-02-05 06:49:32
 description: The most common question youngsters ask themselves -- have I grown up, and does it even matter?
+thumbnail: /assets/img/blog/always_child.png
 tags: philosophy family
 categories: philosophy
 ---
-![image-center](/assets/img/blog/always_child.jpg){: .align-center}
+{% include figure.liquid loading="eager" path="/assets/img/blog/always_child.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Am I a child or an adult?" %}
 
 The most common question that youngsters ask themselves: **"Am I a CHILD or an ADULT?"**
 Have I grown up? Am I mature enough to make my own decisions?

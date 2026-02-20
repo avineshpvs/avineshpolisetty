@@ -3,11 +3,12 @@ layout: post
 title: Reducing the Generation Gap
 date: 2008-10-04 13:22:06
 description: A personal story about bridging the generation gap through an honest conversation with my dad.
+thumbnail: /assets/img/blog/reducing_generation_gap.png
 tags: philosophy family
 categories: philosophy
 ---
 
-![image-center](/assets/img/blog/dad_son.jpg){: .align-center}
+{% include figure.liquid loading="eager" path="/assets/img/blog/reducing_generation_gap.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Reducing the Generation Gap" %}
 
 Dads are a great inspiration to their kids.
 Children always look up to their dad and try to be like them.

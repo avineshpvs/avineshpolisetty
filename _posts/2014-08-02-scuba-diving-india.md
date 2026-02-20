@@ -3,11 +3,12 @@ layout: post
 title: Scuba Diving in India
 date: 2014-08-02 07:11:12
 description: A comprehensive guide to scuba diving in India covering dive locations, costs, courses, and popular resorts across Andaman, Goa, Pondicherry, and more.
+thumbnail: /assets/img/blog/scuba/scuba_preview.png
 tags: adventure, travel
 categories: adventure
 ---
 
-![image-center](/assets/img/blog/scuba/scuba-preview.jpg)
+{% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba_preview.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Scuba Diving in India" %}
 Scuba diving is one of those adventure sports where you don't need to do much physical activity, rather enjoy the beauty of the nature.
 Its popularity has picked up in India.
 It is definitely one of the expensive sports, but a worthy one.

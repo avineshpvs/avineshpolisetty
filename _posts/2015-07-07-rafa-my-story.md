@@ -3,14 +3,14 @@ layout: post
 title: "Rafa: My story: 4/5"
 date: 2015-07-07 02:38:47
 description: A review of Rafael Nadal's autobiography, exploring his journey of hard work, family values, and what makes him one of tennis's greatest champions.
+thumbnail: /assets/img/blog/book-reviews/rafa-my-story.jpg
 tags: book review
 categories: book review
 ---
 
-<figure class="blog-img">
-  <img src="/assets/img/blog/book-reviews/rafa-my-story.jpg" alt="Rafa: My Story by Rafael Nadal">
-  <figcaption>Rafa: My Story</figcaption>
-</figure>
+<div style="float: left; max-width: 30%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/book-reviews/rafa-my-story.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Rafa: My Story by Rafael Nadal" caption="Rafa: My Story" %}
+</div>
 
 A perfect book for sports enthusiasts.
 Rafa is undoubtedly one of the few sportsperson who have built their career from sheer hard work and persistence.
@@ -60,3 +60,5 @@ The way he won those grand slams, coming out of a major injury and many more.
 Overall a gripping narrative about the life of Rafa Nadal.
 Rafa and the ghost author, John Carlin (author of Invictus) have pulled off an unorthodox memoir.
 I would give 4/5 for the book.
+
+<div style="clear: both;"></div>

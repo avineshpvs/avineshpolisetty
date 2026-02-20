@@ -3,9 +3,29 @@ layout: post
 title: Jaisalmer - The Golden City
 date: 2015-05-31 05:10:18
 description: Experiences from visiting Jaisalmer during a solo bike trip, including a friend's wedding, local culture, and places to visit like Longewalla and Sam dunes.
+thumbnail: /assets/img/blog/biketrip/jaisalmer/jaisalmer-fort.jpg
 tags: lonerider, travel
 categories: lonerider
 ---
+
+
+<div class="row mt-3 g-2">
+    <div class="col-4 d-flex flex-column gap-2">
+         {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-fort.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Jaisalmer Fort" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-lost-city-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture at Ghost town in the morning" %}
+    </div>
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-marriage.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Jaisalmer Marriage" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-station.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Farewell to friends at station" %}
+    </div>
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-camel.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Camel Ride in Jaisalmer desert" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-war.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="A tanker: memorial as a part of war" %}
+    </div>
+</div>
+
+
+
 
 Jaisalmer is called "the Golden City" and the secret is majority of the structures are made of yellow sand stone.
 In the above picture you can see how the fort glows under the lights.
@@ -67,9 +87,7 @@ So here are some of my experiences in Jaisalmer: (places to visit, likes, dislik
     As far as music is concerned the folk music is quite prominent.
     Below is a sample from Ritu Khan from Jaisalmer.
 
-    <div class="video-embed">
-    <iframe src="https://www.youtube.com/embed/M9xS1j0Su9A" frameborder="0" allowfullscreen></iframe>
-    </div>
+    <iframe src="https://www.youtube.com/embed/M9xS1j0Su9A" width="100%" height="480" frameborder="0" allowfullscreen style="border: 0; margin-bottom: 1rem;"></iframe>
     \\
     The dressing style is also quite unique. The "Pagadi" in Rajasthan is tied in a unique way.
     Traditional dresses reflect the colourful culture of Rajasthan.

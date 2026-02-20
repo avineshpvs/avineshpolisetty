@@ -3,19 +3,20 @@ layout: post
 title: "Ludhiana: Comfort zone (Delhi) to the land of love"
 date: 2016-01-16 11:45:02
 description: Recharging in Delhi before riding north to Ludhiana, where an incredible couchsurfing host and his family made Punjab feel like home.
+thumbnail: /assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg
 tags: [lonerider, travel]
 categories: travel
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg" class="img-fluid rounded z-depth-1" alt="with Sim Dhaliwal's Family" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="with Sim Dhaliwal's Family" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/ludhiana-2.jpg" class="img-fluid rounded z-depth-1" alt="Gurudwara in Mehdiana" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/ludhiana-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Gurudwara in Mehdiana" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/ludhiana-1.jpg" class="img-fluid rounded z-depth-1" alt="The cruelty of the Mughal's over Sikhs at Mehdiana (Punjab)" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/ludhiana-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The cruelty of the Mughal's over Sikhs at Mehdiana (Punjab)" %}
     </div>
 </div>
 
@@ -70,7 +71,13 @@ As he worked in the Railways Planning team, he had a lot of insights about the
 work culture inside government offices. He shared stories about various projects he took up during his tenure.
 He specifically mentioned about a project he took up in Ludhiana which saved crores for the Government.
 Karan (Sim's son) took me to play a football match with his friends on the next morning
-and we had a gala time together. Later in the day, Sim and Karan took me to their village to show me
+and we had a gala time together. 
+
+<div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/ludhiana-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The cruelty of the Mughal's over Sikhs at Mehdiana (Punjab)" caption="Mehdiana Sahib" %}
+</div>
+
+Later in the day, Sim and Karan took me to their village to show me
 their farms and we met their relatives. We also went to Mehdiana Sahib where the sculptures depict
 Mughal's torture on Sikhs. It was amazing to hear about the sheer will power of Sikhs.
 Do watch "[Chaar Sahibzaade](http://www.imdb.com/title/tt4168188/)" which is an animated
@@ -78,11 +85,10 @@ depiction of what happened during the Mughal reign.
 It was an awesome bike ride and finally to end the day on a high note, we went to a nice brewery
 to have a couple of beers.
 
-![The cruelty of the Mughal's over Sikhs at Mehdiana (Punjab)](/assets/img/blog/biketrip/ludhiana/ludhiana-1.jpg)
+<div style="clear: both;"></div>
 
-I really did not feel as an outsider,
-I felt was as if I came to my relatives house.
-I told Sim many times that he was just like one of my uncles.
+
+I really did not feel as an outsider, I felt was as if I came to my relatives house. I told Sim many times that he was just like one of my uncles.
 I would like to see myself as Sim - "The perfect family man one day.
 The friendly nature of the family, the awesome food by Bhabhiji and great hospitality of Sim scores 10/10
 for being a lovely host.

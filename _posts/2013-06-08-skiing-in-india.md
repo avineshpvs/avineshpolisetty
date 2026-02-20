@@ -3,11 +3,12 @@ layout: post
 title: Skiing in India
 date: 2013-06-08 06:54:51
 description: Skiing is an adventure sport with lots of adrenaline rush, and you can learn it affordably in India at IISM Gulmarg or ABVIMAS Manali.
+thumbnail: /assets/img/blog/skiing.jpg
 tags: adventure
 categories: adventure
 ---
 
-![image-center](/assets/img/blog/skiing.jpg){: .align-center height="350px" width="700px"}
+{% include figure.liquid loading="eager" path="/assets/img/blog/skiing.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Skiing in India" %}
 Skiing is an adventure sport which has lots of adrenaline rush.
 Well, I was first inspired by this sport when I saw kids in Lucerne, Switzerland skiing down the slopes of Schilthorn.
 4-5 years old kids just going down the hill which had some sharp turns.
@@ -25,12 +26,9 @@ I inquired at their website regarding various courses and booked a slot immediat
 This post is mainly for those who want to try this sport but just not crossing the line because of lack of information.
 
 <strong><a href="http://iismgulmarg.com/" title="Indian Institute of Skiing and Mountaineering">IISM Gulmarg</a></strong>
-<a href="http://iismgulmarg.com/">
-![image-center](/assets/img/blog/icons/website.png)</a>
-<a href="mailto:skitigers@gmail.com">
-![image-center](/assets/img/blog/icons/email.png)</a>
-<a href="https://www.facebook.com/groups/130710750411737/">
-![image-center](/assets/img/blog/icons/facebook.png)</a>
+<a href="http://iismgulmarg.com/" title="Website"><i class="fa-solid fa-globe fa-sm"></i></a>
+<a href="mailto:skitigers@gmail.com" title="Email"><i class="fa-solid fa-envelope fa-sm"></i></a>
+<a href="https://www.facebook.com/groups/130710750411737/" title="Facebook"><i class="fa-brands fa-facebook fa-sm"></i></a>
 
 **Course details:** [here](http://iismgulmarg.com/?page_id=29 "Course Details")
 **Cost:** Rs. 5,000/- < 25 years and Rs. 10,000 >= 25 years (includes accommodation, ski instruments and food. Cheap isn&#8217;t it, its subsidized by government)
@@ -93,12 +91,9 @@ My aim would be coming down the [Affarwat](http://wikimapia.org/13375531/Affarwa
 [More tips on travel here](http://goindia.about.com/od/mountains/p/Srinagar-Travel-Guide.htm "Srinagar Travel Guide")
 
 <strong><a href="http://www.adventurehimalaya.org/skiing.asp" title="Atal Bhihari Vajpayee Institute of Mountaineering and Allied Sports">ABVIMAS Manali(Solang)</a></strong>
-<a href="http://www.adventurehimalaya.org/skiing.asp">
-![image-center](/assets/img/blog/icons/website.png)</a>
-<a href="mailto:dmas_manali@yahoo.com">
-![image-center](/assets/img/blog/icons/email.png)</a>
-<a href="https://www.facebook.com/groups/130576133644176/">
-![image-center](/assets/img/blog/icons/facebook.png)</a>
+<a href="http://www.adventurehimalaya.org/skiing.asp" title="Website"><i class="fa-solid fa-globe fa-sm"></i></a>
+<a href="mailto:dmas_manali@yahoo.com" title="Email"><i class="fa-solid fa-envelope fa-sm"></i></a>
+<a href="https://www.facebook.com/groups/130576133644176/" title="Facebook"><i class="fa-brands fa-facebook fa-sm"></i></a>
 
 
 **Cost:**

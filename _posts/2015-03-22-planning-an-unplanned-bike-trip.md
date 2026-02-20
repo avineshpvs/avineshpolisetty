@@ -3,11 +3,13 @@ layout: post
 title: Planning an unplanned Bike Trip
 date: 2015-03-22 17:54:13
 description: Essential gear, gadgets, and tips for planning a solo motorcycle road trip across India.
+thumbnail: /assets/img/blog/biketrip/bike_trip_start.jpg
 tags: lonerider, travel
 categories: lonerider
 ---
 
-![image-center](/assets/img/blog/biketrip/bike_trip_start.jpg)
+{% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/bike_trip_start.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Planning an unplanned bike trip" %}
+
 As you all know I am on an unplanned journey riding my bike across India. There is definitely a little planning involved in an unplanned Bike Trip.
 
   * **Get the right gear for riding.**

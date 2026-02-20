@@ -3,11 +3,13 @@ layout: post
 title: "My Transformation: Skinny -> Bulky -> Ripped"
 date: 2014-06-29 05:52:22
 description: My fitness journey from skinny to bulky to ripped, with practical Q&A on workouts, diet, supplements, and staying consistent.
+thumbnail: /assets/img/blog/six_pack_1.png
 tags: fitness
 categories: fitness
 ---
 
-![image-center](/assets/img/blog/before-after-pics.jpg)
+{% include figure.liquid loading="eager" path="/assets/img/blog/six_pack_1.png" class="img-fluid rounded z-depth-1" zoomable=true alt="My Transformation: Skinny to Bulky to Ripped" %}
+
 Before starting I want to tell that I am not an Actor, I am not a Fitness model, I am not a Fitness guru.
 I have a day job which I love and fitness has always been one of the important things in my life.
 I am not writing this to show off, I am writing mainly because I want to share my journey and even if I motivate one person at the end of the day I will be a happy man.

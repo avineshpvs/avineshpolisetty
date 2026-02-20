@@ -3,11 +3,12 @@ layout: post
 title: My Memorable First Goal in Football
 date: 2008-09-24 11:03:38
 description: The story of my debut football match and my unforgettable first goal -- a self goal.
+thumbnail: /assets/img/blog/owngoal.png
 tags: sports football
 categories: sports
 ---
 
-![image-center](/assets/img/blog/owngoal.jpg){: .align-center}
+{% include figure.liquid loading="eager" path="/assets/img/blog/owngoal.png" class="img-fluid rounded z-depth-1" zoomable=true alt="My memorable first goal in football" %}
 
 **Football:** 1 ball, 22 players. At any given time, only one player holds the ball. The probability that one holds the ball depends on the team that one is playing against. I wasn't a good player but used to play this sport at school. The only game I didn't play in my 4 years at IIIT-H for my house (Aakash).
 

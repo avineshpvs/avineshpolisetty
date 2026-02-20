@@ -3,12 +3,13 @@ layout: post
 title: "Buzo Junior: A brief journey"
 date: 2015-08-25 07:00:59
 description: A heartfelt letter dedicated to Buzo Junior, sharing a story of adoption, love, and loss.
+thumbnail: /assets/img/blog/buzo.jpeg
 tags: [blog]
 categories: blog
 ---
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/mNgCAxcp428" frameborder="0" allowfullscreen></iframe>
+<div class="ratio ratio-16x9 mb-3">
+  <iframe src="https://www.youtube.com/embed/mNgCAxcp428" frameborder="0" allowfullscreen></iframe>
 </div>
 
 A lot of people complained that I didn't call them before coming to Germany.

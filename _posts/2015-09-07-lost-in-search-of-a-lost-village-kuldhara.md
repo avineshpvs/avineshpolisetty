@@ -3,16 +3,17 @@ layout: post
 title: Lost in search of a lost village (Kuldhara)
 date: 2015-09-07 05:35:27
 description: A solo bike ride to find the haunted lost village of Kuldhara in Jaisalmer that turned into a desert misadventure.
+thumbnail: /assets/img/blog/biketrip/jaisalmer/jaisalmer-lost-city.jpg
 tags: [lonerider, travel]
 categories: travel
 ---
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmar/jaisalmar-lost-city.jpg" class="img-fluid rounded z-depth-1" alt="The lost village of Kuldhara" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-lost-city.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The lost village of Kuldhara" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmar/jaisalmar-desert.jpg" class="img-fluid rounded z-depth-1" alt="Lost: The only picture I managed to click" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/jaisalmer/jaisalmer-desert.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Lost: The only picture I managed to click" %}
     </div>
 </div>
 

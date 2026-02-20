@@ -2,7 +2,7 @@
 layout: page
 title: Book Reviews
 description: Sharing thoughts on books across sports, travel, self-improvement, and more.
-img: assets/img/blog/book-reviews/book-reviews.png
+img: assets/img/blog/projects/book-reviews.png
 importance: 4
 category: Personal
 ---

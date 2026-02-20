@@ -3,10 +3,11 @@ layout: post
 title: "Equality & Freedom"
 date: 2009-04-27 06:56:51
 description: A conversation among three friends about freedom, equality, and the different expectations placed on men and women.
+thumbnail: /assets/img/blog/equality_freedom.png
 tags: philosophy equality freedom
 categories: philosophy
 ---
-![image-center](/assets/img/blog/boysvsgirls.jpg){: .align-center}
+{% include figure.liquid loading="eager" path="/assets/img/blog/equality_freedom.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Equality & Freedom" %}
 
 It's about 3 friends discussing their future, freedom, and enjoyment in life.
 At 23, it's a usual scenario that when young minds meet, these are the topics that come to mind.

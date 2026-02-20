@@ -3,27 +3,23 @@ layout: post
 title: "An authentic experience of a Rajasthani village: (Rusirani)"
 date: 2015-12-06 08:47:26
 description: Village tourism at Rusirani with a great initiative of girl child education and village development near Alwar, Rajasthan.
+thumbnail: /assets/img/blog/biketrip/rusirani/rusirani-preview.jpg
 tags: [lonerider, travel]
 categories: travel
 ---
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-temple-ruins.jpg" class="img-fluid rounded z-depth-1" alt="Ancient temple ruins at Rusirani" %}
+<div class="row mt-3 g-2">
+    <div class="col-4 d-flex flex-column gap-2">
+         {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-preview.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="We climbed these walls and entered the fort (risky)" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-view.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Awesome view from the top of the fort" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-hukka.jpg" class="img-fluid rounded z-depth-1" alt="The hukka with the young man" %}
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-hukka.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The hukka with the young man" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-villagers.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Farewell at the village" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-fort.jpg" class="img-fluid rounded z-depth-1" alt="We climbed these walls and entered the fort (risky)" %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-view.jpg" class="img-fluid rounded z-depth-1" alt="Awesome view from the top of the fort" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-villagers.jpg" class="img-fluid rounded z-depth-1" alt="Farewell at the village" %}
+    <div class="col-4 d-flex flex-column gap-2">
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-fort.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="We climbed these walls and entered the fort (risky)" %}
+        {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/rusirani/rusirani-temple-ruins.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Ancient temple ruins at Rusirani" %}
     </div>
 </div>
 

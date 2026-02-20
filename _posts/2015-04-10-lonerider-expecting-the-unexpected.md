@@ -3,11 +3,12 @@ layout: post
 title: "LoneRider: Expecting the Unexpected"
 date: 2015-04-10 13:50:33
 description: The first leg of my solo bike road trip from Jodhpur to Jaisalmer, featuring an unforgettable mishap in the Rajasthan desert.
+thumbnail: /assets/img/blog/lonerider.jpg
 tags: lonerider, travel
 categories: lonerider
 ---
 
-![image-center](/assets/img/blog/lonerider.jpg)
+{% include figure.liquid loading="eager" path="/assets/img/blog/lonerider.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="LoneRider: Expecting the Unexpected" %}
 **First journey of the road trip (285 km: Jodhpur to Jaisalmer)**
 
 Feb 2nd was my last working day with IBM Watson.

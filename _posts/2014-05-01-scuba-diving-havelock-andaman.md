@@ -3,11 +3,13 @@ layout: post
 title: Scuba Diving in Havelock (Andaman)
 date: 2014-05-01 02:54:51
 description: A solo trip to Havelock Island for PADI Open Water and Advanced scuba diving courses with DiveIndia, complete with travel tips and dive site reviews.
+thumbnail: /assets/img/blog/scuba/scuba-andaman.png
 tags: adventure
 categories: adventure
 ---
 
-![image-center](/assets/img/blog/scuba/scuba-preview.jpg){: .align-center height="350px" width="620px"}
+{% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-andaman.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Scuba Diving in Havelock" %}
+
 Long awaited vacation since I joined the corporate world (IBM Watson).
 You come to a new place, settle down and by the time you know 6 months are already over.
 Scuba diving was pending from a long time to be ticked off from my adventure list.
@@ -71,6 +73,10 @@ Meanwhile someone gave a good tip for DiveIndia and they bought a crate of beer.
 So we were just talking to the instructors sharing our experiences having a beer & most importantly celebrating our Open Water graduation (You are not advised to drink and dive but we just had one mug).
 I went back and finished off my exam and yes PADI exam was more fun.
 
+<div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-friends1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Vikram, Peter, Me, Claudius" caption="Vikram, Peter, Me, Claudius" %}
+</div>
+
 We finished off our basic skills of Advanced on the first day i.e. Navigation (use of compass).
 As usual I suck at compass and directions.
 I followed the instructions but I didn't reach the place I started.
@@ -85,10 +91,12 @@ Of course Claudius didn't allow him to piss on him.
 Another funny discussion was when I shared the info from Discovery that [pee attracts sharks](http://www.surftravelcompany.com/PEEING-IN-WATER.htm "Peeing attracts sharks?") and Peter was like dude I pee all the time but I don't see a shark.
 We had a long discussion on how to attract sharks just to have a glimpse of them :D.
 
-![image-center](/assets/img/blog/scuba/scuba-friends1.jpg){: .align-center height="350px" width="620px"}
-<p align="center">
-    Vikram, Peter, Me, Claudius
-</p>
+<div style="clear: both;"></div>
+
+<div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-friends-amit-shiv.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Amit, Seshmani & Me" caption="Amit, Seshmani & Me" %}
+</div>
+
 
 After the course I finished of all my dives and my buddies left the island.
 I was there for 2 more days, as I had one extra dive day (bonus).
@@ -98,10 +106,7 @@ Best sunset you could get on the islands.
 On our way back too we had to run because it was getting dark and it was a forest.
 We all had some great fun together playing beach volleyball and defeating the locals.
 
-![image-center](/assets/img/blog/scuba/scuba-friends-amit-shiv.jpg)
-<p align="center">
-    Amit, Seshmani & Me
-</p>
+<div style="clear: both;"></div>
 
 The vacation was almost over and I was really sad to leave the island.
 I was playing volleyball even 1 hr before the departure of the ferry.
@@ -204,11 +209,6 @@ _**Tips and Tricks:**_
     If you have a water proof camera it is also useful for some under water beach photography.
     My Olympus M-tough was quite a useful gadget to take photographs with the waves.
 
-    ![image-center](/assets/img/blog/scuba/scuba-water.jpg)
-    <p align="center">
-    Olympus M-tough picture
-    </p>
-
   * Don't worry about the accommodation it is really nice.
   They cater all types from luxurious to budget ones.
   If you are like Peter, you need not worry about accommodation at all.
@@ -237,27 +237,29 @@ _**Tips and Tricks:**_
     I still don't understand how they are withstanding the competition.
 
   * Don't miss Radhanagar beach and Elephant beach.
-    **Radhanagar beach** is one of the cleanest beach (no rocks at all) I had ever seen in my life.
+
+  <div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-elephant-beach.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Sunset at Radhanagar Beach" caption="Sunset at Radhanagar Beach" %}
+</div>
+
+  **Radhanagar beach** is one of the cleanest beach (no rocks at all) I had ever seen in my life.
     If you are lucky you get to see an Elephant (Rajan).
     o see Rajan the elephant, head to Neil's Cove in the morning before breakfast.
     As per Lonely Planet you are supposed to see a nice sunset here but guess what you can see a perfect one in Elephant beach.
 
-    ![image-center](/assets/img/blog/scuba/scuba-elephant.jpg)
-    <p align="center">
-    Elephant at Radhanagar Beach
-    </p>
 
+<div style="clear: both;"></div>
 
+  <div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
+    {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-elephant.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Sunset at Radhanagar Beach" caption="Sunset at Radhanagar Beach" %}
+</div>
 
-   **Elephant beach:** Heard it is good for snorkeling.
+  **Elephant beach:** Heard it is good for snorkeling.
    Nice trek inside the forest roughly around 35-45 mins walk.
    Of course if you are running out of time (like us) or enthusiastic you can run and reach in 15 mins.
 
-   ![image-center](/assets/img/blog/scuba/scuba-elephant-beach.jpg)
+<div style="clear: both;"></div>
 
-   <p align="center">
-   Sunset at Radhanagar Beach
-   </p>
 
   * Cellular Jail in Portblair:
     "Cellular Jail" or famously known as "Kala Pani Jail".
