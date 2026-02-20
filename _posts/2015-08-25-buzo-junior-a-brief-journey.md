@@ -8,9 +8,7 @@ tags: [blog]
 categories: blog
 ---
 
-<div class="ratio ratio-16x9 mb-3">
-  <iframe src="https://www.youtube.com/embed/mNgCAxcp428" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/mNgCAxcp428" width="100%" height="480" frameborder="0" allowfullscreen style="border: 0; margin-bottom: 1rem;"></iframe>
 
 A lot of people complained that I didn't call them before coming to Germany.
 The main reason why I couldn't call was that I lost someone really close and it was quite hard on me.

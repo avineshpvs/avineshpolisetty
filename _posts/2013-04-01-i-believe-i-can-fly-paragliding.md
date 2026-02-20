@@ -8,7 +8,7 @@ tags: adventure paragliding
 categories: adventure
 ---
 
-![image-center](/assets/img/blog/paragliding-p1.jpg){: .align-center}
+{% include figure.liquid loading="eager" path="/assets/img/blog/paragliding-p1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Paragliding Course" %}
 
 "I believe I can fly" — this is how it feels when you are literally high.
 For adventure freaks, paragliding is yet another fascinating sport.
@@ -50,8 +50,6 @@ Things to note before registering for a course:
 
 After the end of the course, I am definitely **Paraddicted**. I was to get my certification last year, but since I got injured during my P2 course, I had to leave back to home. It's my fear of heights and climatic conditions that caused the accident. I was lucky enough to be saved with just minor injuries. Unfortunately, I couldn't get time to get back to Pune to finish my course. I am looking forward to getting my license soon.
 
-<div class="video-embed">
-<iframe src="https://www.youtube.com/embed/7N_TIv6pY-8pZi6aE2iglM" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.youtube.com/embed/7N_TIv6pY-8pZi6aE2iglM" width="100%" height="480" frameborder="0" allowfullscreen style="border: 0; margin-bottom: 1rem;"></iframe>
 
 For pictures: [Course 1](https://plus.google.com/photos/116205245131037308347/albums/5681134885624027329)
