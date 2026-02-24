@@ -4,6 +4,14 @@
 
 @use "variables" as v;
 
+// Medium-zoom: show full uncropped original image when zoomed
+.medium-zoom-image--opened {
+  object-fit: contain !important;
+  width: auto !important;
+  height: auto !important;
+  max-height: 90vh !important;
+}
+
 // Code and syntax highlighting
 
 figure.highlight {
@@ -181,12 +189,12 @@ nav[data-toggle="toc"] {
   top: 5rem;
 
   .nav .nav > li > a {
-    font-size: 0.75rem;
+    font-size: 0.85rem;
   }
 
   .nav > li > a {
     color: var(--global-text-color);
-    font-size: 0.75rem;
+    font-size: 1rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -197,7 +205,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: 0.75rem;
+    font-size: 1rem;
 
     &:hover {
       color: var(--global-hover-color);

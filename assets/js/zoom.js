@@ -1,6 +1,6 @@
 // Initialize medium zoom.
 $(document).ready(function () {
-  medium_zoom = mediumZoom("[data-zoomable]", {
+  medium_zoom = mediumZoom("[data-zoom-src]", {
     background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee", // + 'ee' for trasparency.
   });
 });

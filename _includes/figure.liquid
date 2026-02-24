@@ -69,7 +69,7 @@
         title="{{ include.title }}"
       {% endif %}
       {% if include.zoomable %}
-        data-zoomable
+        data-zoom-src="{{ include.path | relative_url }}"
       {% endif %}
       {% if include.loading %}
         loading="{{ include.loading }}"
