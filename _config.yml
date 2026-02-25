@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: avinesh, polisetty, nlp, machine-learning, apple, research, travel, adventure
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://avineshpolisetty.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -261,8 +261,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["philosophy", "adventure", "travel", "fitness", "sports"] # these tags will be displayed on the front page of your blog
 display_categories: ["lonerider"] # these categories will be displayed on the front page of your blog

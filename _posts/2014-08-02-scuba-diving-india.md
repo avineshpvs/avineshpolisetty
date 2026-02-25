@@ -4,7 +4,7 @@ title: Scuba Diving in India
 date: 2014-08-02 07:11:12
 description: A comprehensive guide to scuba diving in India covering dive locations, costs, courses, and popular resorts across Andaman, Goa, Pondicherry, and more.
 thumbnail: /assets/img/blog/scuba/scuba_preview.png
-tags: adventure, travel
+tags: [adventure, travel]
 categories: adventure
 ---
 

@@ -4,7 +4,7 @@ title: Planning an unplanned Bike Trip
 date: 2015-03-22 17:54:13
 description: Essential gear, gadgets, and tips for planning a solo motorcycle road trip across India.
 thumbnail: /assets/img/blog/biketrip/bike_trip_start.jpg
-tags: lonerider, travel
+tags: [lonerider, travel]
 categories: lonerider
 ---
 

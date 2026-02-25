@@ -4,7 +4,7 @@ title: "LoneRider: Expecting the Unexpected"
 date: 2015-04-10 13:50:33
 description: The first leg of my solo bike road trip from Jodhpur to Jaisalmer, featuring an unforgettable mishap in the Rajasthan desert.
 thumbnail: /assets/img/blog/lonerider.jpg
-tags: lonerider, travel
+tags: [lonerider, travel]
 categories: lonerider
 ---
 

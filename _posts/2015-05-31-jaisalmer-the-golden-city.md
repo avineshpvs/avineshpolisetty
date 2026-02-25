@@ -4,7 +4,7 @@ title: Jaisalmer - The Golden City
 date: 2015-05-31 05:10:18
 description: Experiences from visiting Jaisalmer during a solo bike trip, including a friend's wedding, local culture, and places to visit like Longewalla and Sam dunes.
 thumbnail: /assets/img/blog/biketrip/jaisalmer/jaisalmer-fort.jpg
-tags: lonerider, travel
+tags: [lonerider, travel]
 categories: lonerider
 ---
 
