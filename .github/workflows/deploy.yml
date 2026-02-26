@@ -99,8 +99,8 @@ jobs:
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Deploy to Cloudflare Pages 🚀
-	uses: cloudflare/wrangler-action@v3
-	with:
-	  apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-    	  accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-	  command: pages deploy _site --project-name=avineshpolisetty
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy _site --project-name=avineshpolisetty
