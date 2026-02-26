@@ -66,7 +66,7 @@ html[data-theme="dark"] {
 .bl-hero-count span { color: #059669 !important; }
 .bl-hero-label { font-size: 0.55rem; opacity: 0.8; margin: 0.1rem 0 0 0; color: #ffffff !important; }
 .bl-progress-bar { height: 3px; background: rgba(255,255,255,0.15); border-radius: 100px; margin: 0.35rem auto 0; max-width: 100px; }
-.bl-progress-fill { height: 100%; width: 21%; background: linear-gradient(90deg, var(--bl-primary), var(--bl-primary-light)); border-radius: 100px; } /* 22/107 ≈ 21% */
+.bl-progress-fill { height: 100%; width: 22%; background: linear-gradient(90deg, var(--bl-primary), var(--bl-primary-light)); border-radius: 100px; } /* 24/111 ≈ 22% */
 
 /* Intro */
 .bl-intro { color: var(--bl-gray); font-size: 0.85rem; line-height: 1.7; margin-bottom: 1.5rem; }
@@ -107,9 +107,8 @@ html[data-theme="dark"] {
 .bl-achievement-body {
   flex: 1;
   padding: 0.75rem 0 0.75rem 0.75rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  display: block;
+  align-self: center;
   order: 1;
 }
 .bl-achievement-img {
@@ -117,6 +116,17 @@ html[data-theme="dark"] {
   min-height: 100px;
   overflow: hidden;
   order: 2;
+}
+/* Multi-image grid wrapper — wraps images into rows of 3 */
+.bl-achievement-imgs {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 0 auto;
+  max-width: 420px; /* 3 × 140px */
+  order: 2;
+}
+.bl-achievement-imgs .bl-achievement-img {
+  order: unset;
 }
 .bl-achievement-img img {
   width: 100%;
@@ -135,14 +145,17 @@ html[data-theme="dark"] {
   border-radius: 5px;
   font-size: 0.65rem;
   font-weight: 600;
-  margin-bottom: 0.35rem;
+  margin-right: 0.4rem;
+  vertical-align: middle;
 }
 .bl-achievement-title {
+  display: inline;
   font-size: 0.85rem;
   font-weight: 600;
   color: var(--bl-done);
-  margin: 0 0 0.25rem 0;
+  margin: 0;
   line-height: 1.3;
+  vertical-align: middle;
 }
 .bl-achievement-meta {
   font-size: 0.7rem;
@@ -172,9 +185,8 @@ html[data-theme="dark"] {
 .bl-video-body {
   flex: 1;
   padding: 0.75rem 0 0.75rem 0.75rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  display: block;
+  align-self: center;
   order: 1;
 }
 .bl-video-embed {
@@ -222,7 +234,7 @@ html[data-theme="dark"] {
 <!-- Hero -->
 <div class="bl-hero">
   <p class="bl-hero-title">Life Goals Progress</p>
-  <p class="bl-hero-count"><span>22</span> / 107</p>
+  <p class="bl-hero-count"><span>24</span> / 111</p>
   <p class="bl-hero-label">Adventures Completed</p>
   <div class="bl-progress-bar"><div class="bl-progress-fill"></div></div>
 </div>
@@ -251,7 +263,9 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <a class="bl-link" href="https://cmoreira.net/visited-countries-map/?vcstitle=Countries%20Visited&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=IN,JP,MY,SG,TH,AE,AT,BE,CZ,FR,DE,HU,IT,LU,NL,NO,PT,RO,RS,SI,ES,SE,CH,GB,CA,US,BR,CO,AU&">🗺️ View Countries Map</a>
   <div class="bl-achievement-card done">
-    <div class="bl-achievement-img"><img src="/assets/img/blog/biketrip/bike_trip.jpg" alt="Road trip" data-zoom-src="/assets/img/blog/biketrip/bike_trip.jpg"></div>
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/blog/biketrip/bike_trip.jpg" alt="Road trip" data-zoom-src="/assets/img/blog/biketrip/bike_trip.jpg"></div>
+    </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">9</div>
       <h3 class="bl-achievement-title">Road trip across India</h3>
@@ -259,7 +273,9 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     </div>
   </div>
   <div class="bl-achievement-card done">
-    <div class="bl-achievement-img"><img src="/assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg" alt="Couchsurfing" data-zoom-src="/assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg"></div>
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg" alt="Couchsurfing" data-zoom-src="/assets/img/blog/biketrip/ludhiana/couch_surfing_sim.jpg"></div>
+    </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">10</div>
       <h3 class="bl-achievement-title">Couchsurfing trip</h3>
@@ -290,15 +306,30 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">23</div><div class="bl-item-content">San Fermin — Run with the Bulls (Pamplona, Spain)</div></div>
-    <div class="bl-item done"><div class="bl-item-num">24</div><div class="bl-item-content">Oktoberfest (Munich, Germany)<span class="bl-item-date">Done</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/octoberfest_2012.JPG" alt="Oktoberfest, 2012" data-zoom-src="/assets/img/bucket_list/octoberfest_2012.JPG"></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/octoberfest_2012_2.JPG" alt="Oktoberfest, 2012" data-zoom-src="/assets/img/bucket_list/octoberfest_2012_2.JPG"></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/octoberfest_2012.JPG" alt="Oktoberfest, 2012" data-zoom-src="/assets/img/bucket_list/octoberfest_2012.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/octoberfest_2012_2.JPG" alt="Oktoberfest, 2012" data-zoom-src="/assets/img/bucket_list/octoberfest_2012_2.JPG"></div>
     </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">24</div>
+      <h3 class="bl-achievement-title">Oktoberfest (Munich, Germany)</h3>
+      <p class="bl-achievement-meta">2012 — Munich, Germany</p>
+    </div>
+  </div>
+  <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">25</div><div class="bl-item-content">La Tomatina (Bunol, Spain)</div></div>
     <div class="bl-item"><div class="bl-item-num">26</div><div class="bl-item-content">Carnival (Rio de Janeiro, Brazil)</div></div>
     <div class="bl-item"><div class="bl-item-num">27</div><div class="bl-item-content">Burning Man (Black Rock Desert, Nevada, USA)</div></div>
     <div class="bl-item"><div class="bl-item-num">28</div><div class="bl-item-content">Día de los Muertos (Oaxaca, Hanal Pixán, San Miguel, Mexico)</div></div>
-    <div class="bl-item done"><div class="bl-item-num">29</div><div class="bl-item-content">Indian Republic/Independence Day Parade (Delhi)<span class="bl-item-date">2013</span></div></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">29</div>
+      <h3 class="bl-achievement-title">Indian Republic/Independence Day Parade</h3>
+      <p class="bl-achievement-meta">2013 — Delhi, India</p>
+    </div>
   </div>
 </div>
 
@@ -316,18 +347,34 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <p class="bl-achievement-meta">- 2011 - <a href="/blog/2013/i-believe-i-can-fly-paragliding/">P1 course</a>, Kamshet, India</p>
     </div>
   </div>
-  <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">31</div><div class="bl-item-content">Learn Skiing (3 courses at IISM Gulmarg)<span class="bl-item-date">Done</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/skiing_gulmarg.JPG" alt="Skiing in Gulmarg" data-zoom-src="/assets/img/bucket_list/skiing_gulmarg.JPG"></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/skiing_tahoe.jpg" alt="Skiing in Tahoe" data-zoom-src="/assets/img/bucket_list/skiing_tahoe.jpg"></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/skiing_alps.jpg" alt="Skiing in Widderstein, Alps" data-zoom-src="/assets/img/bucket_list/skiing_alps.jpg"></div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/surfing_spain_2012.JPG" alt="2012 - Surfing in Santander, Spain" data-zoom-src="/assets/img/bucket_list/surfing_spain_2012.JPG"></div>
     </div>
-    <div class="bl-item done"><div class="bl-item-num">32</div><div class="bl-item-content">Surfing (Santander, Spain)<span class="bl-item-date">2012</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/surfing_spain_2012.JPG" alt="2012 - Surfing in Santander, Spain" data-zoom-src="/assets/img/bucket_list/surfing_spain_2012.JPG"></div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">31</div>
+      <h3 class="bl-achievement-title">Skiing </h3>
+      <p class="bl-achievement-meta"> 2012 — Santander, Spain</p>
     </div>
   </div>
   <div class="bl-achievement-card done">
-    <div class="bl-achievement-img"><img src="/assets/img/blog/scuba/scuba_preview.png" alt="Scuba diving" data-zoom-src="/assets/img/blog/scuba/scuba_preview.png"></div>
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/skiing_gulmarg.JPG" alt="Skiing in Gulmarg" data-zoom-src="/assets/img/bucket_list/skiing_gulmarg.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/skiing_tahoe.jpg" alt="Skiing in Tahoe" data-zoom-src="/assets/img/bucket_list/skiing_tahoe.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/skiing_alps.jpg" alt="Skiing in Widderstein, Alps" data-zoom-src="/assets/img/bucket_list/skiing_alps.jpg"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">32</div>
+      <h3 class="bl-achievement-title">Sufring </h3>
+      <p class="bl-achievement-meta"> 2011 — Gulmarg, India</p>
+      <p class="bl-achievement-meta"> 2017 — Alps, Austria</p>
+      <p class="bl-achievement-meta"> 2019 — Tahoe, USA</p>
+    </div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/blog/scuba/scuba_preview.png" alt="Scuba diving" data-zoom-src="/assets/img/blog/scuba/scuba_preview.png"></div>
+    </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">33</div>
       <h3 class="bl-achievement-title">Scuba Diving </h3>
@@ -340,7 +387,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-video-body">
       <div class="bl-achievement-num">34</div>
       <h3 class="bl-achievement-title">Bungee Jump</h3>
-      <p class="bl-achievement-meta">1. 2015 - Rishikesh, India <br/> 2. 2016 - Belgrade, Serbia</p>
+      <p class="bl-achievement-meta">2015 - Rishikesh, India <br/> 2016 - Belgrade, Serbia</p>
     </div>
   </div>
   <div class="bl-items">
@@ -349,10 +396,18 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-item"><div class="bl-item-num">37</div><div class="bl-item-content">Horse Riding</div></div>
     <div class="bl-item"><div class="bl-item-num">38</div><div class="bl-item-content">Ride in hot-air balloon</div></div>
     <div class="bl-item"><div class="bl-item-num">39</div><div class="bl-item-content">Swim with Dolphins</div></div>
-    <div class="bl-item done"><div class="bl-item-num">40</div><div class="bl-item-content">Desert dune bashing (self-drive)<span class="bl-item-date">Done</span></div>
-     <div class="bl-achievement-img">
-    <img src="/assets/img/bucket_list/dubai_dune_bashing.jpg" alt="2015 - Dubai - Dune Bashing" data-zoom-src="/assets/img/bucket_list/dubai_dune_bashing.jpg"></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/dubai_dune_bashing.jpg" alt="2015 - Dubai - Dune Bashing" data-zoom-src="/assets/img/bucket_list/dubai_dune_bashing.jpg"></div>
     </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">40</div>
+      <h3 class="bl-achievement-title">Desert dune bashing (self-drive) </h3>
+      <p class="bl-achievement-meta"> 2015 — Dubai Fun Drive</p>
+    </div>
+  </div>  
+  <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">41</div><div class="bl-item-content">Participate in Amazing Race</div></div>
     <div class="bl-item"><div class="bl-item-num">42</div><div class="bl-item-content">Dive at Raja Ampat, Indonesia</div></div>
     <div class="bl-item"><div class="bl-item-num">43</div><div class="bl-item-content">Dive at the Red Sea, Egypt</div></div>
@@ -367,40 +422,71 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">💪</div>
     <h2 class="bl-section-title">Fitness Goals</h2>
   </div>
+  <p class="bl-note">Running</p>
   <div class="bl-achievement-card done">
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_kaveri_half_marathon.jpg" alt="Half Marathon" data-zoom-src="/assets/img/bucket_list/2014_kaveri_half_marathon.jpg"> </div>
-    <div class="bl-achievement-img">
-    <img src="/assets/img/bucket_list/2014_kaveri_half_marathon_time.png" alt="Half Marathon Time" data-zoom-src="/assets/img/bucket_list/2014_kaveri_half_marathon_time.png">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2012_mumbai_half_marathon.jpg" alt="Mumbai Half Marathon 2012" data-zoom-src="/assets/img/bucket_list/2012_mumbai_half_marathon.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_kaveri_half_marathon.jpg" alt="Kaveri Half Marathon 2014" data-zoom-src="/assets/img/bucket_list/2014_kaveri_half_marathon.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_kaveri_half_marathon_time.png" alt="Kaveri Half Marathon Time 2014" data-zoom-src="/assets/img/bucket_list/2014_kaveri_half_marathon_time.png"></div>
     </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">46</div>
       <h3 class="bl-achievement-title">Run a Half Marathon</h3>
-      <p class="bl-achievement-meta">2010-14 — Kaveri Trail (1:55:07)</p>
+      <p class="bl-achievement-meta">2012 — Mumbai Half Marathon</p>
+      <p class="bl-achievement-meta">2014 — Kaveri Trail (1:55:07)</p>
     </div>
   </div>
+  <div class="bl-items">
+    <div class="bl-item"><div class="bl-item-num">47</div><div class="bl-item-content">Run a Marathon</div></div>
+    <div class="bl-item"><div class="bl-item-num">48</div><div class="bl-item-content">Spartan Trifecta</div></div>
+  </div>
+  <p class="bl-note">Triathlon & Swim</p>
   <div class="bl-achievement-card done">
-    <div class="bl-achievement-img"><img src="/assets/img/blog/hyderabad_triathlon.jpg" alt="Triathlon" data-zoom-src="/assets/img/blog/hyderabad_triathlon.jpg"></div>
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/blog/hyderabad_triathlon.jpg" alt="Hyderabad Triathlon 2014" data-zoom-src="/assets/img/blog/hyderabad_triathlon.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_hyd_triathlon_timing.png" alt="Hyderabad Triathlon Timing 2014" data-zoom-src="/assets/img/bucket_list/2014_hyd_triathlon_timing.png"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2017_darmstadt_triathlon.png" alt="Darmstadt Triathlon 2017" data-zoom-src="/assets/img/bucket_list/2017_darmstadt_triathlon.png"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2012_santa_cruz_triathlon.jpeg" alt="Santa Cruz Triathlon 2012" data-zoom-src="/assets/img/bucket_list/2012_santa_cruz_triathlon.jpeg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg" alt="Santa Cruz Triathlon Timing 2022" data-zoom-src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg"></div>
+    </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">47</div>
+      <div class="bl-achievement-num">49</div>
       <h3 class="bl-achievement-title">Run a Triathlon</h3>
-      <p class="bl-achievement-meta">2015 — Olympic Triathlon (4:15:07)</p>
+      <p class="bl-achievement-meta">2014 — Hyderabad, India (Olympic, 4:15:07)</p>
+      <p class="bl-achievement-meta">2017 — Darmstadt, Germany (Sprint, 1:49:27)</p>
+      <p class="bl-achievement-meta">2022 — Santa Cruz, USA (Olympic, 3:12:25)</p>
     </div>
   </div>
-  <div class="bl-achievement-card done">
-    <div class="bl-achievement-img"><img src="/assets/img/blog/six_pack.jpg" alt="Six Pack" data-zoom-src="/assets/img/blog/six_pack.jpg"></div>
-    <div class="bl-achievement-body">
-      <div class="bl-achievement-num">48</div>
-      <h3 class="bl-achievement-title">Six pack abs</h3>
-      <a href="/blog/2013/i-believe-i-can-fly-paragliding/">2015 - Attempt 1 </a>
-      <a href="/blog/2013/i-believe-i-can-fly-paragliding/">2026 - Attempt 2 </a>
-    </div>
+  <div class="bl-items">
+  <div class="bl-item"><div class="bl-item-num">50</div><div class="bl-item-content">Run an Ironman</div></div>
   </div>
 
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_donner_swim.jpg" alt="Donner Lake Swim 2022" data-zoom-src="/assets/img/bucket_list/2022_donner_swim.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_donner_swim_2.jpg" alt="Donner Lake Swim 2022" data-zoom-src="/assets/img/bucket_list/2022_donner_swim_2.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_donner_lake_swim_timing.jpg" alt="Donner Lake Swim Timing 2022" data-zoom-src="/assets/img/bucket_list/2022_donner_lake_swim_timing.jpg"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">51</div>
+      <h3 class="bl-achievement-title">Lake Swim</h3>
+      <p class="bl-achievement-meta">2022 — Donner Lake, California (1.2 miles, 49:45)</p>
+    </div>
+  </div>
+  <p class="bl-note">Other</p>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2015_six_pack_1.jpg" alt="Six Pack" data-zoom-src="/assets/img/bucket_list/2015_six_pack_1.jpg"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">52</div>
+      <h3 class="bl-achievement-title">Six pack abs</h3>
+      <p class="bl-achievement-meta"><a href="/projects/six_pack_1/">2015 — Attempt 1</a></p>
+      <p class="bl-achievement-meta"><a href="/projects/six_pack_2/">2026 — Attempt 2</a></p>
+    </div>
+  </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">49</div><div class="bl-item-content">Run a Marathon</div></div>
-    <div class="bl-item"><div class="bl-item-num">50</div><div class="bl-item-content">Spartan Trifecta</div></div>
-    <div class="bl-item"><div class="bl-item-num">51</div><div class="bl-item-content">Run an Ironman</div></div>
-    <div class="bl-item"><div class="bl-item-num">52</div><div class="bl-item-content">Learn BJJ — Get a medal in competition</div></div>
+    <div class="bl-item"><div class="bl-item-num">53</div><div class="bl-item-content">Learn BJJ — Get a medal in competition</div></div>
   </div>
 </div>
 
@@ -411,16 +497,51 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Attend Sports Events</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">53</div><div class="bl-item-content">Watch a Cricket Match at Lord's</div></div>
-    <div class="bl-item done"><div class="bl-item-num">54</div><div class="bl-item-content">Attend Tennis Grand Slam<span class="bl-item-date">Done</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/tennis_french_open_2021.jpg" alt="French Open Finals - 2021" data-zoom-src="/assets/img/bucket_list/tennis_french_open_2021.jpg"></div>
+    <div class="bl-item"><div class="bl-item-num">54</div><div class="bl-item-content">Cricket Match at Lord's</div></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2021_french_open_1.jpg" alt="French Open Finals - 2021" data-zoom-src="/assets/img/bucket_list/2021_french_open_1.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2021_french_open_2.jpg" alt="French Open Finals - 2021" data-zoom-src="/assets/img/bucket_list/2021_french_open_2.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2021_french_open_3.jpg" alt="French Open Finals - 2021" data-zoom-src="/assets/img/bucket_list/2021_french_open_3.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2018_australian_open_1.jpg" alt="Australian Open Quarters - 2018" data-zoom-src="/assets/img/bucket_list/2018_australian_open_1.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2018_australian_open_2.jpg" alt="Australian Open Quarters - 2018" data-zoom-src="/assets/img/bucket_list/2018_australian_open_2.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2018_australian_open_3.jpg" alt="Australian Open Quarters - 2018" data-zoom-src="/assets/img/bucket_list/2018_australian_open_3.jpg"></div>
     </div>
-    <div class="bl-item"><div class="bl-item-num">55</div><div class="bl-item-content">Attend Football World Cup</div></div>
-    <div class="bl-item done"><div class="bl-item-num">56</div><div class="bl-item-content">Attend Cricket World Cup<span class="bl-item-date">Done</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/cricket_worldcup_2019.JPG" alt="Cricket WorldCup 2019 IND vs NZ" data-zoom-src="/assets/img/bucket_list/cricket_worldcup_2019.JPG"></div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">55</div>
+      <h3 class="bl-achievement-title">Tennis Grand Slam</h3>
+      <p class="bl-achievement-meta">2021 — French Open Finals</p>
+      <p class="bl-achievement-meta">2018 — Australian Open Quarters</p>
     </div>
-    <div class="bl-item"><div class="bl-item-num">57</div><div class="bl-item-content">Attend Olympics</div></div>
-    <div class="bl-item"><div class="bl-item-num">58</div><div class="bl-item-content">Attend Super Bowl</div></div>
+  </div>
+  <div class="bl-items">
+    <div class="bl-item"><div class="bl-item-num">56</div><div class="bl-item-content">Attend Football World Cup</div></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/cricket_worldcup_2019.JPG" alt="Cricket WorldCup 2019 IND vs NZ" data-zoom-src="/assets/img/bucket_list/cricket_worldcup_2019.JPG"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">57</div>
+      <h3 class="bl-achievement-title">Cricket World Cup</h3>
+      <p class="bl-achievement-meta">2019 — IND vs NZ, Old Trafford</p>
+    </div>
+  </div>
+  <div class="bl-items">
+    <div class="bl-item"><div class="bl-item-num">58</div><div class="bl-item-content">Attend Olympics</div></div>
+    <div class="bl-item"><div class="bl-item-num">59</div><div class="bl-item-content">Attend Super Bowl</div></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/ashes_test_match_2017_1.jpg" alt="Ashes Test Match 2017" data-zoom-src="/assets/img/bucket_list/ashes_test_match_2017_1.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/ashes_test_match_2017_2.JPG" alt="Ashes Test Match 2017" data-zoom-src="/assets/img/bucket_list/ashes_test_match_2017_2.JPG"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">60</div>
+      <h3 class="bl-achievement-title">Ashes Test match</h3>
+      <p class="bl-achievement-meta">2017 — The Ashes, Australia</p>
+    </div>
   </div>
 </div>
 
@@ -431,12 +552,12 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Learn — Skills</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">59</div><div class="bl-item-content">Learn Salsa dancing</div></div>
-    <div class="bl-item"><div class="bl-item-num">60</div><div class="bl-item-content">Learn a music instrument and perform</div></div>
-    <div class="bl-item"><div class="bl-item-num">61</div><div class="bl-item-content">Learn to Juggle</div></div>
-    <div class="bl-item"><div class="bl-item-num">62</div><div class="bl-item-content">Solve Rubik's Cube</div></div>
-    <div class="bl-item"><div class="bl-item-num">63</div><div class="bl-item-content">Learn to cook an exquisite meal</div></div>
-    <div class="bl-item"><div class="bl-item-num">64</div><div class="bl-item-content">Master chess (2000 rating)</div></div>
+    <div class="bl-item"><div class="bl-item-num">61</div><div class="bl-item-content">Learn Salsa dancing</div></div>
+    <div class="bl-item"><div class="bl-item-num">62</div><div class="bl-item-content">Learn a music instrument and perform</div></div>
+    <div class="bl-item"><div class="bl-item-num">63</div><div class="bl-item-content">Learn to Juggle</div></div>
+    <div class="bl-item"><div class="bl-item-num">64</div><div class="bl-item-content">Solve Rubik's Cube</div></div>
+    <div class="bl-item"><div class="bl-item-num">65</div><div class="bl-item-content">Learn to cook an exquisite meal</div></div>
+    <div class="bl-item"><div class="bl-item-num">66</div><div class="bl-item-content">Master chess (2000 rating)</div></div>
   </div>
 </div>
 
@@ -447,18 +568,28 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Learn — Languages</h2>
   </div>
   <p class="bl-note">Top spoken languages</p>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">67</div>
+      <h3 class="bl-achievement-title">English</h3>
+    </div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">68</div>
+      <h3 class="bl-achievement-title">Hindi</h3>
+    </div>
+  </div>
   <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">65</div><div class="bl-item-content">English<span class="bl-item-date">Childhood</span></div></div>
-    <div class="bl-item done"><div class="bl-item-num">66</div><div class="bl-item-content">Hindi<span class="bl-item-date">Childhood</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">67</div><div class="bl-item-content">Spanish</div></div>
-    <div class="bl-item"><div class="bl-item-num">68</div><div class="bl-item-content">Mandarin</div></div>
-    <div class="bl-item"><div class="bl-item-num">69</div><div class="bl-item-content">Arabic</div></div>
-    <div class="bl-item"><div class="bl-item-num">70</div><div class="bl-item-content">Sign Language</div></div>
+    <div class="bl-item"><div class="bl-item-num">69</div><div class="bl-item-content">Spanish</div></div>
+    <div class="bl-item"><div class="bl-item-num">70</div><div class="bl-item-content">Mandarin</div></div>
+    <div class="bl-item"><div class="bl-item-num">71</div><div class="bl-item-content">Arabic</div></div>
+    <div class="bl-item"><div class="bl-item-num">72</div><div class="bl-item-content">Sign Language</div></div>
   </div>
   <p class="bl-note">Indian languages (Reading, Writing, Speaking)</p>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">71</div><div class="bl-item-content">Telugu (Mother tongue)</div></div>
-    <div class="bl-item"><div class="bl-item-num">72</div><div class="bl-item-content">Tamil</div></div>
+    <div class="bl-item"><div class="bl-item-num">73</div><div class="bl-item-content">Telugu (Mother tongue)</div></div>
+    <div class="bl-item"><div class="bl-item-num">74</div><div class="bl-item-content">Tamil</div></div>
   </div>
 </div>
 
@@ -468,11 +599,22 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">🎵</div>
     <h2 class="bl-section-title">Music & Entertainment</h2>
   </div>
-  <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">73</div><div class="bl-item-content">Attend a live concert (Shaan)<span class="bl-item-date">2010</span></div></div>
-    <div class="bl-item done"><div class="bl-item-num">74</div><div class="bl-item-content">Attend live orchestra / Opera (Budapest)<span class="bl-item-date">2012</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/opera_budapest.JPG" alt="Road trip" data-zoom-src="/assets/img/bucket_list/opera_budapest.JPG"></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/opera_budapest_2.JPG" alt="Road trip" data-zoom-src="/assets/img/bucket_list/opera_budapest_2.JPG"></div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">75</div>
+      <h3 class="bl-achievement-title">Attend a live concert</h3>
+      <p class="bl-achievement-meta">2010 — Shaan</p>
+    </div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/opera_budapest.JPG" alt="Opera Budapest" data-zoom-src="/assets/img/bucket_list/opera_budapest.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/opera_budapest_2.JPG" alt="Opera Budapest" data-zoom-src="/assets/img/bucket_list/opera_budapest_2.JPG"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">76</div>
+      <h3 class="bl-achievement-title">Attend live orchestra / Opera</h3>
+      <p class="bl-achievement-meta">2012 — Budapest, Hungary</p>
     </div>
   </div>
 </div>
@@ -484,11 +626,13 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Meet Celebrities</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">75</div><div class="bl-item-content">Bear Grylls</div></div>
-    <div class="bl-item"><div class="bl-item-num">76</div><div class="bl-item-content">Hrithik Roshan</div></div>
-    <div class="bl-item"><div class="bl-item-num">77</div><div class="bl-item-content">Rafa Nadal</div></div>
-    <div class="bl-item"><div class="bl-item-num">78</div><div class="bl-item-content">Rahul Dravid</div></div>
-    <div class="bl-item"><div class="bl-item-num">79</div><div class="bl-item-content">Abhinav Bindra</div></div>
+    <div class="bl-item"><div class="bl-item-num">77</div><div class="bl-item-content">Bear Grylls</div></div>
+    <div class="bl-item"><div class="bl-item-num">78</div><div class="bl-item-content">Hrithik Roshan</div></div>
+    <div class="bl-item"><div class="bl-item-num">79</div><div class="bl-item-content">Rafa Nadal</div></div>
+    <div class="bl-item"><div class="bl-item-num">80</div><div class="bl-item-content">Rahul Dravid</div></div>
+    <div class="bl-item"><div class="bl-item-num">81</div><div class="bl-item-content">Abhinav Bindra</div></div>
+    <div class="bl-item"><div class="bl-item-num">82</div><div class="bl-item-content">Tim Ferriss</div></div>
+    <div class="bl-item"><div class="bl-item-num">83</div><div class="bl-item-content">Dan Martell</div></div>
   </div>
 </div>
 
@@ -498,11 +642,24 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">🧘</div>
     <h2 class="bl-section-title">Mindfulness & Goodwill</h2>
   </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">84</div>
+      <h3 class="bl-achievement-title">Vipassana 10 days meditation retreat</h3>
+      <p class="bl-achievement-meta">2012</p>
+    </div>
+  </div>
   <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">80</div><div class="bl-item-content">Vipassana 10 days meditation retreat<span class="bl-item-date">2012</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">81</div><div class="bl-item-content">Volunteer for an NGO</div></div>
-    <div class="bl-item done"><div class="bl-item-num">82</div><div class="bl-item-content">Support a kid's education<span class="bl-item-date">Done</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">83</div><div class="bl-item-content">Make a difference in someone's life</div></div>
+    <div class="bl-item"><div class="bl-item-num">85</div><div class="bl-item-content">Volunteer for an NGO</div></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">86</div>
+      <h3 class="bl-achievement-title">Support a kid's education</h3>
+    </div>
+  </div>
+  <div class="bl-items">
+    <div class="bl-item"><div class="bl-item-num">87</div><div class="bl-item-content">Make a difference in someone's life</div></div>
   </div>
 </div>
 
@@ -512,15 +669,30 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">🎓</div>
     <h2 class="bl-section-title">Education & Career</h2>
   </div>
-  <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">84</div><div class="bl-item-content">Get a PhD (TU Darmstadt)<span class="bl-item-date">2019</span></div>
-    <div class="bl-achievement-img"><img src="/assets/img/bucket_list/phd.JPG" alt="Road trip" data-zoom-src="/assets/img/bucket_list/phd.JPG"></div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_1.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_1.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_2.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_2.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_3.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_3.JPG"></div>
     </div>
-    <div class="bl-item done"><div class="bl-item-num">85</div><div class="bl-item-content">Start a personal website/blog<span class="bl-item-date">2013</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">86</div><div class="bl-item-content">Start a business</div></div>
-    <div class="bl-item"><div class="bl-item-num">87</div><div class="bl-item-content">Give a TED Talk</div></div>
-    <div class="bl-item"><div class="bl-item-num">88</div><div class="bl-item-content">Give a keynote speech</div></div>
-    <div class="bl-item"><div class="bl-item-num">89</div><div class="bl-item-content">Mentor someone to success</div></div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">88</div>
+      <h3 class="bl-achievement-title">Get a PhD</h3>
+      <p class="bl-achievement-meta">2019 — TU Darmstadt, Germany</p>
+    </div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">89</div>
+      <h3 class="bl-achievement-title">Start a personal website/blog</h3>
+      <p class="bl-achievement-meta">2013</p>
+    </div>
+  </div>
+  <div class="bl-items">
+    <div class="bl-item"><div class="bl-item-num">90</div><div class="bl-item-content">Start a business</div></div>
+    <div class="bl-item"><div class="bl-item-num">91</div><div class="bl-item-content">Give a TED Talk</div></div>
+    <div class="bl-item"><div class="bl-item-num">92</div><div class="bl-item-content">Give a keynote speech</div></div>
+    <div class="bl-item"><div class="bl-item-num">93</div><div class="bl-item-content">Mentor someone to success</div></div>
   </div>
 </div>
 
@@ -531,13 +703,13 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Properties & Things</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">90</div><div class="bl-item-content">Own SFH in California</div></div>
-    <div class="bl-item"><div class="bl-item-num">91</div><div class="bl-item-content">Own SFH in Bogota</div></div>
-    <div class="bl-item"><div class="bl-item-num">92</div><div class="bl-item-content">Own SFH in Hawaii</div></div>
-    <div class="bl-item"><div class="bl-item-num">93</div><div class="bl-item-content">Own SFH in Florida</div></div>
-    <div class="bl-item"><div class="bl-item-num">94</div><div class="bl-item-content">Own SFH in Spain</div></div>
-    <div class="bl-item"><div class="bl-item-num">95</div><div class="bl-item-content">Own a Mercedes Camper Van</div></div>
-    <div class="bl-item"><div class="bl-item-num">96</div><div class="bl-item-content">Own an Indian Cruiser Bike</div></div>
+    <div class="bl-item"><div class="bl-item-num">94</div><div class="bl-item-content">Own SFH in California</div></div>
+    <div class="bl-item"><div class="bl-item-num">95</div><div class="bl-item-content">Own SFH in Bogota</div></div>
+    <div class="bl-item"><div class="bl-item-num">96</div><div class="bl-item-content">Own SFH in Hawaii</div></div>
+    <div class="bl-item"><div class="bl-item-num">97</div><div class="bl-item-content">Own SFH in Florida</div></div>
+    <div class="bl-item"><div class="bl-item-num">98</div><div class="bl-item-content">Own SFH in Spain</div></div>
+    <div class="bl-item"><div class="bl-item-num">99</div><div class="bl-item-content">Own a Mercedes Camper Van</div></div>
+    <div class="bl-item"><div class="bl-item-num">100</div><div class="bl-item-content">Own an Indian Cruiser Bike</div></div>
   </div>
 </div>
 
@@ -547,10 +719,15 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">✨</div>
     <h2 class="bl-section-title">Experiences</h2>
   </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">101</div>
+      <h3 class="bl-achievement-title">Fly Business Class</h3>
+    </div>
+  </div>
   <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">97</div><div class="bl-item-content">Fly Business Class<span class="bl-item-date">Done</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">98</div><div class="bl-item-content">Fly First Class</div></div>
-    <div class="bl-item"><div class="bl-item-num">99</div><div class="bl-item-content">Fly Private Jet</div></div>
+    <div class="bl-item"><div class="bl-item-num">102</div><div class="bl-item-content">Fly First Class</div></div>
+    <div class="bl-item"><div class="bl-item-num">103</div><div class="bl-item-content">Fly Private Jet</div></div>
   </div>
 </div>
 
@@ -560,15 +737,20 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">🎨</div>
     <h2 class="bl-section-title">Creative & Personal</h2>
   </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">104</div>
+      <h3 class="bl-achievement-title">Permanent Tattoo</h3>
+    </div>
+  </div>
   <div class="bl-items">
-    <div class="bl-item done"><div class="bl-item-num">100</div><div class="bl-item-content">Permanent Tattoo<span class="bl-item-date">Done</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">101</div><div class="bl-item-content">100 Books project <span class="bl-item-date">6 so far</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">102</div><div class="bl-item-content">100 Strangers Project</div></div>
-    <div class="bl-item"><div class="bl-item-num">103</div><div class="bl-item-content">100 Immigrant Stories Project</div></div>
-    <div class="bl-item"><div class="bl-item-num">104</div><div class="bl-item-content">Publish a book</div></div>
-    <div class="bl-item"><div class="bl-item-num">105</div><div class="bl-item-content">Get a photograph published</div></div>
-    <div class="bl-item"><div class="bl-item-num">106</div><div class="bl-item-content">Get an article published</div></div>
-    <div class="bl-item"><div class="bl-item-num">107</div><div class="bl-item-content">Financially independent by 45</div></div>
+    <div class="bl-item"><div class="bl-item-num">105</div><div class="bl-item-content">100 Books project <span class="bl-item-date">6 so far</span></div></div>
+    <div class="bl-item"><div class="bl-item-num">106</div><div class="bl-item-content">100 Strangers Project</div></div>
+    <div class="bl-item"><div class="bl-item-num">107</div><div class="bl-item-content">100 Immigrant Stories Project</div></div>
+    <div class="bl-item"><div class="bl-item-num">108</div><div class="bl-item-content">Publish a book</div></div>
+    <div class="bl-item"><div class="bl-item-num">109</div><div class="bl-item-content">Get a photograph published</div></div>
+    <div class="bl-item"><div class="bl-item-num">110</div><div class="bl-item-content">Get an article published</div></div>
+    <div class="bl-item"><div class="bl-item-num">111</div><div class="bl-item-content">Financially independent by 45</div></div>
   </div>
 </div>
 
