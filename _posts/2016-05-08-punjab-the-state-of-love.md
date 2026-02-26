@@ -75,7 +75,7 @@ They have interesting nicknames "Jassi", "Happy", "Lovely", "Ruby" and I really 
 Initially my hosts were a bit skeptical whether I would be okay to stay at their place and whether
 I would like the place. After a few days they told me about their first doubts and my reply was
 "as long as you have a small place for me to sleep, I am fine with anything".
- As a traveller, I have always been okay with anything (no toilets -> no problem, find a spot in the nature and bury your deeds :)). I don't mind if I get any facilities or not, as long as one gives me love and affection, I am a happy man at the end of the day. I always tell my hosts not to do anything special for me and always tell them to treat me as one of their own instead of a guest. Being a guest comes with a lot of responsibilities :D.
+As a traveller, I have always been okay with anything (no toilets -> no problem, find a spot in the nature and bury your deeds :)). I don't mind if I get any facilities or not, as long as one gives me love and affection, I am a happy man at the end of the day. I always tell my hosts not to do anything special for me and always tell them to treat me as one of their own instead of a guest. Being a guest comes with a lot of responsibilities :D.
 
 I like the village life for it's peaceful and scenic beauty.
 I did some unusual things which I usually don't get to do.

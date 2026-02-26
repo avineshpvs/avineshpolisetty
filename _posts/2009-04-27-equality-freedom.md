@@ -7,6 +7,7 @@ thumbnail: /assets/img/blog/equality_freedom.png
 tags: philosophy equality freedom
 categories: philosophy
 ---
+
 {% include figure.liquid loading="eager" path="/assets/img/blog/equality_freedom.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Equality & Freedom" %}
 
 It's about 3 friends discussing their future, freedom, and enjoyment in life.

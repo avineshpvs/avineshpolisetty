@@ -42,7 +42,6 @@ One excerpt that I distinctly remember when he talks about Roger Federer, "Toni 
 His serve is better than mine, his volley too; his forehand is probably more decisive than mine, his sliced backhand definitely is, and his positioning on the court is better too".
 This shows his down to earth nature.
 
-
 Another favourite excerpt of mine when Rafa talks about his experience at the Beijing Olympics,
 "My first experience of taking part in the biggest sports show on earth.
 I enjoyed it immensely and it taught me a lot and most of all, how lucky I am "..."

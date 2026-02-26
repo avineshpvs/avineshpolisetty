@@ -123,6 +123,7 @@ pagination:
     <li>
 
 {% if post.thumbnail %}
+
 <div class="row g-2 align-items-center">
   <div class="col-sm-3">
     <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 100%; border-radius: 4px;" alt="{{ post.title }}">
@@ -177,6 +178,7 @@ pagination:
     </p>
 
 {% if post.thumbnail %}
+
   </div>
 </div>
 {% endif %}

@@ -28,8 +28,9 @@ I saw on TripAdvisor that there was a village named Rusirani which was based on 
 I was surprised to see amazing reviews for this organisation.
 I was curious and went through each of those reviews.
 I instantly liked the concept because of two reasons:
-1) The money they collected from the guests was used to sponsor a girl child's education in the village.
-2) I was curious to know more about the idea of village tourism.
+
+1. The money they collected from the guests was used to sponsor a girl child's education in the village.
+2. I was curious to know more about the idea of village tourism.
 
 After two days of travelling like a tourist I got the opportunity to experience the simple village life.
 The village is located on a hilltop surrounded by Aravali mountains.

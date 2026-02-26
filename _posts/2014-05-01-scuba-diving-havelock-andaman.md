@@ -97,7 +97,6 @@ We had a long discussion on how to attract sharks just to have a glimpse of them
     {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-friends-amit-shiv.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Amit, Seshmani & Me" caption="Amit, Seshmani & Me" %}
 </div>
 
-
 After the course I finished of all my dives and my buddies left the island.
 I was there for 2 more days, as I had one extra dive day (bonus).
 I met Amit and Seshmani the guys from Mumbai.
@@ -181,72 +180,72 @@ Sting ray, Octopus with baby ones, Nemo, Lion fish, Barakuda (2-3m ones), Neople
 _**Last and final section of the post Tips and Tricks (my favorite section).**_
 
 _**Tips and Tricks:**_
-  * Don't assume you know everything, when in doubt ask for it.
-    Well the only thing I knew before doing some research on Scuba diving was PADI.
-    When one of the instructors asked me PADI/SSI straight away I just said PADI (Yo I have some knowledge about Scuba).
-    Later what I figured out was that they are quite similar courses except PADI has good course material and you end up paying extra.
-    (+2.5k for each course, Put Another Dollar In (PADI)).
-    If you want to save some money go for SSI.
 
-  * If an Adventure freak -> Go for Scuba straight away:
-    Easy, less risky & a lazy adventure sport.
-    Bit expensive but really addictive.
-    I am planning to get my Dive Master soon.
-    It is quite a safe adventure sport, one needs to keep track of the safety guidelines and you can have fun underwater.
-    If you are not comfortable in water then it might not be such a pleasure experience.
+- Don't assume you know everything, when in doubt ask for it.
+  Well the only thing I knew before doing some research on Scuba diving was PADI.
+  When one of the instructors asked me PADI/SSI straight away I just said PADI (Yo I have some knowledge about Scuba).
+  Later what I figured out was that they are quite similar courses except PADI has good course material and you end up paying extra.
+  (+2.5k for each course, Put Another Dollar In (PADI)).
+  If you want to save some money go for SSI.
 
-  * If you go for a package [Open + Advanced + Stay] at DiveIndia you get 1 extra day of diving.
+- If an Adventure freak -> Go for Scuba straight away:
+  Easy, less risky & a lazy adventure sport.
+  Bit expensive but really addictive.
+  I am planning to get my Dive Master soon.
+  It is quite a safe adventure sport, one needs to keep track of the safety guidelines and you can have fun underwater.
+  If you are not comfortable in water then it might not be such a pleasure experience.
 
-  * Practice slow breathing 4 counts inhale and 6 counts exhale.
-    This will help you to increase your dive time.
-    I was usually the first person to finish up air.
-    There was a time when I reached 30 bar of air in my tank and a girl had 120 left (full tank = 200 bar), guess what she had almost 20-25 mins extra dive time.
-    Keep calm and continuous breathing you will have great time.
+- If you go for a package [Open + Advanced + Stay] at DiveIndia you get 1 extra day of diving.
 
-  * Rent a GoPro or if you have one nothing like it.
-    500 Rs for one dive and you can split it up among the group.
-    This is the only way you can inspire, have some lovely memories & last but not least make people jealous.
-    If you have a water proof camera it is also useful for some under water beach photography.
-    My Olympus M-tough was quite a useful gadget to take photographs with the waves.
+- Practice slow breathing 4 counts inhale and 6 counts exhale.
+  This will help you to increase your dive time.
+  I was usually the first person to finish up air.
+  There was a time when I reached 30 bar of air in my tank and a girl had 120 left (full tank = 200 bar), guess what she had almost 20-25 mins extra dive time.
+  Keep calm and continuous breathing you will have great time.
 
-  * Don't worry about the accommodation it is really nice.
+- Rent a GoPro or if you have one nothing like it.
+  500 Rs for one dive and you can split it up among the group.
+  This is the only way you can inspire, have some lovely memories & last but not least make people jealous.
+  If you have a water proof camera it is also useful for some under water beach photography.
+  My Olympus M-tough was quite a useful gadget to take photographs with the waves.
+
+- Don't worry about the accommodation it is really nice.
   They cater all types from luxurious to budget ones.
   If you are like Peter, you need not worry about accommodation at all.
   You can just sleep on public hammocks or resting places.
   Superb climate to sleep outside.
 
-  * **Traveling:**
-    Best way to travel is to get a motor bike or bicycle.
-    Ideally rent a scooter only when you are planning to visit far away places.
+- **Traveling:**
+  Best way to travel is to get a motor bike or bicycle.
+  Ideally rent a scooter only when you are planning to visit far away places.
 
-    Bicycle: 80 Rs (Per day)
-    Scooty: 300 Rs (bargain till 250)
-    Hero Splender Bike: 400 Rs (bargained till 300)
-    Avenger: 800 Rs
+  Bicycle: 80 Rs (Per day)
+  Scooty: 300 Rs (bargain till 250)
+  Hero Splender Bike: 400 Rs (bargained till 300)
+  Avenger: 800 Rs
 
-    Don't buy too much petrol in advance it is a small island (25-30kms).
-    1 ltr is more than enough. Carry a spare bottle if you require.
-    You will not get your money back if you put petrol in the tank and don't use it up.
+  Don't buy too much petrol in advance it is a small island (25-30kms).
+  1 ltr is more than enough. Carry a spare bottle if you require.
+  You will not get your money back if you put petrol in the tank and don't use it up.
 
-    There is a bus from the market every 1 hr which takes you to the beach for 10 Rs but better don't rely on them.
-    We waited for almost an hour and realized there was some problem with the bus.
-    Last bus from beach to market is at 4:00pm.
+  There is a bus from the market every 1 hr which takes you to the beach for 10 Rs but better don't rely on them.
+  We waited for almost an hour and realized there was some problem with the bus.
+  Last bus from beach to market is at 4:00pm.
 
-    If you are in a large group hire a Taxi 300 Rs one way and 500 Rs to and fro.
-    Surprisingly that is the charge for the auto as well.
-    I still don't understand how they are withstanding the competition.
+  If you are in a large group hire a Taxi 300 Rs one way and 500 Rs to and fro.
+  Surprisingly that is the charge for the auto as well.
+  I still don't understand how they are withstanding the competition.
 
-  * Don't miss Radhanagar beach and Elephant beach.
+- Don't miss Radhanagar beach and Elephant beach.
 
   <div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
     {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-elephant-beach.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Sunset at Radhanagar Beach" caption="Sunset at Radhanagar Beach" %}
 </div>
 
-  **Radhanagar beach** is one of the cleanest beach (no rocks at all) I had ever seen in my life.
-    If you are lucky you get to see an Elephant (Rajan).
-    o see Rajan the elephant, head to Neil's Cove in the morning before breakfast.
-    As per Lonely Planet you are supposed to see a nice sunset here but guess what you can see a perfect one in Elephant beach.
-
+**Radhanagar beach** is one of the cleanest beach (no rocks at all) I had ever seen in my life.
+If you are lucky you get to see an Elephant (Rajan).
+o see Rajan the elephant, head to Neil's Cove in the morning before breakfast.
+As per Lonely Planet you are supposed to see a nice sunset here but guess what you can see a perfect one in Elephant beach.
 
 <div style="clear: both;"></div>
 
@@ -254,23 +253,22 @@ _**Tips and Tricks:**_
     {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-elephant.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Sunset at Radhanagar Beach" caption="Sunset at Radhanagar Beach" %}
 </div>
 
-  **Elephant beach:** Heard it is good for snorkeling.
-   Nice trek inside the forest roughly around 35-45 mins walk.
-   Of course if you are running out of time (like us) or enthusiastic you can run and reach in 15 mins.
+**Elephant beach:** Heard it is good for snorkeling.
+Nice trek inside the forest roughly around 35-45 mins walk.
+Of course if you are running out of time (like us) or enthusiastic you can run and reach in 15 mins.
 
 <div style="clear: both;"></div>
 
+- Cellular Jail in Portblair:
+  "Cellular Jail" or famously known as "Kala Pani Jail".
+  The bio of the prisoners there touches your soul and you would feel how did they survive that.
+  Don't miss the sound and light show.
+  If you get to a Hindi one be prepared for some archaic words.
 
-  * Cellular Jail in Portblair:
-    "Cellular Jail" or famously known as "Kala Pani Jail".
-    The bio of the prisoners there touches your soul and you would feel how did they survive that.
-    Don't miss the sound and light show.
-    If you get to a Hindi one be prepared for some archaic words.
-
-  * Last but not the least make some great friends.
-    Usually like minded people come here with some desire of adventure.
-    You get to hear a lot of stories and you will always have a great story to tell.
-    Thanks Peter, Claudius, Tanuj, Vikram, Amit, Seshmani and Neha for a lovely company.
+- Last but not the least make some great friends.
+  Usually like minded people come here with some desire of adventure.
+  You get to hear a lot of stories and you will always have a great story to tell.
+  Thanks Peter, Claudius, Tanuj, Vikram, Amit, Seshmani and Neha for a lovely company.
 
 Vacations are a must to rejuvenate yourself and to get back to your peek productivity.
 Well I sleep like a baby now and wake up early.

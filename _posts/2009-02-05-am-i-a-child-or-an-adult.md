@@ -7,6 +7,7 @@ thumbnail: /assets/img/blog/always_child.png
 tags: philosophy family
 categories: philosophy
 ---
+
 {% include figure.liquid loading="eager" path="/assets/img/blog/always_child.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Am I a child or an adult?" %}
 
 The most common question that youngsters ask themselves: **"Am I a CHILD or an ADULT?"**
@@ -14,6 +15,7 @@ Have I grown up? Am I mature enough to make my own decisions?
 
 Well, everyone wants to grow up early and get the tag of an adult.
 There is a lot to the word ADULT.
+
 <!--more-->
 
 In college, I am the boss of myself.

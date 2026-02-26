@@ -22,7 +22,7 @@ Now comes the team meeting. Captain Kabeer and Arpit were deciding the team.
 
 Kabeer: **"Which position do you play?"**
 
-(I was thinking, *"Wow, first match and he is asking me for my favorite position. That means I am in the team. Seriously, which position do I really play? Right Out? Nah, i.e., Striker in Football? Nah... First match and you ask for a striker position, i.e., his position. Not fair :P"*)
+(I was thinking, _"Wow, first match and he is asking me for my favorite position. That means I am in the team. Seriously, which position do I really play? Right Out? Nah, i.e., Striker in Football? Nah... First match and you ask for a striker position, i.e., his position. Not fair :P"_)
 
 Avinesh: **"I can run well."** (Gosh, what kind of answer is that?)
 
@@ -34,7 +34,7 @@ Arpit and Kabeer: **"Fine, Defender. Central Defender or Right Back?"**
 
 Avinesh: **"Right Back."**
 
-**Match Starts. Aakash Vs Prithvi** *(Prithvi is the strongest team on paper)*
+**Match Starts. Aakash Vs Prithvi** _(Prithvi is the strongest team on paper)_
 
 Prithvi played well initially.
 We were getting few chances (truly speaking, the ball was on our side for the maximum time).

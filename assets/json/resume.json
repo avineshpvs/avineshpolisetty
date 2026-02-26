@@ -73,18 +73,14 @@
       "url": "https://www.iiit.ac.in/",
       "area": "Computer Science (NLP)",
       "studyType": "MS by Research",
-      "highlights": [
-        "Research at LTRC on NLP and Machine Translation."
-      ]
+      "highlights": ["Research at LTRC on NLP and Machine Translation."]
     },
     {
       "institution": "IIIT Hyderabad",
       "location": "Hyderabad, India",
       "area": "Computer Science and Engineering",
       "studyType": "B.Tech",
-      "highlights": [
-        "Top 15% of the class with research in NLP."
-      ]
+      "highlights": ["Top 15% of the class with research in NLP."]
     }
   ],
   "skills": [
@@ -105,13 +101,7 @@
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "Java",
-        "Scala"
-      ]
+      "keywords": ["Python", "PyTorch", "TensorFlow", "Java", "Scala"]
     }
   ],
   "languages": [
@@ -140,12 +130,7 @@
     {
       "name": "NLP Research",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Summarization",
-        "Machine Translation",
-        "Information Retrieval",
-        "Recommendation Systems"
-      ]
+      "keywords": ["Summarization", "Machine Translation", "Information Retrieval", "Recommendation Systems"]
     }
   ],
   "projects": [

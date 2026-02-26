@@ -42,7 +42,11 @@
 
           <div class="d-flex align-items-center" style="gap: 0.6rem;">
             {% if entry.logo %}
-              <img src="{{ entry.logo | prepend: '/' }}" alt="{{ entry.institution }}" style="width: 36px; height: 36px; object-fit: contain; border-radius: 4px;">
+              <img
+                src="{{ entry.logo | prepend: '/' }}"
+                alt="{{ entry.institution }}"
+                style="width: 36px; height: 36px; object-fit: contain; border-radius: 4px;"
+              >
             {% endif %}
             <div>
               {% if entry.url %}

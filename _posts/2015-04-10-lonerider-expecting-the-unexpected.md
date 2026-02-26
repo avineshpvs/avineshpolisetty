@@ -44,8 +44,9 @@ Initially I was quite skeptical about the idea of riding a bike alone.
 After an hour I got the feel of it and I started embracing the idea of travelling alone.
 
 I was quite adamant about two rules:
- * I would not ride more than 350km a day,
- * I would not be driving at night.
+
+- I would not ride more than 350km a day,
+- I would not be driving at night.
 
 I almost covered half the distance and I was right on track with the time.
 So I decided upon a perfect place to stop and have a nice meal to treat myself for the great start.

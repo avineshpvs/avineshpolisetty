@@ -71,7 +71,7 @@ As he worked in the Railways Planning team, he had a lot of insights about the
 work culture inside government offices. He shared stories about various projects he took up during his tenure.
 He specifically mentioned about a project he took up in Ludhiana which saved crores for the Government.
 Karan (Sim's son) took me to play a football match with his friends on the next morning
-and we had a gala time together. 
+and we had a gala time together.
 
 <div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
     {% include figure.liquid loading="eager" path="/assets/img/blog/biketrip/ludhiana/ludhiana-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="The cruelty of the Mughal's over Sikhs at Mehdiana (Punjab)" caption="Mehdiana Sahib" %}
@@ -86,7 +86,6 @@ It was an awesome bike ride and finally to end the day on a high note, we went t
 to have a couple of beers.
 
 <div style="clear: both;"></div>
-
 
 I really did not feel as an outsider, I felt was as if I came to my relatives house. I told Sim many times that he was just like one of my uncles.
 I would like to see myself as Sim - "The perfect family man one day.

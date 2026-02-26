@@ -7,6 +7,7 @@ thumbnail: /assets/img/blog/happiness.png
 tags: philosophy happiness
 categories: philosophy
 ---
+
 {% include figure.liquid loading="eager" path="/assets/img/blog/happiness.png" class="img-fluid rounded z-depth-1" zoomable=true alt="What is Happiness?" %}
 
 This post is about one of my longest discussions ever (6 hours long).

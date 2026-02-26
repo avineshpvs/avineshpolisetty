@@ -47,11 +47,11 @@ I did not have anything to protect myself from the rain.
 Meanwhile, some random group of people were really kind to accommodate me in their trolley.
 I was lucky that my host knew them. Once the rain stopped we decided to carry on walking
 with the rest of the group. People were offering us food all throughout our journey from lassi,
- oranges, sugarcane juice, poori, roti sabzi, pakodas, badam milk etc.
- They pleaded us to have some food and it was really hard to say no.
- At around 7 pm we reached the gurdwara in Mukerian where there was a kirtan followed by dinner.
- My body was completely drained from the physical exhaustion. We took a spot at one corner of the gurdwara
- and I just fell asleep like a baby.
+oranges, sugarcane juice, poori, roti sabzi, pakodas, badam milk etc.
+They pleaded us to have some food and it was really hard to say no.
+At around 7 pm we reached the gurdwara in Mukerian where there was a kirtan followed by dinner.
+My body was completely drained from the physical exhaustion. We took a spot at one corner of the gurdwara
+and I just fell asleep like a baby.
 
 The second day, we woke up early to finish the necessary stuff before it got crowded. We had our breakfast and we set out for a long journey ahead at 5:00 am. It was dark and I was still feeling sleepy. There was no way I could escape but I am known to sleep in adverse situations (behind a bike, sleeping in buses). This time, it was a bit more adverse as I had to walk. Added to my adversity, a woman gave me a huge stick with a flag and asked me to carry it. I was carrying this huge flag with a bunch of other people behind the vehicles and was literally sleep walking. After an hour or so, I managed to hand over the flag to another person and moved in front of the vehicles to walk with the volunteers. As we were in the region of Gurdaspur, police started escorting us as there were too many people on the road. I was volunteering in the front to make way for the vehicles. I happened to make conversation with the police staff and they were really friendly. Everyone was quite surprised that I came to Punjab on a motorbike from the southern part of India. After a long tiring day, we happened to reach the gurdwara at around 6 pm, had our dinner and slept off.
 
@@ -71,7 +71,6 @@ At around 10 we visited the Chola Sahib and went to have a glimpse of the Kartar
 Yet again I had goosebumps when I saw the Pakistan border (may be the feeling of being an Indian).
 Later, we visited the Tanot Devi Mata temple built after the temple in Jaisalmer, where the Pakistani missiles didn't explode.
 After all the important visits, we started our return journey and reached our village in the evening.
-
 
 These were 3 amazing days of my life.
 I got to experience many things although it was physically and mentally challenging.
@@ -96,6 +95,6 @@ different classes of the society. It was intriguing to talk to the labourers, ri
 students, kids, mothers, grandmothers. Of course, most of them did not speak Hindi but I managed
 to have some interesting conversations. I spoke to them in Hindi and they replied in Punjabi.
 Luckily, Punjabi and Hindi are quite close in the language tree so it was not difficult to understand
- the main content.
+the main content.
 
 Any journey which makes me ponder upon different things is an amazing journey.

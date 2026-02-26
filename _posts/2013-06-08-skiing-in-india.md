@@ -48,17 +48,17 @@ _PS: Book the slots by Sept/Oct, the first 4 course get filled pretty quickly._
 
 **Pros:**
 
-  * Awesome accommodation, centralized heating, bathrooms in each room.
-  * Instructors are friendly and keep note of the mistakes.
-  * Cultural activities/lectures everyday at 7-8pm.
+- Awesome accommodation, centralized heating, bathrooms in each room.
+- Instructors are friendly and keep note of the mistakes.
+- Cultural activities/lectures everyday at 7-8pm.
 
 **Cons:**
 
-  * Can't go out of the institute after 7pm.
+- Can't go out of the institute after 7pm.
   I know they have a reason, it gets really cold and one can get easily lost.
-  * Less training hours 4 and 1/2 hrs.
-  * No online payment. Still relying on DD.
-  * Ski lifts are far from the institute. (In a way morning warm up)
+- Less training hours 4 and 1/2 hrs.
+- No online payment. Still relying on DD.
+- Ski lifts are far from the institute. (In a way morning warm up)
 
 **Gondola:**
 **One trip:** 300 Rs, **Day pass:** 450 Rs (10 am &#8211; 4pm).
@@ -72,21 +72,21 @@ My aim would be coming down the [Affarwat](http://wikimapia.org/13375531/Affarwa
 
 **Travel Tips (save some money):**
 
-  * There are buses every hour from Airport to Tourist Reception Center in Srinagar and vise-versa.
+- There are buses every hour from Airport to Tourist Reception Center in Srinagar and vise-versa.
   It's just Rs 50 otherwise a prepaid cab costs Rs 500.
-  * Dec-March is off-season in Srinagar, so you would get cheap houseboats and guest houses.
+- Dec-March is off-season in Srinagar, so you would get cheap houseboats and guest houses.
   It depends on your bargaining skills. It can be as low as Rs 500.
-  * Food is expensive, spend the saved about on food.
+- Food is expensive, spend the saved about on food.
   For meat lovers don't miss Wazwan.
   Try at [Mughal Dharbar](http://www.tripadvisor.in/Restaurant_Review-g297623-d1202053-Reviews-Mughal_Darbar-Srinagar_Kashmir_Jammu_and_Kashmir.html "Mughal Darbar Reviews") and [Ahdoos](http://www.tripadvisor.in/Restaurant_Review-g297623-d1826623-Reviews-Ahdoos-Srinagar_Kashmir_Jammu_and_Kashmir.html "Ahdoos Reviews").
   I tried at lots of places during my visits and I rate these two high.
-  * If you are traveling in group then take a taxi from the taxi stand to Gulmarg it would charge you around Rs 1700-2000 to Gulmarg.
+- If you are traveling in group then take a taxi from the taxi stand to Gulmarg it would charge you around Rs 1700-2000 to Gulmarg.
   Rs 1200 to Tangmarg and Rs 60-80 per person to Gulmarg.
   If you are traveling in small groups take a shared taxi from Batmaloo Rs 60 per person to Tangmarg and then Rs 80 to Gulmarg.
   The Institute is around 3km from the taxi stand so ask for a bargained rate to drop you at the Institute.
-  * For freelancers or working from home guys, the dongle net speed is low and only postpaid connections work at J&K.
-  * Institute to Airport is Rs 2000 and to the city is Rs 1700. Again bargaining skills will come into play otherwise they can charge you as high as Rs 2500.
-  * Going back by flight, go to the airport early. The luggage is checked 3 times. Take a printout.
+- For freelancers or working from home guys, the dongle net speed is low and only postpaid connections work at J&K.
+- Institute to Airport is Rs 2000 and to the city is Rs 1700. Again bargaining skills will come into play otherwise they can charge you as high as Rs 2500.
+- Going back by flight, go to the airport early. The luggage is checked 3 times. Take a printout.
 
 [More tips on travel here](http://goindia.about.com/od/mountains/p/Srinagar-Travel-Guide.htm "Srinagar Travel Guide")
 
@@ -94,7 +94,6 @@ My aim would be coming down the [Affarwat](http://wikimapia.org/13375531/Affarwa
 <a href="http://www.adventurehimalaya.org/skiing.asp" title="Website"><i class="fa-solid fa-globe fa-sm"></i></a>
 <a href="mailto:dmas_manali@yahoo.com" title="Email"><i class="fa-solid fa-envelope fa-sm"></i></a>
 <a href="https://www.facebook.com/groups/130576133644176/" title="Facebook"><i class="fa-brands fa-facebook fa-sm"></i></a>
-
 
 **Cost:**
 7 day course (Rs 4200 &#8211; Indians, Rs 16800 &#8211; Foreigners)
@@ -105,18 +104,18 @@ The pros and cons are not from my experience, they have been listed based on rev
 
 **Pros:**
 
-  * The instructors are tougher. It's like a military school.
+- The instructors are tougher. It's like a military school.
   It might be a pro for some and con for some.
-  * The movement outside the institute isn&#8217;t restricted.
-  * More hours of training. (6hrs)
-  * Ski lifts are near the institute.
+- The movement outside the institute isn&#8217;t restricted.
+- More hours of training. (6hrs)
+- Ski lifts are near the institute.
 
 **Cons:**
 
-  * Ski lifts are in bad condition.
-  * Accommodation is not up to the mark. No central heating system, just a bukhari in a room. Common bathrooms for all.
-  * Don't have a slope like Gondola.
-  * No online payment. Still relying on DD.
+- Ski lifts are in bad condition.
+- Accommodation is not up to the mark. No central heating system, just a bukhari in a room. Common bathrooms for all.
+- Don't have a slope like Gondola.
+- No online payment. Still relying on DD.
 
 There are lots of adventure groups which arrange skiing in Auli, Solang and Gulmarg.
 If you don't want to be part of a school (or) don't have 14 days then you can always take a personal instructor and learn in few days.
@@ -124,14 +123,14 @@ But I would recommend to do a course with either IISM or ABVIMAS because 14 days
 
 **Important Points to note:**
 
-  * It is one of the less risky adventure sports.
+- It is one of the less risky adventure sports.
   But nevertheless injuries are inevitable if one isn't careful.
-  * Learning skiing at younger age will definitely improve your muscle memory.
+- Learning skiing at younger age will definitely improve your muscle memory.
   I have seen small kids skiing like professionals.
-  * I have seen 7-year-olds to 60-year-olds in the same school.
+- I have seen 7-year-olds to 60-year-olds in the same school.
   Age is no bar but the older ones are bit prone to injuries.
   Maintain good level of fitness and I am sure everyone will do great.
-  * Take the fear out of you.
+- Take the fear out of you.
   It gets tougher when the slopes become steeper.
 
 I hope the above information is useful and hope to see more enthusiastic people.

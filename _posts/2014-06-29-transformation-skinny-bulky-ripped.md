@@ -69,35 +69,35 @@ Arnold Schwarzenegger when I started, now it is [Lazar Angelov](http://www.lazar
 
 **3 key things for fitness:**
 
-  * **Consistency/Persistence:**
-    Rome was not built in a day.
-    I have had friends who tell me dude "I am hitting the gym and I am not getting any results".
-    My first question to them was how many days are you working out.
-    They would say 2 times or 3 times on and off.
-    If you are not consistent enough about your routine and diet you are not going to achieve results even if you have the best personal trainer and the best workout program.
-    Only thing you will be doing is wasting 5k every month in drain.
+- **Consistency/Persistence:**
+  Rome was not built in a day.
+  I have had friends who tell me dude "I am hitting the gym and I am not getting any results".
+  My first question to them was how many days are you working out.
+  They would say 2 times or 3 times on and off.
+  If you are not consistent enough about your routine and diet you are not going to achieve results even if you have the best personal trainer and the best workout program.
+  Only thing you will be doing is wasting 5k every month in drain.
 
-    Tip: Best way to keep record and be accountable is to maintain a workout log.
+  Tip: Best way to keep record and be accountable is to maintain a workout log.
 
-  * **Diet:**
-    Diet contributes 50% to a great physique.
-    If you eat unhealthy then you will not get results.
-    I was eating healthy most of the days but I was taking high protein diet for couple of months but I was never reaching my desired physique.
-    Then I realised I was eating more than what I needed.
-    Whatever excess calorie I am taking was becoming fat.
-    Always have a balanced meal (carbs 40%, protein 50%, essential fats 10%) and of course the micro nutrients (greens and salads).
-    Will get in details about my meal plan later.
+- **Diet:**
+  Diet contributes 50% to a great physique.
+  If you eat unhealthy then you will not get results.
+  I was eating healthy most of the days but I was taking high protein diet for couple of months but I was never reaching my desired physique.
+  Then I realised I was eating more than what I needed.
+  Whatever excess calorie I am taking was becoming fat.
+  Always have a balanced meal (carbs 40%, protein 50%, essential fats 10%) and of course the micro nutrients (greens and salads).
+  Will get in details about my meal plan later.
 
-  * **No pain No gain:**
-    You have to strain your muscle to gain muscle.
-    If you look cute after your workout then you have not worked out enough.
-    Of course you need to keep your workout interesting, mix it up every month.
-    Just keep away from plateau by challenging yourself.
+- **No pain No gain:**
+  You have to strain your muscle to gain muscle.
+  If you look cute after your workout then you have not worked out enough.
+  Of course you need to keep your workout interesting, mix it up every month.
+  Just keep away from plateau by challenging yourself.
 
-  * **Bulking up or Loosing Fat?**
-    This is one of the most debatable questions in the fitness world.
-    I still think it is doable if you keep your diet a bit calorie deficit and protein intensive.
-    It worked out for me.
+- **Bulking up or Loosing Fat?**
+  This is one of the most debatable questions in the fitness world.
+  I still think it is doable if you keep your diet a bit calorie deficit and protein intensive.
+  It worked out for me.
 
 **How long do you workout in Gym?**
 
@@ -181,7 +181,7 @@ Simple rule be calorie deficit to cut down.
 **3) Fats:**
 Essential fats are necessary but it is always good to stay away from fried foods.
 
-_* If you can burn the calories you eat then well and good, you can eat anything._
+_\* If you can burn the calories you eat then well and good, you can eat anything._
 
 **What is my next fitness challenge?**
 

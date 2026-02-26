@@ -7,6 +7,7 @@ thumbnail: /assets/img/blog/meditation.png
 tags: philosophy meditation vipassana
 categories: philosophy
 ---
+
 ![image-center](/assets/img/blog/meditation.png){: .align-center}
 It has been almost a year since I did the course and started this post.
 Finally the post is up.
@@ -49,36 +50,37 @@ So I thought as I have tried lots of things then why not Vipassana, lets give it
 **10 days of experience with reality/truth:**
 
 **Code of conduct for the course:**
-  * No contact with the outside world.
-(Easy for me as I liked hiking I wanted to be alone, especially when we want to work with our own mind.)
-  * Observe noble silence.
- Noble silence is not to talk to your fellow students nor expressing oneself using hand signals, just no eye contact too.
-  * No electronics, books, notepads and pens literally no entertainment. For a person like me whose day begins and ends in front of a laptop, it was hard.
+
+- No contact with the outside world.
+  (Easy for me as I liked hiking I wanted to be alone, especially when we want to work with our own mind.)
+- Observe noble silence.
+  Noble silence is not to talk to your fellow students nor expressing oneself using hand signals, just no eye contact too.
+- No electronics, books, notepads and pens literally no entertainment. For a person like me whose day begins and ends in front of a laptop, it was hard.
 
 [For more details.](http://www.dhamma.org/en/code.shtml "Vipassana Course Code")
 
 **Course timetable:**
 
-  |-----------------+-------------------------------|
-  | Time | Activity |
-  |:--------------|:---------------------------------|
-  | 4:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Morning wake-up bell |
-  | 4:30 - 6:30 | Meditate in the hall or in your room |
-  | 6:30 - 8:00 | Breakfast break |
-  | 8:00 - 9:00 | Group meditation in the hall |
-  | 9:00 - 11:00 | Meditate in the hall or in your room according to the teacher's instructions |
-  | 11:00 - 12:00 | Lunch break |
-  | 12:00 - 1:00 | Rest and interviews with the teacher |
-  | 1:00 - 2:30 | Meditate in the hall or in your room |
-  | 2:30 - 3:30 | Group meditation in the hall |
-  | 3:30 - 5:00 | Meditate in the hall or in your own room according to the teacher's instructions |
-  | 5:00 - 6:00 | Tea break |
-  | 6:00 - 7:00 | Group meditation in the hall |
-  | 7:00 - 8:15 | Teacher's Discourse in the hall |
-  | 8:15 - 9:00 | Group meditation in the hall |
-  | 9:00 - 9:30 | Question time in the hall |
-  | 9:30 | Retire to your own room. Lights out |
-  |=========|
+|-----------------+-------------------------------|
+| Time | Activity |
+|:--------------|:---------------------------------|
+| 4:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Morning wake-up bell |
+| 4:30 - 6:30 | Meditate in the hall or in your room |
+| 6:30 - 8:00 | Breakfast break |
+| 8:00 - 9:00 | Group meditation in the hall |
+| 9:00 - 11:00 | Meditate in the hall or in your room according to the teacher's instructions |
+| 11:00 - 12:00 | Lunch break |
+| 12:00 - 1:00 | Rest and interviews with the teacher |
+| 1:00 - 2:30 | Meditate in the hall or in your room |
+| 2:30 - 3:30 | Group meditation in the hall |
+| 3:30 - 5:00 | Meditate in the hall or in your own room according to the teacher's instructions |
+| 5:00 - 6:00 | Tea break |
+| 6:00 - 7:00 | Group meditation in the hall |
+| 7:00 - 8:15 | Teacher's Discourse in the hall |
+| 8:15 - 9:00 | Group meditation in the hall |
+| 9:00 - 9:30 | Question time in the hall |
+| 9:30 | Retire to your own room. Lights out |
+|=========|
 
 The first thing one would observe was no DINNER and only VEG.
 For first few days it was hard for me.
