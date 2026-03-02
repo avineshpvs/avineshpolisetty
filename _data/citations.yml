@@ -1,103 +1,151 @@
 metadata:
-  last_updated: '2026-02-17'
+  last_updated: '2026-03-02'
 papers:
+  F4u28JcAAAAJ:0EnyYjriUFMC:
+    citations: 36
+    title: Description of the system developed by team athene in the fnc-1
+    year: '2017'
+  F4u28JcAAAAJ:2osOgNQ5qMEC:
+    citations: 10
+    title: A data mining approach to learn reorder rules for SMT
+    year: '2010'
+  F4u28JcAAAAJ:3fE2CSJIrl8C:
+    citations: 8
+    title: Terms for query expansion using unstructured data
+    year: '2019'
+  F4u28JcAAAAJ:4DMP91E08xMC:
+    citations: 16
+    title: 'J3R: Joint multi-task learning of ratings and review summaries for explainable recommendation'
+    year: '2019'
+  F4u28JcAAAAJ:4TOpqqG69KYC:
+    citations: 11
+    title: What's Important in a Text? An Extensive Evaluation of Linguistic Annotations for Summarization
+    year: '2018'
+  F4u28JcAAAAJ:7PzlFSSx8tAC:
+    citations: 11
+    title: Description of the system developed by team Athene in the FNC-1, 2017
+    year: '2018'
+  F4u28JcAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: Phrase Based Decoding using a Discriminative Model
+    year: '2010'
+  F4u28JcAAAAJ:IjCSPb-OGe4C:
+    citations: 1
+    title: Transfer Grammar Engine and Automatic Learning of Reorder Rules in Machine Translation
+    year: '2011'
+  F4u28JcAAAAJ:KlAtU1dfN6UC:
+    citations: 13
+    title: Answering natural language table queries through semantic table representation
+    year: '2019'
+  F4u28JcAAAAJ:L8Ckcad2t8MC:
+    citations: 17
+    title: Comparative study of various machine learning methods for telugu part of speech tagging
+    year: '2006'
+  F4u28JcAAAAJ:M3ejUd6NZC8C:
+    citations: 6
+    title: Comparative study of various Machine Learning methods For Telugu Part of Speech tagging
+    year: '2006'
+  F4u28JcAAAAJ:MXK_kJrjxJIC:
+    citations: 361
+    title: A retrospective analysis of the fake news challenge stance-detection task
+    year: '2018'
+  F4u28JcAAAAJ:QIV2ME_5wuYC:
+    citations: 2
+    title: Does Syntactic Knowledge help English-Hindi SMT?
+    year: '2014'
   F4u28JcAAAAJ:Se3iqnhoufwC:
     citations: 50
     title: Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback
     year: '2017'
-  F4u28JcAAAAJ:aqlVkmm33-oC:
-    citations: 10
-    title: Data-efficient Neural Text Compression with Interactive Learning
-    year: '2019'
-  F4u28JcAAAAJ:MXK_kJrjxJIC:
-    citations: 357
-    title: A Retrospective Analysis of the Fake News Challenge Stance-Detection Task
-    year: '2018'
-  F4u28JcAAAAJ:hqOjcs7Dif8C:
-    citations: 30
-    title: 'Sherlock: A System for Interactive Summarization of Large Text Collections'
-    year: '2018'
-  F4u28JcAAAAJ:4TOpqqG69KYC:
-    citations: 11
-    title: "What\u2019s Important in a Text? An Extensive Evaluation of Linguistic Annotations for Summarization"
-    year: '2018'
-  F4u28JcAAAAJ:_FxGoFyzp5QC:
-    citations: 4
-    title: 'ThinkMiners: Disorder Recognition using Conditional Random Fields and Distributional Semantics'
-    year: '2014'
-  F4u28JcAAAAJ:eQOLeE2rZwMC:
+  F4u28JcAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Phrase Based Decoding using a Discriminative Model
+    year: '2010'
+  F4u28JcAAAAJ:ULOm3_A8WrAC:
     citations: 3
-    title: Domain Specific Corpora from the Web
-    year: '2012'
-  F4u28JcAAAAJ:zYLM7Y9cAGgC:
-    citations: 10
-    title: BootCatting comparable corpora
-    year: '2012'
-  F4u28JcAAAAJ:qjMakFHDy7sC:
-    citations: 10
-    title: Comparable Corpora BootCaT
-    year: '2011'
-  F4u28JcAAAAJ:ufrVoPGSRksC:
-    citations: 1
-    title: Transferring Syntactic Relations from English to Hindi Using Alignments on Local Word Groups
-    year: '2011'
-  F4u28JcAAAAJ:u-x6o8ySG0sC:
-    citations: 162
-    title: A Corpus Factory for Many Languages
-    year: '2010'
-  F4u28JcAAAAJ:Y0pCki6q_DkC:
-    citations: 71
-    title: 'Gap-fill Tests for Language Learners: Corpus-Driven Item Generation'
-    year: '2010'
+    title: Scoring candidate evidence passages for criteria validation using historical evidence data
+    year: '2019'
   F4u28JcAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: Phrase-Based Transliteration with Simple Heuristics
     year: '2010'
-  F4u28JcAAAAJ:2osOgNQ5qMEC:
-    citations: 10
-    title: A Data Mining Approach to Learn Reorder Rules for SMT
-    year: '2010'
-  F4u28JcAAAAJ:Tyk-4Ss8FVUC:
+  F4u28JcAAAAJ:UebtZRa9Y70C:
     citations: 0
-    title: Phrase-Based Decoding using a Discriminative Model
-    year: '2010'
-  F4u28JcAAAAJ:u5HHmVD_uO8C:
-    citations: 164
-    title: Part Of Speech Tagging Using Conditional Random Fields and Transformation Based Learning
-    year: '2007'
-  F4u28JcAAAAJ:KlAtU1dfN6UC:
-    citations: 13
-    title: Answering Natural Language Table Queries Through Semantic Table Representation
-    year: '2019'
-  F4u28JcAAAAJ:kNdYIx-mwKoC:
-    citations: 28
-    title: Automated Correction of Natural Language Processing Systems
-    year: '2017'
-  F4u28JcAAAAJ:3fE2CSJIrl8C:
-    citations: 8
-    title: Terms for Query Expansion Using Unstructured Data
-    year: '2019'
-  F4u28JcAAAAJ:_kc_bZDykSQC:
-    citations: 9
-    title: Live blog corpus for summarization
-    year: '2018'
+    title: Live-Blogs and Summarization
+    year: Unknown Year
   F4u28JcAAAAJ:Wp0gIr-vW9MC:
     citations: 1
     title: Information Preparation with the Human in the Loop
     year: '2020'
-  F4u28JcAAAAJ:4DMP91E08xMC:
-    citations: 16
-    title: "J3R: Joint Multi-task Learning of Ratings and Review Summaries for Explainable Recommendation"
-    year: '2019'
-  F4u28JcAAAAJ:QIV2ME_5wuYC:
-    citations: 2
-    title: "Does Syntactic Knowledge help English-Hindi SMT?"
+  F4u28JcAAAAJ:Y0pCki6q_DkC:
+    citations: 71
+    title: 'Gap-fill Tests for Language Learners: Corpus-Driven Item Generation'
+    year: '2010'
+  F4u28JcAAAAJ:_FxGoFyzp5QC:
+    citations: 4
+    title: 'ThinkMiners: Disorder Recognition using Conditional Random Fields and Distributional Semantics'
     year: '2014'
+  F4u28JcAAAAJ:_kc_bZDykSQC:
+    citations: 9
+    title: Live blog corpus for summarization
+    year: '2018'
+  F4u28JcAAAAJ:aqlVkmm33-oC:
+    citations: 10
+    title: Data-efficient neural text compression with interactive learning
+    year: '2019'
+  F4u28JcAAAAJ:dhFuZR0502QC:
+    citations: 5
+    title: Live blog summarization
+    year: '2021'
+  F4u28JcAAAAJ:eQOLeE2rZwMC:
+    citations: 3
+    title: Domain Specific Corpora from the Web
+    year: '2012'
+  F4u28JcAAAAJ:hC7cP41nSMkC:
+    citations: 0
+    title: 'Testing for Language Teachers: Author Index'
+    year: Unknown Year
   F4u28JcAAAAJ:hFOr9nPyWt4C:
     citations: 2
-    title: "Model Stability with Continuous Data Updates"
+    title: Model Stability with Continuous Data Updates. CoRR abs/2201.05692 (2022)
     year: '2022'
+  F4u28JcAAAAJ:hqOjcs7Dif8C:
+    citations: 30
+    title: 'Sherlock: a system for interactive summarization of large text collections'
+    year: '2018'
+  F4u28JcAAAAJ:kNdYIx-mwKoC:
+    citations: 28
+    title: Automated correction of natural language processing systems
+    year: '2017'
   F4u28JcAAAAJ:mB3voiENLucC:
     citations: 4
-    title: "Can Open Domain Question Answering Systems Answer Visual Knowledge Questions?"
+    title: Can open domain question answering systems answer visual knowledge questions?
     year: '2022'
+  F4u28JcAAAAJ:mVmsd5A6BfQC:
+    citations: 16
+    title: Team Athene on the fake news challenge
+    year: '2017'
+  F4u28JcAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: 'J3R: Joint Multi-task Learning of Ratings and Review Summaries for Explainable Recommendation'
+    year: '2020'
+  F4u28JcAAAAJ:qjMakFHDy7sC:
+    citations: 10
+    title: Comparable Corpora BootCaT
+    year: '2011'
+  F4u28JcAAAAJ:u-x6o8ySG0sC:
+    citations: 163
+    title: A Corpus Factory for Many Languages.
+    year: '2010'
+  F4u28JcAAAAJ:u5HHmVD_uO8C:
+    citations: 164
+    title: Part-of-speech tagging and chunking using conditional random fields and transformation based learning
+    year: '2007'
+  F4u28JcAAAAJ:ufrVoPGSRksC:
+    citations: 1
+    title: Transferring Syntactic Relations from English to Hindi Using Alignments on Local Word Groups
+    year: '2011'
+  F4u28JcAAAAJ:zYLM7Y9cAGgC:
+    citations: 10
+    title: BootCatting comparable corpora
+    year: '2011'
