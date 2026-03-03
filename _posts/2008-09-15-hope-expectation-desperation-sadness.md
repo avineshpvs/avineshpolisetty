@@ -3,12 +3,12 @@ layout: post
 title: "Hope -> Expectation -> Desperation -> Sadness"
 date: 2008-09-15 14:22:25
 description: Exploring how hope leads to expectation, then desperation, and finally sadness, and how to break the cycle.
-thumbnail: /assets/img/blog/expecations.png
+thumbnail: /assets/img/blog/expecations.jpg
 tags: philosophy happiness expectations
 categories: philosophy
 ---
 
-{% include figure.liquid loading="eager" path="/assets/img/blog/expecations.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Hope > Expectations > Desperation > Sadness" %}
+{% include figure.liquid loading="eager" path="/assets/img/blog/expecations.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Hope > Expectations > Desperation > Sadness" %}
 
 **Hope**: A belief in a positive outcome related to events and circumstances in one's life. Hope implies a certain amount of perseverance — i.e., believing that a positive outcome is possible even when there is some evidence to the contrary.
 
