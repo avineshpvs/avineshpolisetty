@@ -120,7 +120,9 @@ pagination:
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
 
-    <li>
+    {% assign post_slug = post.url | remove_first: '/' | remove: '/' | replace: '/', '-' %}
+
+    <li data-post-slug="{{ post_slug }}">
 
 {% if post.thumbnail %}
 
@@ -175,6 +177,17 @@ pagination:
               {% endunless %}
               {% endfor %}
           {% endif %}
+    </p>
+    <p class="post-counts">
+      <span class="listing-count-badge">
+        <i class="fa-regular fa-heart fa-sm"></i>
+        <span class="listing-like-count">–</span>
+      </span>
+      &nbsp; &middot; &nbsp;
+      <span class="listing-count-badge">
+        <i class="fa-solid fa-share-nodes fa-sm"></i>
+        <span class="listing-share-count">–</span>
+      </span>
     </p>
 
 {% if post.thumbnail %}

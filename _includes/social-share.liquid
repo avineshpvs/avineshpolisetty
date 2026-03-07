@@ -3,10 +3,19 @@
 {% assign share_url_encoded = share_url | url_encode %}
 
 <div class="social-share">
+  <!-- Like button -->
+  <button class="share-like-btn" title="Like this post" aria-label="Like this post">
+    <i class="fa-regular fa-heart"></i>
+    <span class="share-count"></span>
+  </button>
+
+  <span class="share-divider"></span>
+
   <span class="share-label">Share:</span>
 
   <!-- X / Twitter -->
   <a
+    class="share-platform-btn"
     href="https://twitter.com/intent/tweet?text={{ share_title }}&url={{ share_url_encoded }}{% if site.x_username %}&via={{ site.x_username }}{% endif %}"
     target="_blank"
     rel="noopener noreferrer"
@@ -18,6 +27,7 @@
 
   <!-- LinkedIn -->
   <a
+    class="share-platform-btn"
     href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url_encoded }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -29,6 +39,7 @@
 
   <!-- Facebook -->
   <a
+    class="share-platform-btn"
     href="https://www.facebook.com/sharer/sharer.php?u={{ share_url_encoded }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -40,6 +51,7 @@
 
   <!-- WhatsApp -->
   <a
+    class="share-platform-btn"
     href="https://wa.me/?text={{ share_title }}%20{{ share_url_encoded }}"
     target="_blank"
     rel="noopener noreferrer"
@@ -58,4 +70,12 @@
   >
     <i class="fa-solid fa-link"></i>
   </button>
+
+  <span class="share-divider"></span>
+
+  <!-- Total share count -->
+  <span class="share-total-label">
+    <i class="fa-solid fa-share-nodes fa-sm"></i>
+    <span class="share-total-count"></span>
+  </span>
 </div>

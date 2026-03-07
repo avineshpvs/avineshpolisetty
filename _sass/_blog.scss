@@ -210,4 +210,65 @@
       text-decoration: none;
     }
   }
+
+  // Like button
+  .share-like-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0 0.5rem;
+    width: auto;
+    border-radius: 1rem;
+    font-size: 0.875rem;
+
+    .share-count {
+      font-size: 0.8rem;
+      min-width: 1ch;
+    }
+
+    &.liked {
+      color: #e05;
+      border-color: #e05;
+    }
+
+    &.liked:hover {
+      color: #e05;
+      border-color: #e05;
+    }
+  }
+
+  // Divider between like / share sections
+  .share-divider {
+    width: 1px;
+    height: 1.25rem;
+    background: var(--global-divider-color);
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  // Share total count
+  .share-total-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+
+    .share-total-count {
+      min-width: 1ch;
+    }
+  }
+}
+
+// Listing count badges
+.post-counts {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  margin-bottom: 0;
+
+  .listing-count-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
 }
