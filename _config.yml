@@ -125,7 +125,7 @@ disqus_shortname: # put your disqus shortname
 
 # GraphComment
 graphcomment:
-  website_id: # disabled in favour of Giscus
+  website_id: "Avinesh-Polisetty-"
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
@@ -230,11 +230,6 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-  - scope:
-      path: ""
-      type: posts
-    values:
-      giscus_comments: true
 
 sass:
   style: compressed

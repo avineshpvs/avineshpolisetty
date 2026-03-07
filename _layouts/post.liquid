@@ -93,9 +93,18 @@ layout: default
   {% if site.disqus_shortname and page.disqus_comments %}
     {% include disqus.liquid %}
   {% endif %}
-  {% if site.giscus and page.giscus_comments %}
-    {% include giscus.liquid %}
+
+  {% comment %}
+    Giscus is loaded off-screen to create GitHub Discussions and emit reaction
+    counts (emit_metadata: 1) that power the like button. GraphComment handles
+    the visible comment section below.
+  {% endcomment %}
+  {% if site.giscus.repo %}
+    <div aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);">
+      {% include giscus.liquid %}
+    </div>
   {% endif %}
+
   {% if site.graphcomment.website_id %}
     {% include graphcomment.liquid %}
   {% endif %}
