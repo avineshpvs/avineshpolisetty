@@ -38,18 +38,33 @@
     giscusContainer.appendChild(script);
   }
 
-  // Cap the iframe height so only the reactions bar is visible.
-  // Giscus sends {giscus: {resizeHeight: N}} to resize its iframe —
-  // we intercept this and pin the height to the reactions bar (~52px).
-  const REACTIONS_HEIGHT = 60;
-  window.addEventListener("message", function (event) {
-    if (event.origin !== "https://giscus.app") return;
-    if (!event.data || !event.data.giscus) return;
-    if (event.data.giscus.resizeHeight) {
-      const iframe = document.querySelector("iframe.giscus-frame");
-      if (iframe) iframe.style.height = REACTIONS_HEIGHT + "px";
-    }
+  // Pin the iframe height to show only the reactions bar.
+  // Use MutationObserver so the cap is enforced immediately whenever
+  // Giscus's client.js tries to resize the iframe after load.
+  const REACTIONS_HEIGHT = 80;
+
+  function pinIframeHeight(iframe) {
+    iframe.style.setProperty("height", REACTIONS_HEIGHT + "px", "important");
+    iframe.setAttribute("height", REACTIONS_HEIGHT);
+    iframe.style.setProperty("min-height", REACTIONS_HEIGHT + "px", "important");
+    iframe.style.setProperty("max-height", REACTIONS_HEIGHT + "px", "important");
+  }
+
+  // Watch the container for the iframe being inserted, then observe its attributes
+  const containerObserver = new MutationObserver(function (mutations) {
+    mutations.forEach(function (mutation) {
+      mutation.addedNodes.forEach(function (node) {
+        if (node.nodeName === "IFRAME" && node.classList.contains("giscus-frame")) {
+          pinIframeHeight(node);
+          // Also watch for Giscus trying to change height after initial render
+          new MutationObserver(function () {
+            pinIframeHeight(node);
+          }).observe(node, { attributes: true, attributeFilter: ["height", "style"] });
+        }
+      });
+    });
   });
+  containerObserver.observe(giscusContainer, { childList: true, subtree: true });
 
   // Relay theme changes to the Giscus iframe
   function sendThemeToGiscus(theme) {
