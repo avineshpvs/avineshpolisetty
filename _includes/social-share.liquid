@@ -1,0 +1,61 @@
+{% assign share_url = page.url | prepend: site.baseurl | prepend: site.url %}
+{% assign share_title = page.title | url_encode %}
+{% assign share_url_encoded = share_url | url_encode %}
+
+<div class="social-share">
+  <span class="share-label">Share:</span>
+
+  <!-- X / Twitter -->
+  <a
+    href="https://twitter.com/intent/tweet?text={{ share_title }}&url={{ share_url_encoded }}{% if site.x_username %}&via={{ site.x_username }}{% endif %}"
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Share on X"
+    aria-label="Share on X"
+  >
+    <i class="fa-brands fa-x-twitter"></i>
+  </a>
+
+  <!-- LinkedIn -->
+  <a
+    href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url_encoded }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Share on LinkedIn"
+    aria-label="Share on LinkedIn"
+  >
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+
+  <!-- Facebook -->
+  <a
+    href="https://www.facebook.com/sharer/sharer.php?u={{ share_url_encoded }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Share on Facebook"
+    aria-label="Share on Facebook"
+  >
+    <i class="fa-brands fa-facebook"></i>
+  </a>
+
+  <!-- WhatsApp -->
+  <a
+    href="https://wa.me/?text={{ share_title }}%20{{ share_url_encoded }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Share on WhatsApp"
+    aria-label="Share on WhatsApp"
+  >
+    <i class="fa-brands fa-whatsapp"></i>
+  </a>
+
+  <!-- Copy link -->
+  <button
+    class="share-copy-btn"
+    onclick="navigator.clipboard.writeText('{{ share_url }}').then(function(){ var btn = this; btn.innerHTML = '<i class=\'fa-solid fa-check\'></i>'; setTimeout(function(){ btn.innerHTML = '<i class=\'fa-solid fa-link\'></i>'; }, 2000); }.bind(this))"
+    title="Copy link"
+    aria-label="Copy link"
+  >
+    <i class="fa-solid fa-link"></i>
+  </button>
+</div>
