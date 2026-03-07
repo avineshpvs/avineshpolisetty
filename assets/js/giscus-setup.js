@@ -38,6 +38,19 @@
     giscusContainer.appendChild(script);
   }
 
+  // Cap the iframe height so only the reactions bar is visible.
+  // Giscus sends {giscus: {resizeHeight: N}} to resize its iframe —
+  // we intercept this and pin the height to the reactions bar (~52px).
+  const REACTIONS_HEIGHT = 60;
+  window.addEventListener("message", function (event) {
+    if (event.origin !== "https://giscus.app") return;
+    if (!event.data || !event.data.giscus) return;
+    if (event.data.giscus.resizeHeight) {
+      const iframe = document.querySelector("iframe.giscus-frame");
+      if (iframe) iframe.style.height = REACTIONS_HEIGHT + "px";
+    }
+  });
+
   // Relay theme changes to the Giscus iframe
   function sendThemeToGiscus(theme) {
     const iframe = document.querySelector("iframe.giscus-frame");

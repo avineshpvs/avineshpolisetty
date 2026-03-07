@@ -272,3 +272,23 @@
     gap: 0.3rem;
   }
 }
+
+// Giscus reactions-only strip (clips comment input/comments from view)
+.giscus-reactions-only {
+  margin: 1.5rem 0 0.5rem;
+
+  .reactions-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--global-text-color-light);
+    margin-bottom: 0.4rem;
+  }
+
+  // Clip the iframe to only show the top reactions bar (~52px)
+  // The reactions bar is the first element in the Giscus widget
+  .giscus,
+  #giscus_thread {
+    max-height: 60px;
+    overflow: hidden;
+  }
+}
