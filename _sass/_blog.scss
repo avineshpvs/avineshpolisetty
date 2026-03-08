@@ -272,3 +272,63 @@
     gap: 0.3rem;
   }
 }
+
+// Emoji reaction bar
+.post-reactions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+
+  .reactions-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--global-text-color-light);
+    margin-right: 0.25rem;
+  }
+
+  .reaction-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.65rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 2rem;
+    background: transparent;
+    cursor: pointer;
+    font-size: 0.875rem;
+    color: var(--global-text-color);
+    transition:
+      border-color 0.2s,
+      background 0.2s,
+      transform 0.1s;
+
+    .reaction-emoji {
+      font-size: 1rem;
+      line-height: 1;
+    }
+
+    .reaction-count {
+      font-size: 0.78rem;
+      color: var(--global-text-color-light);
+      min-width: 1ch;
+    }
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      background: transparent;
+      transform: scale(1.1);
+    }
+
+    &.reacted {
+      border-color: var(--global-theme-color);
+      background: color-mix(in srgb, var(--global-theme-color) 10%, transparent);
+
+      .reaction-count {
+        color: var(--global-theme-color);
+        font-weight: 600;
+      }
+    }
+  }
+}

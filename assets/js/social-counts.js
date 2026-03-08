@@ -110,10 +110,46 @@ async function initListingCounts() {
   );
 }
 
+// ── Emoji reactions ────────────────────────────────────────────────────────────
+
+async function initReactions() {
+  const btns = document.querySelectorAll(".reaction-btn");
+  if (!btns.length) return;
+
+  const slug = postSlug();
+
+  await Promise.all(
+    Array.from(btns).map(async (btn) => {
+      const emoji = btn.dataset.emoji;
+      const key = `react-${slug}-${encodeURIComponent(emoji)}`;
+      const storageKey = `reacted-${slug}-${emoji}`;
+      const countEl = btn.querySelector(".reaction-count");
+
+      // Restore reacted state
+      if (localStorage.getItem(storageKey) === "1") btn.classList.add("reacted");
+
+      // Load current count
+      const count = await getCount(key);
+      if (countEl) countEl.textContent = count !== null ? formatCount(count) : "0";
+
+      btn.addEventListener("click", async () => {
+        // Toggle: allow one reaction per emoji per browser
+        const already = localStorage.getItem(storageKey) === "1";
+        if (already) return;
+        localStorage.setItem(storageKey, "1");
+        btn.classList.add("reacted");
+        const newCount = await hitCount(key);
+        if (countEl && newCount !== null) countEl.textContent = formatCount(newCount);
+      });
+    })
+  );
+}
+
 // ── Init ───────────────────────────────────────────────────────────────────────
 
 document.addEventListener("DOMContentLoaded", () => {
   initLikeButton();
   initShareCounts();
   initListingCounts();
+  initReactions();
 });
