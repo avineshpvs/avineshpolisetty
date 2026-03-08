@@ -314,12 +314,12 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">1</div><div class="bl-item-content">Visit all Seven Wonders of the world</div></div>
-    <div class="bl-item"><div class="bl-item-num">2</div><div class="bl-item-content">Visit all the countries in the world<span class="bl-item-date">29 so far!</span></div></div>
+    <div class="bl-item"><div class="bl-item-num">2</div><div class="bl-item-content">Visit all the countries in the world<span class="bl-item-date">30 so far!</span></div></div>
   </div>
   <div class="bl-map-section">
     <div class="bl-map-header">
       <span>🌍 Countries Visited</span>
-      <span class="bl-map-count">29 countries visited</span>
+      <span class="bl-map-count">30 countries visited</span>
     </div>
     <div id="visited-countries-map"></div>
     <div class="bl-countries-list">
@@ -363,6 +363,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
           <span class="bl-country-chip">Brazil</span>
           <span class="bl-country-chip">Canada</span>
           <span class="bl-country-chip">Colombia</span>
+          <span class="bl-country-chip">Panama</span>
           <span class="bl-country-chip">USA</span>
         </div>
       </div>
@@ -927,7 +928,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
             "IN", "JP", "MY", "SG", "TH", "AE",
             "AT", "BE", "CZ", "FR", "DE", "HU", "IT", "LU",
             "NL", "NO", "PT", "RO", "RS", "SI", "ES", "SE", "CH", "GB",
-            "CA", "US", "BR", "CO", "AU",
+            "CA", "US", "BR", "CO", "PA", "AU",
           ],
         });
       };
