@@ -227,6 +227,64 @@ html[data-theme="dark"] {
   .bl-video-embed { flex: none; width: 100%; order: 1; }
   .bl-video-body { order: 2; padding: 0.75rem; }
 }
+
+/* Countries Map Widget */
+.bl-map-section {
+  background: var(--bl-card-bg);
+  border: 1px solid var(--bl-card-border);
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 0.75rem 0 1rem;
+  box-shadow: var(--bl-shadow);
+}
+.bl-map-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.55rem 0.85rem;
+  background: linear-gradient(135deg, var(--bl-dark) 0%, #1e293b 100%);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+.bl-map-count {
+  font-size: 0.72rem;
+  background: rgba(255,255,255,0.15);
+  padding: 0.1rem 0.5rem;
+  border-radius: 20px;
+}
+#visited-countries-map {
+  width: 100%;
+  height: 280px;
+}
+#visited-countries-map .jsvectormap-zoomin,
+#visited-countries-map .jsvectormap-zoomout { display: none; }
+.bl-countries-list {
+  padding: 0.6rem 0.85rem;
+  border-top: 1px solid var(--bl-card-border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+.bl-continent-group { flex: 1; min-width: 130px; }
+.bl-continent-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--bl-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+.bl-country-chips { display: flex; flex-wrap: wrap; gap: 0.2rem; }
+.bl-country-chip {
+  font-size: 0.65rem;
+  color: var(--bl-gray);
+  background: var(--bl-light);
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
 </style>
 
 <div class="bucket-list-wrapper">
@@ -261,7 +319,64 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-item"><div class="bl-item-num">7</div><div class="bl-item-content">Patagonia trekking - Chile's Torres del Paine</div></div>
     <div class="bl-item"><div class="bl-item-num">8</div><div class="bl-item-content">Camino de Santiago (Galicia, Spain)</div></div>
   </div>
-  <a class="bl-link" href="https://cmoreira.net/visited-countries-map/?vcstitle=Countries%20Visited&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=IN,JP,MY,SG,TH,AE,AT,BE,CZ,FR,DE,HU,IT,LU,NL,NO,PT,RO,RS,SI,ES,SE,CH,GB,CA,US,BR,CO,AU&">🗺️ View Countries Map</a>
+  <div class="bl-map-section">
+    <div class="bl-map-header">
+      <span>🌍 Countries Visited</span>
+      <span class="bl-map-count">29 countries · goal: 150</span>
+    </div>
+    <div id="visited-countries-map"></div>
+    <div class="bl-countries-list">
+      <div class="bl-continent-group">
+        <span class="bl-continent-label">🌏 Asia</span>
+        <div class="bl-country-chips">
+          <span class="bl-country-chip">India</span>
+          <span class="bl-country-chip">Japan</span>
+          <span class="bl-country-chip">Malaysia</span>
+          <span class="bl-country-chip">Singapore</span>
+          <span class="bl-country-chip">Thailand</span>
+          <span class="bl-country-chip">UAE</span>
+        </div>
+      </div>
+      <div class="bl-continent-group">
+        <span class="bl-continent-label">🌍 Europe</span>
+        <div class="bl-country-chips">
+          <span class="bl-country-chip">Austria</span>
+          <span class="bl-country-chip">Belgium</span>
+          <span class="bl-country-chip">Czech Rep.</span>
+          <span class="bl-country-chip">France</span>
+          <span class="bl-country-chip">Germany</span>
+          <span class="bl-country-chip">Hungary</span>
+          <span class="bl-country-chip">Italy</span>
+          <span class="bl-country-chip">Luxembourg</span>
+          <span class="bl-country-chip">Netherlands</span>
+          <span class="bl-country-chip">Norway</span>
+          <span class="bl-country-chip">Portugal</span>
+          <span class="bl-country-chip">Romania</span>
+          <span class="bl-country-chip">Serbia</span>
+          <span class="bl-country-chip">Slovenia</span>
+          <span class="bl-country-chip">Spain</span>
+          <span class="bl-country-chip">Sweden</span>
+          <span class="bl-country-chip">Switzerland</span>
+          <span class="bl-country-chip">UK</span>
+        </div>
+      </div>
+      <div class="bl-continent-group">
+        <span class="bl-continent-label">🌎 Americas</span>
+        <div class="bl-country-chips">
+          <span class="bl-country-chip">Brazil</span>
+          <span class="bl-country-chip">Canada</span>
+          <span class="bl-country-chip">Colombia</span>
+          <span class="bl-country-chip">USA</span>
+        </div>
+      </div>
+      <div class="bl-continent-group">
+        <span class="bl-continent-label">🌏 Oceania</span>
+        <div class="bl-country-chips">
+          <span class="bl-country-chip">Australia</span>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
       <div class="bl-achievement-img"><img src="/assets/img/blog/biketrip/bike_trip.jpg" alt="Road trip" data-zoom-src="/assets/img/blog/biketrip/bike_trip.jpg"></div>
@@ -766,3 +881,53 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
 </div>
 
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var el = document.getElementById("visited-countries-map");
+    if (!el) return;
+
+    var link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href =
+      "https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/css/jsvectormap.min.css";
+    document.head.appendChild(link);
+
+    var s1 = document.createElement("script");
+    s1.src =
+      "https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/js/jsvectormap.min.js";
+    s1.onload = function () {
+      var s2 = document.createElement("script");
+      s2.src =
+        "https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/maps/world.js";
+      s2.onload = function () {
+        var dark =
+          document.documentElement.getAttribute("data-theme") === "dark";
+        new jsVectorMap({
+          selector: "#visited-countries-map",
+          map: "world",
+          zoomOnScroll: false,
+          regionsSelectable: false,
+          showTooltip: true,
+          regionStyle: {
+            initial: {
+              fill: dark ? "#334155" : "#e2e8f0",
+              stroke: dark ? "#1e293b" : "#ffffff",
+              strokeWidth: 0.5,
+            },
+            selected: { fill: "#0d9488" },
+            hover: { fill: "#14b8a6", cursor: "default" },
+          },
+          selectedRegions: [
+            "in", "jp", "my", "sg", "th", "ae",
+            "at", "be", "cz", "fr", "de", "hu", "it", "lu",
+            "nl", "no", "pt", "ro", "rs", "si", "es", "se", "ch", "gb",
+            "ca", "us", "br", "co", "au",
+          ],
+        });
+      };
+      document.body.appendChild(s2);
+    };
+    document.body.appendChild(s1);
+  });
+</script>
