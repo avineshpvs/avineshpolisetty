@@ -313,12 +313,6 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-item"><div class="bl-item-num">1</div><div class="bl-item-content">Visit all Seven Wonders of the world</div></div>
     <div class="bl-item"><div class="bl-item-num">2</div><div class="bl-item-content">Visit all the countries in the world<span class="bl-item-date">29 so far!</span></div></div>
   </div>
-    <div class="bl-item"><div class="bl-item-num">4</div><div class="bl-item-content">Road trip across US</div></div>
-    <div class="bl-item"><div class="bl-item-num">5</div><div class="bl-item-content">Road trip across South America</div></div>
-    <div class="bl-item"><div class="bl-item-num">6</div><div class="bl-item-content">Trans-Siberian overland journey</div></div>
-    <div class="bl-item"><div class="bl-item-num">7</div><div class="bl-item-content">Patagonia trekking - Chile's Torres del Paine</div></div>
-    <div class="bl-item"><div class="bl-item-num">8</div><div class="bl-item-content">Camino de Santiago (Galicia, Spain)</div></div>
-  </div>
   <div class="bl-map-section">
     <div class="bl-map-header">
       <span>🌍 Countries Visited</span>
