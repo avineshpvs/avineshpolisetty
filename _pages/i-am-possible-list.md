@@ -242,7 +242,7 @@ html[data-theme="dark"] {
   align-items: center;
   justify-content: space-between;
   padding: 0.55rem 0.85rem;
-  background: linear-gradient(135deg, var(--bl-dark) 0%, #1e293b 100%);
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
   color: #fff;
   font-size: 0.82rem;
   font-weight: 600;
@@ -921,10 +921,10 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
             hover: { fill: "#14b8a6", cursor: "default" },
           },
           selectedRegions: [
-            "in", "jp", "my", "sg", "th", "ae",
-            "at", "be", "cz", "fr", "de", "hu", "it", "lu",
-            "nl", "no", "pt", "ro", "rs", "si", "es", "se", "ch", "gb",
-            "ca", "us", "br", "co", "au",
+            "IN", "JP", "MY", "SG", "TH", "AE",
+            "AT", "BE", "CZ", "FR", "DE", "HU", "IT", "LU",
+            "NL", "NO", "PT", "RO", "RS", "SI", "ES", "SE", "CH", "GB",
+            "CA", "US", "BR", "CO", "AU",
           ],
         });
       };
