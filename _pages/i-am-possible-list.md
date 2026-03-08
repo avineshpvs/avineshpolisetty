@@ -242,16 +242,19 @@ html[data-theme="dark"] {
   align-items: center;
   justify-content: space-between;
   padding: 0.55rem 0.85rem;
-  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-  color: #fff;
+  background: var(--bl-light);
+  border-bottom: 1px solid var(--bl-card-border);
+  color: var(--bl-dark);
   font-size: 0.82rem;
   font-weight: 600;
 }
 .bl-map-count {
   font-size: 0.72rem;
-  background: rgba(255,255,255,0.15);
+  color: var(--bl-primary);
+  background: color-mix(in srgb, var(--bl-primary) 12%, transparent);
   padding: 0.1rem 0.5rem;
   border-radius: 20px;
+  font-weight: 600;
 }
 #visited-countries-map {
   width: 100%;
