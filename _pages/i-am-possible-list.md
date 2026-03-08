@@ -311,8 +311,8 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">1</div><div class="bl-item-content">Visit all Seven Wonders of the world</div></div>
-    <div class="bl-item"><div class="bl-item-num">2</div><div class="bl-item-content">Visit 150 countries<span class="bl-item-date">32 so far!</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">3</div><div class="bl-item-content">Visit all 7 continents — <span style="color:var(--bl-done)">✓ Asia, ✓ Europe, ✓ N. America, ✓ S. America, ✓ Australia</span>, Africa, Antarctica</div></div>
+    <div class="bl-item"><div class="bl-item-num">2</div><div class="bl-item-content">Visit all the countries in the world<span class="bl-item-date">29 so far!</span></div></div>
+  </div>
     <div class="bl-item"><div class="bl-item-num">4</div><div class="bl-item-content">Road trip across US</div></div>
     <div class="bl-item"><div class="bl-item-num">5</div><div class="bl-item-content">Road trip across South America</div></div>
     <div class="bl-item"><div class="bl-item-num">6</div><div class="bl-item-content">Trans-Siberian overland journey</div></div>
@@ -322,7 +322,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   <div class="bl-map-section">
     <div class="bl-map-header">
       <span>🌍 Countries Visited</span>
-      <span class="bl-map-count">29 countries · goal: 150</span>
+      <span class="bl-map-count">29 countries visited</span>
     </div>
     <div id="visited-countries-map"></div>
     <div class="bl-countries-list">
@@ -376,6 +376,14 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
         </div>
       </div>
     </div>
+  </div>
+  <div class="bl-items">
+    <div class="bl-item"><div class="bl-item-num">3</div><div class="bl-item-content">Visit all 7 continents — <span style="color:var(--bl-done)">✓ Asia, ✓ Europe, ✓ N. America, ✓ S. America, ✓ Australia</span>, Africa, Antarctica</div></div>
+    <div class="bl-item"><div class="bl-item-num">4</div><div class="bl-item-content">Road trip across US</div></div>
+    <div class="bl-item"><div class="bl-item-num">5</div><div class="bl-item-content">Road trip across South America</div></div>
+    <div class="bl-item"><div class="bl-item-num">6</div><div class="bl-item-content">Trans-Siberian overland journey</div></div>
+    <div class="bl-item"><div class="bl-item-num">7</div><div class="bl-item-content">Patagonia trekking - Chile's Torres del Paine</div></div>
+    <div class="bl-item"><div class="bl-item-num">8</div><div class="bl-item-content">Camino de Santiago (Galicia, Spain)</div></div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
