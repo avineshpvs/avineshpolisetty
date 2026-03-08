@@ -73,13 +73,6 @@ layout: default
 
   {% include social-share.liquid %}
 
-  {% if site.giscus.repo %}
-    <div class="giscus-reactions-only">
-      <p class="reactions-label"><i class="fa-solid fa-face-smile fa-sm"></i> Reactions</p>
-      {% include giscus.liquid %}
-    </div>
-  {% endif %}
-
   {% if page.citation %}
     {% include citation.liquid %}
   {% endif %}
