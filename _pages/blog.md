@@ -188,6 +188,11 @@ pagination:
         <i class="fa-solid fa-share-nodes fa-sm"></i>
         <span class="listing-share-count">–</span>
       </span>
+      &nbsp; &middot; &nbsp;
+      <span class="listing-count-badge">
+        <i class="fa-solid fa-face-smile fa-sm"></i>
+        <span class="listing-reaction-count">–</span>
+      </span>
     </p>
 
 {% if post.thumbnail %}

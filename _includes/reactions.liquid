@@ -1,9 +1,10 @@
 {% assign reaction_emojis = '👍,❤️,🎉,😮,🚀' | split: ',' %}
+{% assign reaction_keys = 'thumbsup,heart,party,wow,rocket' | split: ',' %}
 
 <div class="post-reactions">
   <span class="reactions-label"><i class="fa-solid fa-face-smile fa-sm"></i> Reactions</span>
   {% for emoji in reaction_emojis %}
-    <button class="reaction-btn" data-emoji="{{ emoji }}" title="{{ emoji }}">
+    <button class="reaction-btn" data-emoji="{{ emoji }}" data-reaction-key="{{ reaction_keys[forloop.index0] }}" title="{{ emoji }}">
       <span class="reaction-emoji">{{ emoji }}</span>
       <span class="reaction-count">–</span>
     </button>

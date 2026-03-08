@@ -26,7 +26,7 @@ async function getCount(key) {
 
 async function hitCount(key) {
   try {
-    const res = await fetch(`${BASE_URL}/${key}/hit`);
+    const res = await fetch(`${BASE_URL}/${key}/up`);
     if (!res.ok) return null;
     const data = await res.json();
     return data.count ?? data.value ?? null;
@@ -94,6 +94,8 @@ async function initShareCounts() {
 
 // ── Blog listing counts ────────────────────────────────────────────────────────
 
+const REACTION_KEYS = ["thumbsup", "heart", "party", "wow", "rocket"];
+
 async function initListingCounts() {
   const cards = document.querySelectorAll("[data-post-slug]");
   if (!cards.length) return;
@@ -101,11 +103,21 @@ async function initListingCounts() {
   await Promise.all(
     Array.from(cards).map(async (card) => {
       const slug = card.dataset.postSlug;
-      const [likes, shares] = await Promise.all([getCount(`like-${slug}`), getCount(`share-${slug}`)]);
+      const reactionKeys = REACTION_KEYS.map((k) => `react-${slug}-${k}`);
+      const [likes, shares, ...reactionCounts] = await Promise.all([
+        getCount(`like-${slug}`),
+        getCount(`share-${slug}`),
+        ...reactionKeys.map((k) => getCount(k)),
+      ]);
       const likeEl = card.querySelector(".listing-like-count");
       const shareEl = card.querySelector(".listing-share-count");
+      const reactionEl = card.querySelector(".listing-reaction-count");
       if (likeEl && likes !== null) likeEl.textContent = formatCount(likes);
       if (shareEl && shares !== null) shareEl.textContent = formatCount(shares);
+      if (reactionEl) {
+        const total = reactionCounts.reduce((sum, c) => sum + (c ?? 0), 0);
+        reactionEl.textContent = formatCount(total);
+      }
     })
   );
 }
@@ -121,8 +133,9 @@ async function initReactions() {
   await Promise.all(
     Array.from(btns).map(async (btn) => {
       const emoji = btn.dataset.emoji;
-      const key = `react-${slug}-${encodeURIComponent(emoji)}`;
-      const storageKey = `reacted-${slug}-${emoji}`;
+      const reactionKey = btn.dataset.reactionKey || encodeURIComponent(emoji);
+      const key = `react-${slug}-${reactionKey}`;
+      const storageKey = `reacted-${slug}-${reactionKey}`;
       const countEl = btn.querySelector(".reaction-count");
 
       // Restore reacted state
