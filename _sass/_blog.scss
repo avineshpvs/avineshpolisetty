@@ -273,7 +273,7 @@
   }
 }
 
-// Giscus reactions-only strip (clips comment input/comments from view)
+// Giscus reactions-only strip
 .giscus-reactions-only {
   margin: 1.5rem 0 0.5rem;
 
@@ -282,20 +282,5 @@
     font-weight: 600;
     color: var(--global-text-color-light);
     margin-bottom: 0.4rem;
-  }
-
-  // Clip the container
-  #giscus_thread,
-  .giscus {
-    height: 80px !important;
-    max-height: 80px !important;
-    overflow: hidden !important;
-  }
-
-  // Pin the iframe itself so Giscus can't resize it beyond the reactions bar
-  iframe.giscus-frame {
-    height: 80px !important;
-    min-height: 80px !important;
-    max-height: 80px !important;
   }
 }

@@ -1,80 +1,49 @@
 /**
- * Giscus setup — loads the Giscus iframe and relays theme changes.
- * emit_metadata: 1 is set so Giscus posts reaction counts back via postMessage,
- * which social-counts.js listens for to update the like button count.
+ * Giscus setup — loads the reactions-only Giscus widget.
+ * Uses custom theme CSS URLs that @import the built-in Giscus theme
+ * and hide the comments section, so only the emoji reactions bar shows.
+ * emit_metadata: 1 broadcasts reaction counts back to the like button.
  */
 
 (function () {
   const giscusContainer = document.getElementById("giscus_thread");
   if (!giscusContainer) return;
 
-  // Read config injected by the liquid template via data attributes on the container,
-  // falling back to values baked in at build time.
-  const repo = "avineshpvs/avineshpolisetty";
-  const repoId = "R_kgDORRtg-A";
-  const category = "General";
-  const categoryId = "DIC_kwDORRtg-M4C32Vw";
+  const base = window.location.origin + (window.location.pathname.startsWith("/avineshpolisetty") ? "/avineshpolisetty" : "");
+  const lightTheme = base + "/assets/css/giscus-reactions-light.css";
+  const darkTheme = base + "/assets/css/giscus-reactions-dark.css";
 
-  function currentTheme() {
-    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+  function isDark() {
+    return document.documentElement.getAttribute("data-theme") === "dark";
   }
 
   function createGiscus() {
     const script = document.createElement("script");
     script.src = "https://giscus.app/client.js";
-    script.setAttribute("data-repo", repo);
-    script.setAttribute("data-repo-id", repoId);
-    script.setAttribute("data-category", category);
-    script.setAttribute("data-category-id", categoryId);
+    script.setAttribute("data-repo", "avineshpvs/avineshpolisetty");
+    script.setAttribute("data-repo-id", "R_kgDORRtg-A");
+    script.setAttribute("data-category", "General");
+    script.setAttribute("data-category-id", "DIC_kwDORRtg-M4C32Vw");
     script.setAttribute("data-mapping", "title");
     script.setAttribute("data-strict", "1");
     script.setAttribute("data-reactions-enabled", "1");
     script.setAttribute("data-emit-metadata", "1");
     script.setAttribute("data-input-position", "bottom");
-    script.setAttribute("data-theme", currentTheme());
+    script.setAttribute("data-theme", isDark() ? darkTheme : lightTheme);
     script.setAttribute("data-lang", "en");
     script.setAttribute("crossorigin", "anonymous");
     script.async = true;
     giscusContainer.appendChild(script);
   }
 
-  // Pin the iframe height to show only the reactions bar.
-  // Use MutationObserver so the cap is enforced immediately whenever
-  // Giscus's client.js tries to resize the iframe after load.
-  const REACTIONS_HEIGHT = 80;
-
-  function pinIframeHeight(iframe) {
-    iframe.style.setProperty("height", REACTIONS_HEIGHT + "px", "important");
-    iframe.setAttribute("height", REACTIONS_HEIGHT);
-    iframe.style.setProperty("min-height", REACTIONS_HEIGHT + "px", "important");
-    iframe.style.setProperty("max-height", REACTIONS_HEIGHT + "px", "important");
-  }
-
-  // Watch the container for the iframe being inserted, then observe its attributes
-  const containerObserver = new MutationObserver(function (mutations) {
-    mutations.forEach(function (mutation) {
-      mutation.addedNodes.forEach(function (node) {
-        if (node.nodeName === "IFRAME" && node.classList.contains("giscus-frame")) {
-          pinIframeHeight(node);
-          // Also watch for Giscus trying to change height after initial render
-          new MutationObserver(function () {
-            pinIframeHeight(node);
-          }).observe(node, { attributes: true, attributeFilter: ["height", "style"] });
-        }
-      });
-    });
-  });
-  containerObserver.observe(giscusContainer, { childList: true, subtree: true });
-
   // Relay theme changes to the Giscus iframe
-  function sendThemeToGiscus(theme) {
+  function sendThemeToGiscus() {
     const iframe = document.querySelector("iframe.giscus-frame");
     if (!iframe) return;
-    iframe.contentWindow.postMessage({ giscus: { setConfig: { theme } } }, "https://giscus.app");
+    iframe.contentWindow.postMessage({ giscus: { setConfig: { theme: isDark() ? darkTheme : lightTheme } } }, "https://giscus.app");
   }
 
-  // Listen for metadata messages from Giscus (emit_metadata: 1)
-  // and update the like button count with the real reaction total
+  // Listen for metadata messages (emit_metadata: 1) and update the like button count
   window.addEventListener("message", function (event) {
     if (event.origin !== "https://giscus.app") return;
     const data = event.data;
@@ -83,20 +52,21 @@
     const reactions = data.giscus.discussion.reactions;
     if (!reactions) return;
 
-    // Sum all reaction counts as the "like" total
     const total = Object.values(reactions).reduce(function (sum, val) {
       return sum + (typeof val === "number" ? val : 0);
     }, 0);
 
     const countEl = document.querySelector(".share-like-btn .share-count");
-    if (countEl && total > 0) countEl.textContent = total >= 1000 ? (total / 1000).toFixed(1).replace(/\.0$/, "") + "k" : String(total);
+    if (countEl && total > 0) {
+      countEl.textContent = total >= 1000 ? (total / 1000).toFixed(1).replace(/\.0$/, "") + "k" : String(total);
+    }
   });
 
   // Watch for theme toggle and relay to Giscus
-  const observer = new MutationObserver(function () {
-    sendThemeToGiscus(currentTheme());
+  new MutationObserver(sendThemeToGiscus).observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["data-theme"],
   });
-  observer.observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
 
   createGiscus();
 })();
