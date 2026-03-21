@@ -564,10 +564,10 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   <p class="bl-note">Triathlon & Swim</p>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
-      <div class="bl-achievement-img"><img src="/assets/img/blog/hyderabad_triathlon.jpg" alt="Hyderabad Triathlon 2014" data-zoom-src="/assets/img/blog/hyderabad_triathlon.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_hyd_triathlon.jpg" alt="Hyderabad Triathlon 2014" data-zoom-src="/assets/img/bucket_list/2014_hyd_triathlon.jpg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_hyd_triathlon_timing.png" alt="Hyderabad Triathlon Timing 2014" data-zoom-src="/assets/img/bucket_list/2014_hyd_triathlon_timing.png"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2017_darmstadt_triathlon.png" alt="Darmstadt Triathlon 2017" data-zoom-src="/assets/img/bucket_list/2017_darmstadt_triathlon.png"></div>
-      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2012_santa_cruz_triathlon.jpeg" alt="Santa Cruz Triathlon 2012" data-zoom-src="/assets/img/bucket_list/2012_santa_cruz_triathlon.jpeg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_santa_cruz_triathlon.jpeg" alt="Santa Cruz Triathlon 2022" data-zoom-src="/assets/img/bucket_list/2022_santa_cruz_triathlon.jpeg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg" alt="Santa Cruz Triathlon Timing 2022" data-zoom-src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg"></div>
     </div>
     <div class="bl-achievement-body">
