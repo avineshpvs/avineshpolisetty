@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -e
+
+echo "Running prettier..."
+npx prettier . --write --log-level warn
+
+# Re-stage any files prettier modified
+git diff --name-only | xargs -r git add
+
+echo "Prettier done."
