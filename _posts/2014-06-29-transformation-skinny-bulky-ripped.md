@@ -65,7 +65,7 @@ You can do whatever you want. It ultimately should align with your goals.
 **Calisthenics:** This is the new trending word in the fitness world. The one I am planning to move towards as well. Its more about core conditioning, muscle strength and great fitness. The best part is you can do it anywhere home/park name it, no need for a gym membership.
 
 **My fitness Idols?**
-Arnold Schwarzenegger when I started, now it is [Lazar Angelov](http://www.lazarangelov.com/ "Lazar Angelov") and [Frank Medrano](http://www.thefrankmedrano.com/ "Frank Medrano").
+Arnold Schwarzenegger when I started, now it is [Lazar Angelov](https://www.instagram.com/lazar_angelov_official/ "Lazar Angelov") and [Frank Medrano](https://www.instagram.com/frankmedrano/ "Frank Medrano").
 
 **3 key things for fitness:**
 
@@ -116,9 +116,12 @@ Protein shakes are quite handy and easy to have if you don't have time for your 
 Last but not the least you need to workout, eating protein will not make you ripped and strong.
 
 **Where to you buy protein supplements?**
-<a href="http://www.healthkart.com/" title="Healthkart" target="_blank">Healthkart.com</a>:
-I usually prefer <a href="http://www.healthkart.com/sv/on-%28optimum-nutrition%29-gold-standard-100-whey-protein/SP-9558?navKey=VRNT-14662&#038;ac_sel=ON%20%28Optimum%20Nutrition%29%20Gold%20Standard%20100%25%20Whey%20Protein%2C%20%20Double%20Rich%20Chocolate%20%205%20lb" title="Gold standard Whey" target="_blank">ON Gold Standard Whey Protein</a> for good results.
-If you can spend some cash you can go for <a href="http://www.healthkart.com/sv/ultimate-nutrition-iso-sensation-93/SP-9930?navKey=VRNT-15421&#038;ac_sel=Ultimate%20Nutrition%20ISO%20Sensation%2093%2C%20%20Strawberry%20%205%20lb" title="ISO sensation" target="_blank">Ultimate Nutrition ISO Sensation</a> or <a href="http://www.healthkart.com/sv/natures-best-isopure-zero-carb/SP-8623?navKey=VRNT-13348&#038;ac_sel=Nature%27s%20Best%20Isopure%20Zero%20Carb%2C%20%20Strawberries%20%26%20Cream%20%203%20lb" title="ISO Pure" target="_blank">Nature&#8217;s Best ISOPure</a>.
+
+I currently get my supplements from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" title="MyProtein" target="_blank" rel="noopener noreferrer">MyProtein</a> — great quality at a good price.
+Use my referral link to get a discount on your first order.
+
+- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Protein" target="_blank" rel="noopener noreferrer">Impact Whey Protein</a> — my go-to for everyday use, mixes well and great flavours.
+- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Isolate" target="_blank" rel="noopener noreferrer">Impact Whey Isolate</a> — if you want a leaner, low-carb option for cutting.
 
 **Where to start reading and know about workout routines?**
 
