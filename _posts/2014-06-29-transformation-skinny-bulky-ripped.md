@@ -188,7 +188,7 @@ _\* If you can burn the calories you eat then well and good, you can eat anythin
 
 **What is my next fitness challenge?**
 
-I enrolled for <a href="http://fitnessfightclub.com/" title="Fitness Fight Club" target="_blank">Fitness Fight Club</a> from Monday.
+I enrolled for <a href="https://www.facebook.com/FFCNOW/" title="Fitness Fight Club" target="_blank" rel="noopener noreferrer">Fitness Fight Club</a> from Monday.
 It has always been my dream to learn Muay Thai, Boxing and MMA.
 Glad that I have this gym next to my office.
 I am going for more conditioning, flexibility and reflexes.
