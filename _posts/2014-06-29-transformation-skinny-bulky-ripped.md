@@ -138,29 +138,34 @@ Healthy food can be made tasty too.
 
 **What's your workout plan?**
 
-Mon: Chest/Tricep + 10 mins (Abs routine)
-Tue: Back/Bicep
-Wed: Legs + 10 mins (Abs routine)
-Thu: Shoulders
-Fri: Arms (Bicep/Tricep/Forearms) + 10 mins (Abs routine)
-Sat: Legs (or) Trek
+| Day | Focus                              | Extra        |
+| --- | ---------------------------------- | ------------ |
+| Mon | Chest / Triceps                    | + 10 min abs |
+| Tue | Back / Biceps                      | —            |
+| Wed | Legs                               | + 10 min abs |
+| Thu | Shoulders                          | —            |
+| Fri | Arms (Biceps / Triceps / Forearms) | + 10 min abs |
+| Sat | Legs or Trek                       | —            |
 
-To spice it up I sometimes make some changes here and there with Calisthenics workout (Body weight training).
-Also when I don't get time to hit gym I just do body weight training at home.
+To spice it up I sometimes swap in a Calisthenics (body weight) session.
+When I can't make it to the gym I just do body weight training at home.
 
 **What do you eat? Diet plan?**
 
 **Cutting Down:**
-Meal 0: Green Tea + Lemon + Honey (very little) (or) Green Juice (Spinach, Wheat grass, Mint)
-Meal 1: Muesli + Milk + 1 scoop Protein + Half banana
-Meal 2: Half Pomegranate + Sprouts + Dry fruits (Dates, Walnuts, Pista, Almonds)
-Meal 3: 1 handful rice/lettuce + Chicken + Beans + Vegetables
-Meal 4: Oats + Milk + 1 scoop Protein + Half banana (Pre workout)
-Meal 5: 1 scoop Protein shake (After workout) + Banana (optional)
-Meal 6: Salad + All types of Beans + 3 Egg whites + 1 York
+
+| Meal                  | What                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| Meal 0 — Wake up      | Green Tea + Lemon + Honey (very little) _or_ Green Juice (Spinach, Wheat grass, Mint) |
+| Meal 1 — Breakfast    | Muesli + Milk + 1 scoop Protein + ½ Banana                                            |
+| Meal 2 — Mid-morning  | ½ Pomegranate + Sprouts + Dry fruits (Dates, Walnuts, Pistachios, Almonds)            |
+| Meal 3 — Lunch        | 1 handful Rice / Lettuce + Chicken + Beans + Vegetables                               |
+| Meal 4 — Pre-workout  | Oats + Milk + 1 scoop Protein + ½ Banana                                              |
+| Meal 5 — Post-workout | 1 scoop Protein shake + Banana (optional)                                             |
+| Meal 6 — Dinner       | Salad + Mixed Beans + 3 Egg whites + 1 Yolk                                           |
 
 **Gaining:**
-When I try to bulk up I try to add some more Carbs and Proteins in meals 3 and 5.
+When bulking I add extra Carbs and Protein to Meals 3 and 5.
 
 5-6 meals per day is always good mainly because your body gets time to break it down and you don't gulp too much in a meal.
 
