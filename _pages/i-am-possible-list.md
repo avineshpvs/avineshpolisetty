@@ -792,7 +792,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
-      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_1.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_1.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_1.jpg" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_1.jpg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_2.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_2.JPG"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_3.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_3.JPG"></div>
     </div>
