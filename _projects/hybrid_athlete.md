@@ -5,6 +5,7 @@ description: The next chapter of the transformation. Detailed breakdown of diet,
 img:
 importance: 3
 category: Personal
+permalink: /projects/hybrid_athlete/
 ---
 
 The next chapter of the transformation. Continuing the fitness journey with a detailed breakdown of diet, workout routines, and the mental discipline behind staying consistent.

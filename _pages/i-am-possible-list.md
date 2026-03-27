@@ -603,7 +603,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-num">52</div>
       <h3 class="bl-achievement-title">Six pack abs</h3>
       <p class="bl-achievement-meta"><a href="/projects/six_pack_1/">2015 — Attempt 1</a></p>
-      <p class="bl-achievement-meta"><a href="/projects/six_pack_2/">2026 — Attempt 2</a></p>
+      <p class="bl-achievement-meta"><a href="/projects/hybrid_athlete/">2026 — Attempt 2</a></p>
     </div>
   </div>
   <div class="bl-items">
