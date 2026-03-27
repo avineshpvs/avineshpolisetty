@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Six Pack 2
+title: Hybrid Athlete
 description: The next chapter of the transformation. Detailed breakdown of diet, workout routines, and the mental discipline behind staying consistent.
 img:
 importance: 3
