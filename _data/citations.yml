@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-17'
 papers:
   F4u28JcAAAAJ:0EnyYjriUFMC:
-    citations: 36
+    citations: 37
     title: Description of the system developed by team athene in the fnc-1
     year: '2017'
   F4u28JcAAAAJ:2osOgNQ5qMEC:
@@ -34,7 +34,7 @@ papers:
     title: Transfer Grammar Engine and Automatic Learning of Reorder Rules in Machine Translation
     year: '2011'
   F4u28JcAAAAJ:KlAtU1dfN6UC:
-    citations: 13
+    citations: 15
     title: Answering natural language table queries through semantic table representation
     year: '2019'
   F4u28JcAAAAJ:L8Ckcad2t8MC:
@@ -46,7 +46,7 @@ papers:
     title: Comparative study of various Machine Learning methods For Telugu Part of Speech tagging
     year: '2006'
   F4u28JcAAAAJ:MXK_kJrjxJIC:
-    citations: 365
+    citations: 367
     title: A retrospective analysis of the fake news challenge stance-detection task
     year: '2018'
   F4u28JcAAAAJ:QIV2ME_5wuYC:
@@ -86,7 +86,7 @@ papers:
     title: 'ThinkMiners: Disorder Recognition using Conditional Random Fields and Distributional Semantics'
     year: '2014'
   F4u28JcAAAAJ:_kc_bZDykSQC:
-    citations: 9
+    citations: 10
     title: Live blog corpus for summarization
     year: '2018'
   F4u28JcAAAAJ:aqlVkmm33-oC:
