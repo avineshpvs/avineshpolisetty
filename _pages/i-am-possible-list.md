@@ -66,7 +66,7 @@ html[data-theme="dark"] {
 .bl-hero-count span { color: #059669 !important; }
 .bl-hero-label { font-size: 0.55rem; opacity: 0.8; margin: 0.1rem 0 0 0; color: #ffffff !important; }
 .bl-progress-bar { height: 3px; background: rgba(255,255,255,0.15); border-radius: 100px; margin: 0.35rem auto 0; max-width: 100px; }
-.bl-progress-fill { height: 100%; width: 22%; background: linear-gradient(90deg, var(--bl-primary), var(--bl-primary-light)); border-radius: 100px; } /* 24/111 ≈ 22% */
+.bl-progress-fill { height: 100%; width: 23%; background: linear-gradient(90deg, var(--bl-primary), var(--bl-primary-light)); border-radius: 100px; } /* 25/111 ≈ 23% */
 
 /* Intro */
 .bl-intro { color: var(--bl-gray); font-size: 0.85rem; line-height: 1.7; margin-bottom: 1.5rem; }
@@ -295,7 +295,7 @@ html[data-theme="dark"] {
 <!-- Hero -->
 <div class="bl-hero">
   <p class="bl-hero-title">Life Goals Progress</p>
-  <p class="bl-hero-count"><span>24</span> / 111</p>
+  <p class="bl-hero-count"><span>25</span> / 111</p>
   <p class="bl-hero-label">Adventures Completed</p>
   <div class="bl-progress-bar"><div class="bl-progress-fill"></div></div>
 </div>
@@ -560,6 +560,17 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">47</div><div class="bl-item-content">Run a Marathon</div></div>
     <div class="bl-item"><div class="bl-item-num">48</div><div class="bl-item-content">Spartan Trifecta</div></div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2026-deka-strong-1.jpg" alt="Deka Strong 2026" data-zoom-src="/assets/img/bucket_list/2026-deka-strong-1.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2026-deka-strong-2.jpg" alt="Deka Strong Certificate 2026" data-zoom-src="/assets/img/bucket_list/2026-deka-strong-2.jpg"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">49</div>
+      <h3 class="bl-achievement-title">Deka Trifecta</h3>
+      <p class="bl-achievement-meta">2026 — Deka Strong, 25:30</p>
+    </div>
   </div>
   <p class="bl-note">Triathlon & Swim</p>
   <div class="bl-achievement-card done">
