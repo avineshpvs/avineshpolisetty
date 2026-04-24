@@ -475,7 +475,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">31</div>
-      <h3 class="bl-achievement-title">Skiing </h3>
+      <h3 class="bl-achievement-title">Surfing </h3>
       <p class="bl-achievement-meta"> 2012 — Santander, Spain</p>
     </div>
   </div>
@@ -487,7 +487,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">32</div>
-      <h3 class="bl-achievement-title">Sufring </h3>
+      <h3 class="bl-achievement-title">Skiing </h3>
       <p class="bl-achievement-meta"> 2011 — Gulmarg, India</p>
       <p class="bl-achievement-meta"> 2017 — Alps, Austria</p>
       <p class="bl-achievement-meta"> 2019 — Tahoe, USA</p>
@@ -544,7 +544,6 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">💪</div>
     <h2 class="bl-section-title">Fitness Goals</h2>
   </div>
-  <p class="bl-note">Running</p>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2012_mumbai_half_marathon.jpg" alt="Mumbai Half Marathon 2012" data-zoom-src="/assets/img/bucket_list/2012_mumbai_half_marathon.jpg"></div>
@@ -573,7 +572,6 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <p class="bl-achievement-meta">2026 — Deka Strong, 25:30</p>
     </div>
   </div>
-  <p class="bl-note">Triathlon & Swim</p>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2014_hyd_triathlon.jpg" alt="Hyderabad Triathlon 2014" data-zoom-src="/assets/img/bucket_list/2014_hyd_triathlon.jpg"></div>
@@ -606,7 +604,6 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <p class="bl-achievement-meta">2022 — Donner Lake, California (1.2 miles, 49:45)</p>
     </div>
   </div>
-  <p class="bl-note">Other</p>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2015_six_pack_1.jpg" alt="Six Pack" data-zoom-src="/assets/img/bucket_list/2015_six_pack_1.jpg"></div>
@@ -700,7 +697,6 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-section-icon">🗣️</div>
     <h2 class="bl-section-title">Learn — Languages</h2>
   </div>
-  <p class="bl-note">Top spoken languages</p>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">67</div>
@@ -719,7 +715,6 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-item"><div class="bl-item-num">71</div><div class="bl-item-content">Arabic</div></div>
     <div class="bl-item"><div class="bl-item-num">72</div><div class="bl-item-content">Sign Language</div></div>
   </div>
-  <p class="bl-note">Indian languages (Reading, Writing, Speaking)</p>
   <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">73</div><div class="bl-item-content">Telugu (Mother tongue)</div></div>
     <div class="bl-item"><div class="bl-item-num">74</div><div class="bl-item-content">Tamil</div></div>
