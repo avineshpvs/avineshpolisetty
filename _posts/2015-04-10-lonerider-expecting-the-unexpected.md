@@ -25,7 +25,7 @@ Initially I was a bit hesitant but after seeing the compartment empty I just rus
 I was the only person in the cabin.
 The next day was quite interesting, as I got to meet a Telugu guy travelling to Jodhpur.
 We were the only people in our compartment.
-We chatted on various topics and we didn't realise our long journey ended so quickly.
+We chatted on various topics and we didn't realise how our long journey ended so quickly.
 
 I successfully spent 2 and half days in the train from Bangalore to Jodhpur.
 As soon as I got down, my friend arranged for a relative to help me get my bike and accommodation.
@@ -35,7 +35,7 @@ They took me to a dhaba, 30km away from the city on a highway which provided som
 On the way back at night they set me up in a hotel near to the highway and not far from the city.
 
 After 2 days of proper rest and some last-minute shopping, I sat on my bike, setup the coordinates for Jaisalmer in Google Maps and started my first ride.
-An interesting fact about the Google Maps is that it suggests the shortest path to the destination, but it misses an important factor i.e. the quality of the roads.
+An interesting fact about Google Maps is that it suggests the shortest path to the destination, but it misses an important factor, i.e. the quality of the roads.
 If the roads are bad then effectively it is going to take more time.
 After going through an initial bit of bad patch in Jodhpur (shortest path), I managed to hit the highway.
 NH114 and NH15 are really nice roads to drive on (Two-lane road).
@@ -79,8 +79,8 @@ Now I started thinking steps to come out of this shit (literally).
 Luckily I didn't have my hands dirty yet, so I removed my helmet, shoes, biking gear and threw it in the sand.
 Removed my pants and underwear (literally half-naked), walked towards my bike unpacked my luggage, removed a spare pant and a water bottle.
 I poured the water to clean up the shit, but I wasn't successful enough as it was in a liquid state.
-I ran out of water and the only wildest idea I got was to rub of desert sand on my body (Thanks to Bear Grylls (Man vs Wild)).
-I was feeling really good at this point that I waded a dramatic situation.
+I ran out of water and the only wildest idea I got was to rub desert sand on my body (Thanks to Bear Grylls (Man vs Wild)).
+I was feeling really good at this point that I had waded through a dramatic situation.
 Luckily I had a couple of sanitizer bottles, which I rubbed over my body after cleaning myself with the desert sand.
 After that I sprayed my deodorant all over my body to get rid of that shitty smell.
 Meanwhile as the episode was going on at the side of the road in a half-naked state, the traffic was going on as usual.
@@ -95,7 +95,7 @@ As soon as I unpacked my luggage and entered the house, I got an unexpected trad
 </div>
 \\
 I was quite surprised (you can see it on my face), but I loved all the attention (I almost forgot my episode).
-My friend insisted me to eat something as I reached after a long ride.
+My friend insisted I eat something as I had arrived after a long ride.
 I was adamant that I need to take shower before doing anything (I couldn't tell them the story).
 I took an hour-long shower, washing my clothes and cleaning myself properly.
 It was like heaven after the shower.

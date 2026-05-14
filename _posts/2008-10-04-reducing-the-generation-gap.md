@@ -55,13 +55,13 @@ Everyone was shocked, and the atmosphere turned silent for a while...
 **Avinesh**: "Sorry if you feel bad, Dad.
 I didn't mean to hurt you.
 It's just that I wanted to tell you long back but could not get the courage.
-It's also not that I am younger than you and can't tell you if you are doing wrong."
+It's also not the case that I am younger than you and can't tell you if you are doing something wrong."
 (I tried to convince him that I didn't mean to hurt him.)
 
 After this, Dad became silent and went out of the house for a long time.
 After he returned, he did not talk to me.
 In fact, he did not talk to me for 3-4 days.
-I waited for the day I was returning back to college.
+I waited for the day I was returning to college.
 I thought Dad's anger would come down (but it did not).
 I was to leave the next day, so I had to settle things down.
 

@@ -52,7 +52,7 @@ As I was marking him, I managed to deflect the ball, but GOAL... GOAL... GOAL...
 
 Oh no. My first goal, and that too a **SELF GOAL**.
 That too with 5 minutes to go.
-If we would have won this match, we would be going into the finals without any pressure.
+If we had won this match, we would have gone into the finals without any pressure.
 Oh no, Aakashians would remember me as the SELF GOAL guy who shattered their dreams of entering into the finals.
 NO NO, what happened? Shit, shit. I shouldn't have touched the ball.
 I was feeling very bad that day. First chance, and I screwed up like anything.
@@ -62,5 +62,5 @@ A mistake of a striker is not taken that seriously.
 But one mistake of a defender is a big mistake.
 
 Anyway, it was Vayu who defeated Prithvi in the qualifying round and gave us the ticket to the finals.
-It was then my regret of the OWN GOAL ended.
+It was then that my regret of the OWN GOAL ended.
 Thanks Rahul and team (Vayu) once again; my nightmare ended soon.

@@ -48,7 +48,7 @@ Things to note before registering for a course:
 - Whichever school you choose, you will prefer to continue with them.
 - Go for it if you want to experience being high.
 
-After the end of the course, I am definitely **Paraddicted**. I was to get my certification last year, but since I got injured during my P2 course, I had to leave back to home. It's my fear of heights and climatic conditions that caused the accident. I was lucky enough to be saved with just minor injuries. Unfortunately, I couldn't get time to get back to Pune to finish my course. I am looking forward to getting my license soon.
+After the end of the course, I am definitely **Paraddicted**. I was to get my certification last year, but since I got injured during my P2 course, I had to go back home. It's my fear of heights and climatic conditions that caused the accident. I was lucky enough to be saved with just minor injuries. Unfortunately, I couldn't get time to get back to Pune to finish my course. I am looking forward to getting my license soon.
 
 <iframe src="https://www.youtube.com/embed/7N_TIv6pY-8pZi6aE2iglM" width="100%" height="480" frameborder="0" allowfullscreen style="border: 0; margin-bottom: 1rem;"></iframe>
 

@@ -13,7 +13,7 @@ categories: book review
 </div>
 
 A perfect book for sports enthusiasts.
-Rafa is undoubtedly one of the few sportsperson who have built their career from sheer hard work and persistence.
+Rafa is undoubtedly one of the few sportspeople who have built their career from sheer hard work and persistence.
 To be one of the greats, one needs to understand one's own limitations.
 Rafa has definitely done that, he knows his strengths and weaknesses.
 
@@ -37,21 +37,21 @@ They never treated him as a celebrity.
 Everyone shares what his mother calls "a doctrine", for how to conduct themselves in the world.
 As a family they anchor stability and create a safe haven. I think this is the major reason behind his modesty.
 Success has never got into his head.
-Just imagine a 19-year-old winning a grand slam title and what could have happened to him if he was not set with a right example.
+Just imagine a 19-year-old winning a grand slam title and what could have happened to him if he was not set with the right example.
 One excerpt that I distinctly remember when he talks about Roger Federer, "Toni was right.
 His serve is better than mine, his volley too; his forehand is probably more decisive than mine, his sliced backhand definitely is, and his positioning on the court is better too".
 This shows his down to earth nature.
 
-Another favourite excerpt of mine when Rafa talks about his experience at the Beijing Olympics,
+Another favourite excerpt of mine is when Rafa talks about his experience at the Beijing Olympics:
 "My first experience of taking part in the biggest sports show on earth.
 I enjoyed it immensely and it taught me a lot and most of all, how lucky I am "..."
 I understand better than ever just how privileged we professional tennis players are,
 and how unjust is the predicament of so many Olympic athletes.
-They train incredibly hard, at least as hard as we do, yet the rewards tend to be far small.";
+They train incredibly hard, at least as hard as we do, yet the rewards tend to be far smaller.";
 
-Some highlights of the book are his first person narrative of Wimbledon 2007,2008;
+Some highlights of the book are his first-person narrative of Wimbledon 2007, 2008;
 Australian Open 2009; French Open 2006-2011, and US Open 2010 finals.
-You will get to read what a player goes through during an epic finals.
+You will get to read what a player goes through during an epic final.
 The rituals/routine before the match, nerves during the sets, endurance, injuries, coming close to the win or going through a smashing defeat are worth reading.
 I think Rafa's journey has been a memorable one.
 The way he won those grand slams, coming out of a major injury and many more.

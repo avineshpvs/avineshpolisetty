@@ -48,9 +48,9 @@ I want to enjoy my life.
 
 Now we understood she also had a point.
 If a guy wants to do something, he usually gets affirmative replies from his parents,
-but a girl generally needs to plead, promise, and what not to convince their parents.
+but a girl generally needs to plead, promise, and whatnot to convince her parents.
 Even then, they don't get the green signal.
-I heard from a lot of my friends: **"I wish I was a guy"**; I want to enjoy like you guys.
+I heard from a lot of my friends: **"I wish I were a guy; I want to enjoy life like you guys."**
 
 So you might ask: **"Why are parents too caring about their daughters and curb their freedom?"**
 Is it that this is a male-dominated society and a boy can live in any situation and a girl cannot?

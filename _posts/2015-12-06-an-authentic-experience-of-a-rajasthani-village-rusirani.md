@@ -32,20 +32,20 @@ I instantly liked the concept because of two reasons:
 1. The money they collected from the guests was used to sponsor a girl child's education in the village.
 2. I was curious to know more about the idea of village tourism.
 
-After two days of travelling like a tourist I got the opportunity to experience the simple village life.
+After two days of travelling like a tourist, I got the opportunity to experience the simple village life.
 The village is located on a hilltop surrounded by Aravali mountains.
-It is roughly 100 km from Jaipur near Tahala town near to Alwar.
+It is roughly 100 km from Jaipur, near Tahala town, near Alwar.
 It is popularly known for its Abhaneri step well (8th century marvel),
 10th century Harshat Mata Temple and some ancient ruins.
 The village was named after the queen of Alwar.
 It is said that the queen was upset and she left the Alwar fort to stay in this village.
-The King as he could not resist a woman's word (as usual) built a fort for her at the centre of the amazing picturesque.
+The King, as he could not resist a woman's word (as usual), built a fort for her at the centre of the amazing landscape.
 I think these stories are mostly man-made but you know we always like these stories.
 
 The road to the village is easily on the map but the road is not that great.
 The road from Jaipur to Dausa (NH11) is really nice, especially when driving through the hilly areas.
 But for roughly 30 kms the state highway is bumpy and broken.
-I reached the village by 11 am as per the our discussion, but I could only meet them at 12 because of weak network connectivity.
+I reached the village by 11 am as per our discussion, but I could only meet them at 12 because of weak network connectivity.
 Also, not many people knew the village by "Rusirani".
 Finally, after some wait I managed to meet Giridhar,
 who is the only person from the village who speaks English/Hindi.
@@ -67,17 +67,17 @@ Looks like in villages after morning work there is nothing to do and people just
 They noticed tattoos on my arms and we started discussing about them.
 Incidentally, the old man had a tattoo of his wife's name written on his arm.
 He was telling his story of getting inked.
-It seems someone told him to get drunk before he gets tattooed but unfortunately it did not work.'
+It seems someone told him to get drunk before he gets tattooed but unfortunately it did not work.
 We had some interesting debates about child marriages, village life, education etc.
 I also smoked up hukka (regular chillout thing) with the villagers.
 It was strong for me, I could feel the high just after a few puffs.
 
-Giridhar and his friend showed me some old ruins and temples left in the village. I got some amazing pictures of them. We came back from the village visit and we had to refuel ourselves. The food was tasty and I had a lot. After an awesome lunch we went to a dilapidated fort. It was an awesome adventure, hiking to the fort and jumping across the fort walls to enter it (please don't try it, risky). The fort seems to be of the historical importance. It seems as the story goes, it was the fort were Aurangzeb captured one of his brothers (tried to find for evidence but couldn't). Strange that it has been left in ruins. The panoramic view from the top of the fort is just amazing. I have never seen a fort surrounded by mountains with a terrific view. Sometimes it feels really nice when people don't make it touristy. The whole point of making an adventurous effort to reach the fort is really interesting.
+Giridhar and his friend showed me some old ruins and temples left in the village. I got some amazing pictures of them. We came back from the village visit and had to refuel ourselves. The food was tasty and I had a lot. After an awesome lunch we went to a dilapidated fort. It was an awesome adventure, hiking to the fort and jumping across the fort walls to enter it (please don't try it — it's risky). The fort seems to be of historical importance. It seems, as the story goes, it was the fort where Aurangzeb captured one of his brothers (I tried to find evidence but couldn't). Strange that it has been left in ruins. The panoramic view from the top of the fort is just amazing. I have never seen a fort surrounded by mountains with such a terrific view. Sometimes it feels really nice when people don't make it touristy. The whole point of making an adventurous effort to reach the fort is really interesting.
 
 After an amazing adventure time was up for a big meal and chilling out smoking hukka (again). I think the best part of chilling out is discussing any random thing. After some healthy discussions time was up for a good rest. Sometimes I feel lack of electricity in the villages is an advantage that people go to bed on time and wake up early to the natural alarm (chicken).
 
 It was really cold that night but I took the advantage of sleeping under the stars. It is so strange that you don't get to see stars in the cities these days. Overall I had a perfect village life experience.
 
-Thanks Mr. Giridhar and villagers for an awesome hospitality. One thing that they told me while leaving was that I was like water and whatever color you put in it would take that color. I will never forget this compliment and I will try to live upto it. Thanks for everything.
+Thanks, Mr. Giridhar and villagers, for the awesome hospitality. One thing that they told me while leaving was that I was like water and whatever colour you put in it, it would take that colour. I will never forget this compliment and I will try to live up to it. Thanks for everything.
 
 PS: If you see this and decide to go to the village, please don't insist Giridhar to take you to the fort. It is a challenging hike and risky. He asked me particularly not to upload the pictures but I couldn't resist to share the beauty.

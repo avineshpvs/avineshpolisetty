@@ -33,7 +33,7 @@ As you all know I am on an unplanned journey riding my bike across India. There 
 
 - **[Couchsurfing intimation:](http://couchsurfing.com "Couchsurfing")**
   Send a message to the hosts at least 1 week in advance.
-  At some of the touristy places, I get rejected because the couch is pre occupied.
+  At some of the touristy places, I get rejected because the couch is pre-occupied.
 
 - **Time constraint:**
   If you have a time constraint but need to travel long distance, then book the train tickets and take your bike along.
@@ -61,7 +61,7 @@ As you all know I am on an unplanned journey riding my bike across India. There 
   SLR is SLR you can't beat it.
 
 - **[Power Bank:](http://dl.flipkart.com/dl/cloud-cl-104-blue-10400-mah/p/itme4wbhhhrmhhfw?pid=PWBE4WBHQA6GDFA8&affid=avineshpvs "Power Bank")**
-  One of the best tool for travelling.
+  One of the best tools for travelling.
   It saved my life when I was lost in the middle of the desert and my phone was out of charge.
 
 - **Multi-pin converter:**
@@ -82,7 +82,7 @@ As you all know I am on an unplanned journey riding my bike across India. There 
 
 - **Internet:** (Optional)
   If you are in India dongles are quite cheap these days.
-  I got a Reliance Pro 3 for 1000 Rs with an unlimited data pack and fps of 40 gb.
+  I got a Reliance Pro 3 for 1000 Rs with an unlimited data pack and FUP of 40 GB.
   Only thing is try and test it for 1 month before your travel starts.
   If you face any problem during your travel it is quite difficult to fix it.
   The reliance customer service is bad but they really have good network in majority of the places.

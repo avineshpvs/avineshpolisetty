@@ -60,13 +60,13 @@ I understood that this was the beginning of the attachment I was growing towards
 
 I was quite surprised initially how intelligent you were.
 You tried to find the least visited places in our house to pee or poop.
-After a few days we wanted you get used to do your things out in the garden area.
+After a few days we wanted you to get used to doing your business out in the garden area.
 You were quite impressive, you gave us a signal to open the gate and we were quite impressed of your intelligence.
 
-I couldn't work for few days because every now and then I used to check your condition.
+I couldn't work for a few days because every now and then I used to check your condition.
 I used to check if your food reached to you in time.
 There were days when I woke up early in the morning just to see your face and play with you.
-When my Mom was out of town for few days, I felt the responsibility to spend extra time with you.
+When my Mom was out of town for a few days, I felt the responsibility to spend extra time with you.
 We had a strict rule that we couldn't allow you inside but I just could not help for the few days.
 I used to take you inside the office room and make you feel comfortable.
 I still remember the day when you first spoke.
@@ -89,7 +89,7 @@ I might have protected you from the accident.
 
 I am having tears writing this letter but I think this is the only way I can express my feelings for you.
 I love you Buzo junior and I will be missing you for the rest of my life.
-You are one of the beautiful beings I had ever met in my life.
+You are one of the most beautiful beings I had ever met in my life.
 Every single day I spent with you will be remembered for life.
 The unconditional love I got from you will stay in my heart forever.
 You made me grow as a great human being.

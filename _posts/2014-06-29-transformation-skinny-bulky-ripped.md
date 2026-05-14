@@ -31,11 +31,11 @@ We had to run back home in time to get ready and catch the school bus.
 Thanks to my Dad (a sportsman himself) for instilling the fitness bug in me.
 Fast-forward, at college too I had always been a jack of all trades since I had good fitness but never tried to master a sport.
 So you might have guessed by now that the first picture clearly depicts me, I was really skinny.
-I started of hitting gym for a strange reason.
+I started off hitting the gym for a strange reason.
 I wanted to distract myself from the emotional discomfort that I was going through and I found my peace in GYM.
 
 I read some routines on the web and I started hitting gym regularly.
-I used to train with couple of buddies namely "Abhijeet", "Akthar", who always helped me to push further.
+I used to train with a couple of buddies namely "Abhijeet" and "Akthar", who always helped me to push further.
 After these two guys I never had a training partner because it was difficult to have a common schedule and I used to experiment with different routines.
 So within a couple of months, I gained weight.
 My arms, chest, legs and shoulders became big.
@@ -43,7 +43,7 @@ I got my confidence back.
 But the only thing I always wanted was a six-pack and a ripped physique.
 My only problem was consistency.
 I had been a freelancer and I used to travel and party hard.
-As a result the second picture above, accumulated lot of fat around my waist.
+As a result, as the second picture above shows, I accumulated a lot of fat around my waist.
 After joining the corporate world, I have settled down a bit now and have the best chance to keep it rolling for my dream of a ripped body (still not completely there).
 3 months of hard work and yes I made it here.
 Still challenging myself for more aesthetic look.
@@ -53,16 +53,16 @@ It's been 6 years now, and I am preparing myself for the upcoming challenges.
 Let the Question and Answers begin:
 
 **How to start? I can't lift? I can't do a pull or push up?**
-Start now. You can start anywhere at home/gym/fitness club any where. When I started I couldn't do a single push up or pull up. It is the persistence that takes you further.
+Start now. You can start anywhere — at home, gym, or a fitness club. When I started I couldn't do a single push-up or pull-up. It is persistence that takes you further.
 
 **Should I start with Running/Cycling? Bodybuilding? Calisthenics (Body weight training)?**
 You can do whatever you want. It ultimately should align with your goals.
 
-**Running/Cycling:** I had been a big fan of these two. If you want endurance this is best. I lost fat but the only problem I noticed was that I was also lost muscle. One simple rule is that you need to challenge your body to the next level to stay away from plateau (body condition where it doesn't grow). So to challenge here you need to increase your time of cardio. Considering everyone does a day job we usually don't have much time right. I usually prefer 20 mins of HIIT (High Intensity Interval Training). Best way to challenge your body, build stamina and burn fat. If you are hefty then you need to start slow. Running could actually damage your knee and keep you away from fitness for long.
+**Running/Cycling:** I had been a big fan of these two. If you want endurance, this is best. I lost fat but the only problem I noticed was that I was also losing muscle. One simple rule is that you need to challenge your body to the next level to stay away from a plateau (a body condition where it doesn't grow). So to challenge it here you need to increase your time of cardio. Considering everyone does a day job, we usually don't have much time, right? I usually prefer 20 mins of HIIT (High Intensity Interval Training). Best way to challenge your body, build stamina, and burn fat. If you are hefty then you need to start slow. Running could actually damage your knee and keep you away from fitness for a long time.
 
 **Bodybuilding:** Easy to challenge yourself with reps or increase in weights. Good sport as long as you know how to do things. The only problem is you might lose flexibility and the endurance.
 
-**Calisthenics:** This is the new trending word in the fitness world. The one I am planning to move towards as well. Its more about core conditioning, muscle strength and great fitness. The best part is you can do it anywhere home/park name it, no need for a gym membership.
+**Calisthenics:** This is the new trending word in the fitness world. The one I am planning to move towards as well. It's more about core conditioning, muscle strength, and great fitness. The best part is you can do it anywhere — home, park, you name it — no need for a gym membership.
 
 **My fitness Idols?**
 Arnold Schwarzenegger when I started, now it is [Lazar Angelov](https://www.instagram.com/lazar_angelov_official/ "Lazar Angelov") and [Frank Medrano](https://www.instagram.com/frankmedrano/ "Frank Medrano").
@@ -75,16 +75,16 @@ Arnold Schwarzenegger when I started, now it is [Lazar Angelov](https://www.inst
   My first question to them was how many days are you working out.
   They would say 2 times or 3 times on and off.
   If you are not consistent enough about your routine and diet you are not going to achieve results even if you have the best personal trainer and the best workout program.
-  Only thing you will be doing is wasting 5k every month in drain.
+  The only thing you will be doing is wasting 5k every month down the drain.
 
   Tip: Best way to keep record and be accountable is to maintain a workout log.
 
 - **Diet:**
   Diet contributes 50% to a great physique.
   If you eat unhealthy then you will not get results.
-  I was eating healthy most of the days but I was taking high protein diet for couple of months but I was never reaching my desired physique.
+  I was eating healthy most of the days but I was taking a high-protein diet for a couple of months and was never reaching my desired physique.
   Then I realised I was eating more than what I needed.
-  Whatever excess calorie I am taking was becoming fat.
+  Whatever excess calories I was taking in were becoming fat.
   Always have a balanced meal (carbs 40%, protein 50%, essential fats 10%) and of course the micro nutrients (greens and salads).
   Will get in details about my meal plan later.
 
@@ -94,14 +94,14 @@ Arnold Schwarzenegger when I started, now it is [Lazar Angelov](https://www.inst
   Of course you need to keep your workout interesting, mix it up every month.
   Just keep away from plateau by challenging yourself.
 
-- **Bulking up or Loosing Fat?**
+- **Bulking up or Losing Fat?**
   This is one of the most debatable questions in the fitness world.
   I still think it is doable if you keep your diet a bit calorie deficit and protein intensive.
   It worked out for me.
 
 **How long do you workout in Gym?**
 
-Roughly around 45-1hr. I usually don't chat around in Gym mainly because it keeps me concentrated and allows me to finish my routine in time.
+Roughly around 45 mins to 1 hr. I usually don't chat around in the gym mainly because it keeps me concentrated and allows me to finish my routine in time.
 I sometimes keep ear phones without any music just to make sure no one disturbs me.
 To get ripped I sometimes do HIIT in the morning for 20 mins with some calisthenics routine.
 
@@ -132,7 +132,7 @@ You can choose one of them and follow them consistently.
 Also contains routines, diet programs and many interesting articles.
 
 **For diet:**
-<a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Youtube link" target="_blank">CutandJacked Diet Kitchen</a>: To make interesting recipes and and not fed of eating the usual stuff.
+<a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Youtube link" target="_blank">CutandJacked Diet Kitchen</a>: To make interesting recipes and not get fed up of eating the usual stuff.
 Not all fitness freaks eat bland food.
 Healthy food can be made tasty too.
 
@@ -171,15 +171,15 @@ When bulking I add extra Carbs and Protein to Meals 3 and 5.
 
 **3 Things to stay away from in your Diet?**
 
-**1) Sugar/Too much fruits:**
+**1) Sugar/Too many fruits:**
 A lot of people try diets like only fruits and say they are not losing weight.
-Even if you eat fruits if you eat calorie surplus then you will gain weight.
+Even if you eat fruits, if you are eating in a calorie surplus then you will gain weight.
 Sugars are a big NO.
 I usually don't recommend cheat days because it usually spoils routines.
 If you can stick to them its up to you.
 
-**2) Too much carbohydrates:**
-Especially for people who do jobs sitting in front of laptops, we don't require as much carbohydrates we usually eat.
+**2) Too many carbohydrates:**
+Especially for people who do jobs sitting in front of laptops, we don't require as many carbohydrates as we usually eat.
 It just converts to unnecessary fat.
 Especially Indians we need Roti or Rice in every meal.
 We eat 3 meals but just gulp a lot.

@@ -17,7 +17,7 @@ So for those who want to try this sport in India here is the information compile
 **Places to Dive in India:**
 
 **Andaman:**
-Andaman boasts some of the India's best diving.
+Andaman boasts some of India's best diving.
 Huge schools of fish, lush coral reefs, shipwrecks and pristine conditions make this a must-dive destination.
 
 - Visibility: Best visibility, 18 to 45 meters
@@ -28,7 +28,7 @@ Huge schools of fish, lush coral reefs, shipwrecks and pristine conditions make 
 **Goa:**
 Scuba diving is also an increasing draw in here.
 Diving off Goa offers some of the easiest access to the Arabian Sea along the Indian mainland and offers lush coral gardens, pinnacles, and a variety of shipwrecks.
-I have heard the visibility is bad but definitely my next places to dive.
+I have heard the visibility is bad but it is definitely my next place to dive.
 
 - Visibility: 5-11 metres (a major issue)
 - Currents: generally milder
@@ -60,7 +60,7 @@ It is currently closed to diving.
 - Currents: non-existent to strong, depending on the site and tides
 - Season: May through November is ideal for diving Lakshadweep
 
-If you are going for a course better do it in a place like Andaman where they have variety of dive sites to offer.
+If you are going for a course, better do it in a place like Andaman where they have a variety of dive sites to offer.
 If it is just a fun dive (or) discover scuba dive it doesn&#8217;t really matter as long as the visibility is good.
 
 **Cost & various packages:**
@@ -100,7 +100,7 @@ If it is just a fun dive (or) discover scuba dive it doesn&#8217;t really matter
 
 - Visibility & currents play an important role in a dive.
 - Season: Underwater it doesn&#8217;t matter much. Better go in the off-season where there is less crowd on the Island.
-- Variety: If you are going to dive for a couple of days than variety is what you need.
+- Variety: If you are going to dive for a couple of days, then variety is what you need.
 - <a href="http://www.bookyourdive.com/blog/2013/12/23/differences-padi-ssi" title="PADI vs SSI" target="_blank">PADI vs SSI</a>: It really doesn&#8217;t matter. Both the certifications are recognized in all the places. PADI is around INR 2.5k more expensive than SSI.
 - Discount Price: The prices offered by the Scuba resorts for Discover, Open Water and Advanced are similar.
   Just check for combo packages if any. DiveIndia and Scubatravel India have some special offers I know.

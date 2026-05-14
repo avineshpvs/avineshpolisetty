@@ -23,7 +23,7 @@ categories: lonerider
     </div>
 </div>
 
-Jaisalmer is called "the Golden City" and the secret is majority of the structures are made of yellow sand stone.
+Jaisalmer is called "the Golden City" and the secret is that the majority of the structures are made of yellow sandstone.
 In the above picture you can see how the fort glows under the lights.
 One must definitely not miss the night view of the city, glittering like gold from the top of the Jaisalmer fort.
 I was quite surprised to see people living in the fort. It is a strange thing for someone coming from the south, as we always heard that Kings and Nawabs lived in the fort.
@@ -51,7 +51,7 @@ So here are some of my experiences in Jaisalmer: (places to visit, likes, dislik
   **Sam dunes:**
   One other must visit place in Jaisalmer. Camel ride and the sunset are the best parts of the visit. The only source of income for the people in Jaisalmer is tourism. So they will try to project higher prices, ideally do bargain for a worthy price.
 
-  Tip: check for the dates of Jaisalmer festival before you go, it usually happens in the 1st or 2nd week of February. I missed it by few days and I have heard that the event is culturally rich.
+  Tip: check for the dates of the Jaisalmer festival before you go; it usually happens in the 1st or 2nd week of February. I missed it by a few days and I have heard that the event is culturally rich.
 
 - **Longewalla and Tanot - 1 day trip (Total: 280km)**
   Longewalla has a historical importance for India.
@@ -59,7 +59,7 @@ So here are some of my experiences in Jaisalmer: (places to visit, likes, dislik
   The small unit at the border held the surprise attack till the next morning when the Indian Airforce got things back in control.
   This is one of the epic battles which was also portrayed into a Bollywood movie named "Border".
 
-  **Tanot devi mata temple:** This is the only place where the Pakisthan's missiles did not explode.
+  **Tanot devi mata temple:** This is the only place where Pakistan's missiles did not explode.
   They still preserved the missiles in the temple remembering the miracle.
   Sometimes miracles are not explained.
   I recently went to Dera baba nanak border in Punjab and saw another Tanot devi mata temple.
@@ -71,11 +71,11 @@ So here are some of my experiences in Jaisalmer: (places to visit, likes, dislik
 - **Love and affection of people:**
   People are so welcoming that you don't feel like leaving the place.
   My plan for 3 days got extended to a week.
-  The love and affection I was shown by the families was just right beginning of my journey.
+  The love and affection I was shown by the families was just the right beginning of my journey.
 
 - **Traditions:**
   Rajasthan is one of those places where the traditions are still intact.
-  Sometimes it is good to see the old traditions which is what makes it different from others.
+  Sometimes it is good to see the old traditions, which is what makes it different from others.
 
 - **Local stuff: (food, music, dressing style):**
   The food is full of spices. There is a custom where people sit around a big thali and eat from it.
@@ -93,7 +93,7 @@ So here are some of my experiences in Jaisalmer: (places to visit, likes, dislik
 **3 things I did not like (where I would like to see a change):**
 
 - **Freedom for girls:**
-  Strange that it is a strong male dominating society in Jaisalmer.
+  Strange that it is a strongly male-dominated society in Jaisalmer.
   Before marriage a girl has all the freedom to do whatever she wants, but after the marriage things change drastically.
   Girls usually don't have a say in anything, there is a parda to cover their face, they have to speak in low voice.
   I have also heard that a girl has to sit on the floor in front of her mother-in-law.
@@ -107,12 +107,12 @@ So here are some of my experiences in Jaisalmer: (places to visit, likes, dislik
   One would actually get to know life is actually larger than what they have seen.
 
 - **Caste system and untouchability:**
-  Strange after 67 years of independence people still follow caste system and untouchability so strongly.
+  Strange that after 67 years of independence people still follow the caste system and untouchability so strongly.
   When people asked my name, they usually asked which caste I belonged to.
-  I strongly said that I did not know and I did not bother to know.
+  I firmly said that I did not know and I did not bother to know.
   I told them that I don't believe in the caste system.
-  I tried to explain them in my usual way.
-  I also wanted to ask them whether they would not host me if I was from a lower caste, but I could not.
+  I tried to explain it to them in my usual way.
+  I also wanted to ask them whether they would not host me if I were from a lower caste, but I could not.
   People did not eat food made at a restaurant if the owner/cook is of a lower caste.
   I definitely would like to see it change soon.
 

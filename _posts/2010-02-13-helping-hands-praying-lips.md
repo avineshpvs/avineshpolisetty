@@ -20,7 +20,7 @@ Some questions that came to my mind were:
 - Will I be completely a part of it if I join?
 - Will it be convenient for me?
 
-Once I heard some of our batch-mates Vundavalli (V Srinivas Rao) and Bappi (Bappineedu) were visiting some orphanages for a while.
+Once I heard that some of our batch-mates, Vundavalli (V Srinivas Rao) and Bappi (Bappineedu), were visiting some orphanages for a while.
 Later, one fine day, there comes a mail from Vundavalli about organizing a lunch at an orphanage.
 I immediately responded to the mail.
 Due to a large amount of donation from our friends' gang, the plan changed to organize for 3 different orphanages.
@@ -43,9 +43,9 @@ We served them food and ate with them.
 The most energetic lot of the bunch was the group of 3 young kids.
 We had great fun together.
 We all played basketball, catch-catch, and other games.
-I could not forget one guy who was not speaking anything except for "BUS".
+I could not forget one boy who was not speaking anything except for "BUS".
 I did not understand what was wrong with him, so I asked their warden.
-She said this guy never utters a word other than "BUS"; if we say the bus has arrived and you will be boarding it, then only he will eat or do anything.
+She said this boy never utters a word other than "BUS"; only if we say the bus has arrived and he will be boarding it, will he eat or do anything.
 Nobody knows where his parents are, nor does one know where he used to live.
 It was really sad, and I was moved by that (some things change your life).
 Finally, the time for the photo session arrived, and we took snaps with all kinds of weird poses.
@@ -63,7 +63,7 @@ Interesting changes in me after this:
 - The real worth of happiness is in sharing with others. (Courtesy: "Into the Wild"). I always wanted happiness in my life. Now I believe providing happiness in others' lives will bring happiness in oneself.
 
 You might be thinking this is the same kind of stuff that people always talk about.
-Yeah, it's true; one will find the difference only when he/she will go and have a good experience of their own.
+Yeah, it's true; one will find the difference only when he/she goes and has a good experience of their own.
 This time, it's my experience.
 
 If you have any such experiences, do share them below.

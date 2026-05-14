@@ -12,7 +12,7 @@ categories: adventure
 
 Long awaited vacation since I joined the corporate world (IBM Watson).
 You come to a new place, settle down and by the time you know 6 months are already over.
-Scuba diving was pending from a long time to be ticked off from my adventure list.
+Scuba diving had been pending for a long time, to be ticked off from my adventure list.
 For 10 days I would just be with my kindle & camera (no laptop).
 I like traveling solo because I don't want to restrict myself to the ideas of others.
 My friends and colleagues were kind of surprised when I said I was traveling alone.
@@ -36,27 +36,27 @@ The only difference was that the eye mask blocks your nose and you have to breat
 It took me a few minutes to get used to the snorkel, mask and fins but yeah after that I was just having fun.
 
 Next day I was to report at 6:45 am for equipment setup and meet my Instructor (Tanuj Sharma), Dive Master (Niti) and my buddy (Peter).
-Tanuj explained us the details and some skills that we would be practicing during our confided water dive (1-7m).
+Tanuj explained to us the details and some skills that we would be practicing during our confined water dive (1–7m).
 These included regulator recovery, mask removal, underwater signs etc.
 When you do anything for the first time you are always a bit nervous, it was the same with me.
 When you do the mask removal or remove the regulator underwater the idea itself scares the shit out of you.
 But then once you practice for a while you just do it without any hassle.
 I still remember when Tanuj asked me to do a mask removal on my second day and I was posing like a film star putting on the shades :D.
 
-Dive buddy plays an important role in diving he is your life savior, so you need to be good friends with him :D.
+Your dive buddy plays an important role in diving — he is your lifesaver, so you need to be good friends with him :D.
 Peter (Slovak) was traveling in India for a couple of months and has been in Havelock for 2 weeks without any plan on doing Scuba diving.
 So what was he doing in here? I had the same question.
 He was just traveling with his backpack, hammock, snorkel and a pink camera :P.
-As I had been to Czech for a couple of times I started of the conversation with few Czech words & my experiences from Europe.
+As I had been to Czech a couple of times, I started off the conversation with a few Czech words and my experiences from Europe.
 I was keen to know more about his travels in India.
-We became good buddies & were having our meals at a powerful place called the POWERFUL restaurant.
-Yes that was the name of the restaurant it took 1 hr to serve the food. Interesting marketing strategy we used to order 2 glasses of coconut water & mango juice meanwhile.
+We became good buddies and were having our meals at a powerful place called the POWERFUL restaurant.
+Yes, that was the name of the restaurant; it took 1 hr to serve the food. Interesting marketing strategy — we used to order 2 glasses of coconut water and mango juice meanwhile.
 We went there most of the time because it was way cheaper (1/3rd) than other places.
 
 Sometimes we also had our meals in the Moon Cafe in DiveIndia when we didn't have time for a powerful one.
 We met Dean (UK) who was a dive master trainee in the process to become a Dive Master.
 Nice fun guy, we got to know different diving stories and used to revise our Fish signs.
-It was on the second day that he was mentioning about a Night dive.
+It was on the second day that he mentioned a Night dive.
 We were like seriously, you must be kidding??? Peter & I were just imagining how it would be inside water without the lights.
 Then Dean mentioned that it was part of the Advanced course.
 I was quite excited because anyway I was doing it next.
@@ -66,11 +66,11 @@ After some suspense and drama he got the booking because DiveIndia was fully boo
 
 So we finished with our Open Water course and we had to write an exam.
 After some serious studying (yes I was studying on vacation) we finished our exam and passed.
-After correcting my answer sheet Tanuj realized I gave a wrong exam.
-I booked for PADI and I gave SSI exam :(.
-So yet another day of studying and exam.
-Meanwhile someone gave a good tip for DiveIndia and they bought a crate of beer.
-So we were just talking to the instructors sharing our experiences having a beer & most importantly celebrating our Open Water graduation (You are not advised to drink and dive but we just had one mug).
+After correcting my answer sheet, Tanuj realized I had taken the wrong exam.
+I had booked for PADI and I took the SSI exam :(.
+So yet another day of studying and an exam.
+Meanwhile, someone gave a good tip to DiveIndia and they bought a crate of beer.
+So we were just talking to the instructors, sharing our experiences, having a beer, and most importantly celebrating our Open Water graduation (you are not advised to drink and dive, but we just had one mug).
 I went back and finished off my exam and yes PADI exam was more fun.
 
 <div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
@@ -80,7 +80,7 @@ I went back and finished off my exam and yes PADI exam was more fun.
 We finished off our basic skills of Advanced on the first day i.e. Navigation (use of compass).
 As usual I suck at compass and directions.
 I followed the instructions but I didn't reach the place I started.
-I came to know about my mistakes and I am looking forward to improve this skill.
+I came to know about my mistakes and I am looking forward to improving this skill.
 On the next day we were going for our first 30m Deep dive with Vikram (instructor) and another student Claudius (Germany) aka Columbus (that's what Peter used to call him).
 Claudius did his Open Water from Africa and he was joining us for the Advanced course.
 Three of us had great fun together inside the water as well as outside.
@@ -97,7 +97,7 @@ We had a long discussion on how to attract sharks just to have a glimpse of them
     {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-friends-amit-shiv.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Amit, Seshmani & Me" caption="Amit, Seshmani & Me" %}
 </div>
 
-After the course I finished of all my dives and my buddies left the island.
+After the course I finished off all my dives and my buddies left the island.
 I was there for 2 more days, as I had one extra dive day (bonus).
 I met Amit and Seshmani the guys from Mumbai.
 We hired bikes and went to Elephant beach and had a long run to reach the beach before the sunset.
@@ -114,11 +114,11 @@ I interacted with her a bit and then boarded the ferry.
 This time I was well informed not to get into the AC room rather I decided to stay on the deck.
 I got a superb spot to see Sunset.
 Slowly people started to realize there was nothing inside and they came to the deck.
-Within a few minutes I realize it is too crowded and people are just spoiling the view.
+Within a few minutes I realized it was too crowded and people were just spoiling the view.
 They encroached upon my lovely spot and I had to find another spot.
 I just checked the deck for a new place and saw Neha was reading a book on the opposite side of the deck.
-I disturbed her and conveyed her she was missing a lovely sunset on the other side.
-After few silent awkward moments we started a conversation and the reserved gal I thought was friendly & talkative.
+I disturbed her and conveyed to her that she was missing a lovely sunset on the other side.
+After a few silent awkward moments we started a conversation and the reserved gal I thought turned out to be friendly and talkative.
 It was her first solo trip and she was sharing her experience.
 For all the gals who are just looking for that one starting point for a solo trip you just need to start it (it is not hard).
 Bows to all the solo woman travelers I admire you all a lot.
@@ -160,7 +160,7 @@ It is just blue water, nothing below you and nothing above you.
 It is definitely an outer space experience.
 
 _**Dickson's pinnacle:**_ Crazy fish hunting, huge school of fishes, large Barracuda, the size of fishes was way bigger than our 18m dives.
-You just stay in the awe of the moment.
+You just stay in awe of the moment.
 
 _**Ship Wrecks (MV Mars 2004 & SS Inchkeith 1956 Japanese):**_
 Yet another different experience from all the other dives.
@@ -244,7 +244,7 @@ _**Tips and Tricks:**_
 
 **Radhanagar beach** is one of the cleanest beach (no rocks at all) I had ever seen in my life.
 If you are lucky you get to see an Elephant (Rajan).
-o see Rajan the elephant, head to Neil's Cove in the morning before breakfast.
+To see Rajan the elephant, head to Neil's Cove in the morning before breakfast.
 As per Lonely Planet you are supposed to see a nice sunset here but guess what you can see a perfect one in Elephant beach.
 
 <div style="clear: both;"></div>
@@ -270,7 +270,7 @@ Of course if you are running out of time (like us) or enthusiastic you can run a
   You get to hear a lot of stories and you will always have a great story to tell.
   Thanks Peter, Claudius, Tanuj, Vikram, Amit, Seshmani and Neha for a lovely company.
 
-Vacations are a must to rejuvenate yourself and to get back to your peek productivity.
+Vacations are a must to rejuvenate yourself and to get back to your peak productivity.
 Well I sleep like a baby now and wake up early.
 I don't remember when I last saw the sunrise before this.
 I am quite refreshed now and looking forward for more adventures ahead.

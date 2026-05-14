@@ -52,7 +52,7 @@ I experienced this when my Granny was treating my MOM the same way.
 
 My Mom was not feeling well. She fell down and injured her finger (minor injury).
 The moment my Granny heard the news, she panicked in worry.
-She started treating her like a small kid who injured herself while playing in the school.
+She started treating her like a small kid who had injured herself while playing at school.
 There were other instances when my Mom was traveling alone, and the story repeated.
 
 This shows how Moms are always Moms. It doesn't matter if you are 16 or 60.

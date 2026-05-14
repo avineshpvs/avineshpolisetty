@@ -30,27 +30,27 @@ The most hated part of the journey was the Gurgaon Delhi expressway.
 Horrible traffic jams and never imagined Delhi was so polluted.
 
 I had a week to recover and meet friends before my journey up north to Punjab.
-Thanks to Rahul and his roommates we watched movies, partied and had great time together.
+Thanks to Rahul and his roommates, we watched movies, partied, and had a great time together.
 I planned to work again but was not expecting any internet connectivity further in the journey.
 So, I thought of applying for all alternative PhD positions and Research Assistant positions abroad if my applications get rejected.
 
-As far as my next destination, I open up couchsurfing app checked for a place at around 300 km radius
-from Delhi on the way to Dasuya village (Punjabi couple who invited me). Ideally Patiala
-(also known for Patiala peg) was one such town I was looking to stay as I am not into cities.
-I sent messages to couple of people in Patiala, just 4-5 days before my travel.
-I was also taking a chance by sending messages to people from Ludhiana, if the hosts from Patiala are busy.
-I started getting acceptance instantly after 1 days.
+As far as my next destination, I opened up the couchsurfing app and looked for a place at around 300 km radius
+from Delhi on the way to Dasuya village (the Punjabi couple who invited me). Ideally, Patiala
+(also known for the Patiala peg) was one such town I was looking to stay in, as I am not into cities.
+I sent messages to a couple of people in Patiala, just 4–5 days before my travel.
+I was also taking a chance by sending messages to people from Ludhiana, in case the hosts from Patiala were busy.
+I started getting acceptances almost instantly within 1 day.
 But there was one message which came instantly written "Sure Bro", it was from Sim.
 I read his profile again and I instantly decided that I was going to his place.
 He was a traveller himself, so it was not a hard decision for me as I could get to listen to their stories.
-I got a couple of other requests as well. When I told them that I already committed to my host.
-They were pretty cool about it. They gave their numbers just incase I was free to catch up for a meal.
+I got a couple of other requests as well. When I told them that I had already committed to my host,
+they were pretty cool about it. They gave their numbers just in case I was free to catch up for a meal.
 I already started feeling the Punjabi love.
 
 On Feb 26th, I started my ride from Delhi at 10 am to Ludhiana.
 After an hour-long manoeuvring in the Delhi traffic, I managed to reach the NH1.
 One of the awesome roads I had seen so far. 4 lane roads with free-flowing traffic.
-After taking couple of tea and pee breaks, I reached outskirts of Ludhiana.
+After taking a couple of tea and pee breaks, I reached the outskirts of Ludhiana.
 Sim (couch surfing host) instructed me to call him at a checkpoint.
 After following his directions and entering the city, I met him at the Bhagat Singh,
 Rajguru and Sukhdev statue. I was waiting there and checking my messages suddenly a guy with 700cc bike
@@ -59,14 +59,14 @@ I followed him for some distance and we stopped at a place where there was less 
 We introduced ourselves and he instructed me to just be at his tail end.
 I have reached their home roughly at around 5:30 pm and met his family.
 He had two guest rooms for travellers and the room was awesome.
-After a quickly freshening up, we had a tea and a long introduction.
+After quickly freshening up, we had tea and a long introduction.
 We shared our travel stories and had long discussions.
 He shared his couchsurfing experience and he really loves hosting people.
 
-Sim is basically does business in the Automobiles industry. His love for bikes speaks for itself. Sim is definitely a brother from another mother. He and his family are the best people I have met on Couchsurfing. A perfect family man, left his job and decided to come back to Ludhiana when his father retired. He knows how to keep everyone happy and comfortable. He is a traveller, likes to explore new things. Further, he planned for a backpacking trip to Europe with his son (Karan) in the summer. I think he will have finished his trip before I publish my blog post.
+Sim basically does business in the Automobiles industry. His love for bikes speaks for itself. Sim is definitely a brother from another mother. He and his family are the best people I have met on Couchsurfing. A perfect family man, left his job and decided to come back to Ludhiana when his father retired. He knows how to keep everyone happy and comfortable. He is a traveller, likes to explore new things. Further, he planned for a backpacking trip to Europe with his son (Karan) in the summer. I think he will have finished his trip before I publish my blog post.
 
 His family is really welcoming and in one word "awesome".
-I had a nice long discussions with Babuji (Sim's father) starting from Punjabi culture to current state of politics.
+I had a nice long discussion with Babuji (Sim's father) ranging from Punjabi culture to the current state of politics.
 As he worked in the Railways Planning team, he had a lot of insights about the
 work culture inside government offices. He shared stories about various projects he took up during his tenure.
 He specifically mentioned about a project he took up in Ludhiana which saved crores for the Government.
@@ -87,9 +87,9 @@ to have a couple of beers.
 
 <div style="clear: both;"></div>
 
-I really did not feel as an outsider, I felt was as if I came to my relatives house. I told Sim many times that he was just like one of my uncles.
-I would like to see myself as Sim - "The perfect family man one day.
-The friendly nature of the family, the awesome food by Bhabhiji and great hospitality of Sim scores 10/10
+I really did not feel like an outsider; I felt as if I had come to my relatives' house. I told Sim many times that he was just like one of my uncles.
+I would like to see myself as Sim — "The perfect family man" one day.
+The friendly nature of the family, the awesome food by Bhabhiji, and the great hospitality of Sim score 10/10
 for being a lovely host.
 I would love to host him wherever I am.
 We had a plan to travel to Bali together.

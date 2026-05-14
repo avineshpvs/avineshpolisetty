@@ -9,21 +9,21 @@ categories: adventure
 ---
 
 {% include figure.liquid loading="eager" path="/assets/img/blog/skiing.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Skiing in India" %}
-Skiing is an adventure sport which has lots of adrenaline rush.
+Skiing is an adventure sport that has lots of adrenaline rush.
 Well, I was first inspired by this sport when I saw kids in Lucerne, Switzerland skiing down the slopes of Schilthorn.
-4-5 years old kids just going down the hill which had some sharp turns.
+4-5-year-old kids just going down the hill which had some sharp turns.
 
-I saw people skiing before but then such small wonders just enjoying the sport on a giant mountain is indeed a great sight.
+I had seen people skiing before, but such small wonders just enjoying the sport on a giant mountain is indeed a great sight.
 Instantly I decided to ski down that slope one day.
 I did some research there regarding hiring and classes for skiing which came around 100 Euros per hour.
 The Indian in me: "Any discounts?, no way too expensive".
 My hunt for learning the sport started from then onwards.
 
 One day during a discussion, one of my cousins pointed me to an institute in India which offered courses in skiing.
-IISM - Indian institute of skiing and mountaineering headed by Ex-Colonel.
+IISM - Indian Institute of Skiing and Mountaineering, headed by an Ex-Colonel.
 I inquired at their website regarding various courses and booked a slot immediately.
 
-This post is mainly for those who want to try this sport but just not crossing the line because of lack of information.
+This post is mainly for those who want to try this sport but are just not crossing the line because of a lack of information.
 
 <strong><a href="http://iismgulmarg.com/" title="Indian Institute of Skiing and Mountaineering">IISM Gulmarg</a></strong>
 <a href="http://iismgulmarg.com/" title="Website"><i class="fa-solid fa-globe fa-sm"></i></a>
@@ -72,11 +72,11 @@ My aim would be coming down the [Affarwat](http://wikimapia.org/13375531/Affarwa
 
 **Travel Tips (save some money):**
 
-- There are buses every hour from Airport to Tourist Reception Center in Srinagar and vise-versa.
+- There are buses every hour from the Airport to the Tourist Reception Center in Srinagar and vice versa.
   It's just Rs 50 otherwise a prepaid cab costs Rs 500.
 - Dec-March is off-season in Srinagar, so you would get cheap houseboats and guest houses.
   It depends on your bargaining skills. It can be as low as Rs 500.
-- Food is expensive, spend the saved about on food.
+- Food is expensive; spend the savings on food.
   For meat lovers don't miss Wazwan.
   Try at [Mughal Dharbar](http://www.tripadvisor.in/Restaurant_Review-g297623-d1202053-Reviews-Mughal_Darbar-Srinagar_Kashmir_Jammu_and_Kashmir.html "Mughal Darbar Reviews") and [Ahdoos](http://www.tripadvisor.in/Restaurant_Review-g297623-d1826623-Reviews-Ahdoos-Srinagar_Kashmir_Jammu_and_Kashmir.html "Ahdoos Reviews").
   I tried at lots of places during my visits and I rate these two high.
@@ -99,7 +99,7 @@ My aim would be coming down the [Affarwat](http://wikimapia.org/13375531/Affarwa
 7 day course (Rs 4200 &#8211; Indians, Rs 16800 &#8211; Foreigners)
 14 day course (Rs 8400 &#8211; Indians, Rs 33600 &#8211; Foreigners)
 
-ABVIMAS is an adventure school which organizers various courses ranging from mountaineering, skiing, paragliding, kayaking etc.
+ABVIMAS is an adventure school which organises various courses ranging from mountaineering, skiing, paragliding, kayaking, etc.
 The pros and cons are not from my experience, they have been listed based on reviews from friends who came to IISM.
 
 **Pros:**
@@ -118,8 +118,8 @@ The pros and cons are not from my experience, they have been listed based on rev
 - No online payment. Still relying on DD.
 
 There are lots of adventure groups which arrange skiing in Auli, Solang and Gulmarg.
-If you don't want to be part of a school (or) don't have 14 days then you can always take a personal instructor and learn in few days.
-But I would recommend to do a course with either IISM or ABVIMAS because 14 days of rigorous training will definitely imbibe some good skills in you.
+If you don't want to be part of a school (or) don't have 14 days then you can always take a personal instructor and learn in a few days.
+But I would recommend doing a course with either IISM or ABVIMAS because 14 days of rigorous training will definitely instil some good skills in you.
 
 **Important Points to note:**
 
@@ -128,7 +128,7 @@ But I would recommend to do a course with either IISM or ABVIMAS because 14 days
 - Learning skiing at younger age will definitely improve your muscle memory.
   I have seen small kids skiing like professionals.
 - I have seen 7-year-olds to 60-year-olds in the same school.
-  Age is no bar but the older ones are bit prone to injuries.
+  Age is no bar but the older ones are a bit more prone to injuries.
   Maintain good level of fitness and I am sure everyone will do great.
 - Take the fear out of you.
   It gets tougher when the slopes become steeper.
