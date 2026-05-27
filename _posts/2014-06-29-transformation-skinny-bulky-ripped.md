@@ -237,6 +237,65 @@ Mix up your routine every 6–8 weeks and keep a log of your numbers. A plateau 
   border-radius: 8px;
   margin-bottom: 0.3rem;
 }
+/* Supplement cards */
+.t14-supp-truth {
+  background: var(--global-bg-color, #f8faff);
+  border-left: 3px solid #e63946;
+  border-radius: 0 8px 8px 0;
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  margin-bottom: 1.1rem;
+  line-height: 1.7;
+}
+.t14-supp-truth strong {
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+  color: #e63946;
+}
+.t14-product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+.t14-product-card {
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 10px;
+  padding: 0.8rem 1rem;
+  font-size: 0.82rem;
+}
+.t14-product-card .pc-name {
+  font-weight: 700;
+  font-size: 0.88rem;
+  margin-bottom: 0.25rem;
+}
+.t14-product-card .pc-name a {
+  color: var(--global-text-color, #222);
+  text-decoration: none;
+}
+.t14-product-card .pc-name a:hover {
+  color: #e63946;
+}
+.t14-product-card .pc-tag {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.15rem 0.45rem;
+  border-radius: 20px;
+  background: #3b82f6;
+  color: #fff;
+  margin-bottom: 0.4rem;
+}
+.t14-product-card .pc-tag.cut {
+  background: #22c55e;
+}
+.t14-product-card .pc-desc {
+  color: var(--global-text-color-light, #666);
+  line-height: 1.5;
+}
 </style>
 
 <div class="t14-week-grid">
@@ -324,14 +383,25 @@ Mix up your routine every 6–8 weeks and keep a log of your numbers. A plateau 
 
 ## Nutrition
 
-Supplements are not the foundation — food is. Most people flip this and wonder why they're not making progress.
+<div class="t14-supp-truth">
+  <strong>Do you actually need supplements?</strong>
+  Only if you can't hit your protein target from whole food — roughly 1.6–2g per kg of bodyweight per day. I tried months on food alone (eggs, chicken, fish) and it worked, but it got repetitive. Shakes are convenient, not magical. And eating protein without training does absolutely nothing.
+</div>
 
-**Do you need protein powder?** Only if you can't hit your target from whole food. The target is roughly **1.6–2g of protein per kg of bodyweight** per day. I tried a few months on food alone (eggs, chicken, fish) and it worked, but it got repetitive and expensive. Protein shakes fill the gap conveniently — they're not magic, they're just food in liquid form. Eating protein without training does nothing.
+<div class="t14-product-grid">
+  <div class="t14-product-card">
+    <span class="pc-tag">Everyday</span>
+    <div class="pc-name"><a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" target="_blank" rel="noopener noreferrer">Impact Whey Protein ↗</a></div>
+    <div class="pc-desc">My go-to. Mixes well, wide range of flavours, good value. Use for maintenance and bulk phases.</div>
+  </div>
+  <div class="t14-product-card">
+    <span class="pc-tag cut">Cutting</span>
+    <div class="pc-name"><a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" target="_blank" rel="noopener noreferrer">Impact Whey Isolate ↗</a></div>
+    <div class="pc-desc">Lower carbs and fat. Better suited for cutting phases when every calorie counts.</div>
+  </div>
+</div>
 
-I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" title="MyProtein" target="_blank" rel="noopener noreferrer">MyProtein</a>:
-
-- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Protein" target="_blank" rel="noopener noreferrer">Impact Whey Protein</a> — everyday use, mixes well, good range of flavours.
-- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Isolate" target="_blank" rel="noopener noreferrer">Impact Whey Isolate</a> — lower carbs, better for cutting phases.
+<div class="t14-note">Both from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" target="_blank" rel="noopener noreferrer">MyProtein</a> — use the referral link for a discount on your first order.</div>
 
 <div class="t14-macro-row">
   <div class="t14-macro-card carb">
