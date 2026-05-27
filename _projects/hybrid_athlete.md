@@ -155,14 +155,21 @@ permalink: /projects/hybrid_athlete/
 .ha-philosophy {
   background: #14142b;
   color: #f1f5f9;
-  border-radius: 10px;
-  padding: 1rem 1.2rem;
-  margin-bottom: 1.2rem;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.8rem;
   font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
 }
-.ha-philosophy h4 { color: #e63946; margin: 0 0 0.6rem; font-size: 0.9rem; }
-.ha-philosophy ul { margin: 0; padding-left: 1.1rem; }
-.ha-philosophy ul li { margin-bottom: 0.3rem; }
+.ha-philosophy span { color: #e63946; font-weight: 700; font-size: 0.9rem; white-space: nowrap; }
+.ha-philosophy-text {
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: var(--global-text-color, #333);
+  margin-bottom: 1.2rem;
+}
 .ha-week-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
@@ -493,15 +500,16 @@ permalink: /projects/hybrid_athlete/
   <h2>🏋️ Training Plan</h2>
 
   <div class="ha-philosophy">
-    <h4>Nick Bare Hybrid Athlete Philosophy</h4>
-    <ul>
-      <li><strong>Never sacrifice one for the other</strong> — build strength AND endurance simultaneously.</li>
-      <li><strong>Progressive overload — both domains</strong> — add weight every 2 weeks; increase cardio volume max 10%/week.</li>
-      <li><strong>Two-a-days are a tool</strong> — AM strength + PM cardio, separated by 6+ hours. Keep PM sessions Zone 2–3.</li>
-      <li><strong>Consistency &gt; perfection</strong> — a modified session always beats zero sessions.</li>
-      <li><strong>Train your weakness</strong> — runs feel easy? Push harder. Squats plateau? Add volume.</li>
-    </ul>
+    <span>Nick Bare — Hybrid Athlete</span>
+    <em>"Do the work. Trust the process. Become uncommon amongst uncommon people."</em>
   </div>
+  <p class="ha-philosophy-text">
+    Nick Bare's Hybrid Athlete method is built on one core belief: you should never have to choose between being strong and being fast.
+    The program combines heavy compound lifting with structured endurance training — running, swimming, and cycling — in a two-a-day format where strength comes first in the morning and cardio follows in the evening.
+    Both domains are trained with progressive overload, never letting one stagnate to serve the other.
+    The philosophy demands consistency over perfection: a modified session always beats skipping one, and attacking your weakest pillar is what drives real growth.
+    Fueling is treated as non-negotiable — protein at every meal, carbs around every session, and recovery prioritized as seriously as the training itself.
+  </p>
 
   <div class="ha-week-grid">
 
