@@ -79,10 +79,10 @@ permalink: /projects/hybrid_athlete/
 }
 .ha-event-header .ev-name { font-weight: 800; font-size: 1rem; letter-spacing: 0.04em; }
 .ha-event-header .ev-date { font-size: 0.78rem; opacity: 0.75; }
-.ha-event-imgs { display: grid; gap: 2px; background: #000; }
+.ha-event-imgs { display: grid; gap: 0.4rem; padding: 0.4rem; }
 .ha-event-imgs.cols-2 { grid-template-columns: 1fr 1fr; }
 .ha-event-imgs.cols-3 { grid-template-columns: 1fr 1fr 1fr; }
-.ha-event-imgs img { width: 100%; height: 190px; object-fit: cover; display: block; }
+.ha-event-imgs img { width: 100%; height: 220px; object-fit: cover; object-position: top center; border-radius: 6px; display: block; }
 .ha-event-body { padding: 0.85rem 1rem; }
 .ha-venue { font-size: 0.78rem; color: var(--global-text-color-light, #666); margin-bottom: 0.55rem; }
 .ha-stat-row { display: flex; gap: 0.7rem; flex-wrap: wrap; }
