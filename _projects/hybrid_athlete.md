@@ -240,11 +240,27 @@ permalink: /projects/hybrid_athlete/
 
 <!-- ── HERO ── -->
 <div style="margin-bottom: 2rem;">
-  <p style="font-size: 1.05rem; line-height: 1.75; margin-bottom: 1rem;">
-    Following the <strong>Nick Bare Hybrid Method</strong> — training for strength <em>and</em> endurance simultaneously without sacrificing either.
-    The 2026 season targets the <strong>Deka Trifecta</strong>, <strong>Spartan Trifecta</strong>, and back-to-back triathlons.
-    Two-a-days (AM strength + PM cardio), progressive overload, and intentional nutrition make the difference.
+
+  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
+    I have been a runner for as long as I can remember. At six years old, my father had my siblings and me lacing up our shoes every morning for a 3km run before school — no exceptions, no excuses. It was just what we did. That daily ritual became the foundation of everything. Through school and university I competed in 800m and 1500m track races, collecting medals and a love for movement that felt as natural as breathing.
   </p>
+
+  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
+    My peak came in 2014–2015 while training for MMA with <strong>Fitness Fight Club in Bangalore</strong>. I was in the best shape of my life — lean, strong, and hungry. Then came a PhD offer in Germany, and with it, a different kind of pressure. The demands of doctoral research, life in a new country, and the slow accumulation of stress quietly pushed fitness to the back seat. By 2019 I was at my heaviest — close to 80kg — and barely recognising the athlete I used to be.
+  </p>
+
+  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
+    COVID, counterintuitively, became a turning point. The forced pause gave me time to reconnect with movement. I started rebuilding slowly, and by 2022 I crossed the finish line of my second Olympic Triathlon with the <strong>ASHA Silicon Valley group</strong> — proof that the runner was still in there. Then in 2023 my son was born, and once again life reshaped my priorities. But this time the slide felt different. I noticed it in how I felt keeping up with him, in the energy I didn't have at the end of a long day. Fitness wasn't just about me anymore — it was about the kind of father and role model I wanted to be.
+  </p>
+
+  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
+    At the end of 2025 I made a decision: no more half-measures. I started researching what an optimised lifestyle for a working father in his mid-thirties could actually look like — and discovered the world of the <strong>hybrid athlete</strong>. The philosophy of <strong>Nick Bare</strong> — building strength and endurance simultaneously, never sacrificing one for the other — resonated immediately. Paired with <strong>Dorian Yates'</strong> Blood and Guts approach to weight training, which promised maximum muscle stimulus in under 40 minutes, I finally had a framework that fit my life without compromise.
+  </p>
+
+  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 0;">
+    2026 is the test. DEKA events, Spartan races, and triathlons — this season is about proving that the kid who ran 3km every morning before school still has more left to give.
+  </p>
+
 </div>
 
 ---
