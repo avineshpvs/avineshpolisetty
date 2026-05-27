@@ -431,6 +431,10 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
 
 ## What's Next
 
-That transformation in 2014 was a starting point, not a finish line. After getting ripped, I trained MMA and Muay Thai for a year, then a PhD in Germany put fitness on the back seat. By 2019 I was at my heaviest. By 2022 I'd completed my second Olympic Triathlon. In 2023 my son was born, and the challenge changed shape again.
+I enrolled at <a href="https://www.facebook.com/FFCNOW/" title="Fitness Fight Club" target="_blank" rel="noopener noreferrer">Fitness Fight Club</a> to train Muay Thai, Boxing, and MMA — something I'd always wanted to do. The goal: conditioning, flexibility, and reflexes. I'll review the gym after at least a month of training.
 
-In 2026 I'm back — this time as a [Hybrid Athlete](/projects/hybrid_athlete/), combining strength training with DEKA events, Spartan races, and triathlon. The kid who couldn't do a single push-up eventually figured it out. The work is never really finished.
+Marathon and Triathlon are still on the <a href="/i-am-possible-list/" title="I am Possible List">bucket list</a>.
+
+---
+
+_Questions? Drop them in the comments or reach out directly. I'm not perfect — always learning and adjusting. That's how it works._
