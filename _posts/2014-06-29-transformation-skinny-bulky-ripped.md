@@ -113,12 +113,14 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
 }
 .t14-day-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; overflow: hidden; }
 .t14-day-head {
-  background: #14142b; color: #fff;
+  background: #14142b;
+  color: #ffffff !important;
   padding: 0.45rem 0.8rem;
   font-weight: 700; font-size: 0.82rem;
   display: flex; justify-content: space-between; align-items: baseline;
 }
-.t14-day-head .day-tag { font-size: 0.7rem; opacity: 0.7; }
+.t14-day-head span { color: #ffffff !important; }
+.t14-day-head .day-tag { font-size: 0.7rem; opacity: 0.7; color: #ffffff !important; }
 .t14-day-body { padding: 0.65rem 0.8rem; font-size: 0.8rem; }
 .t14-day-body .focus { font-weight: 700; color: #e63946; margin-bottom: 0.3rem; font-size: 0.82rem; }
 .t14-day-body .extra { font-size: 0.75rem; color: var(--global-text-color-light, #888); margin-top: 0.35rem; }
@@ -163,6 +165,21 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
   font-size: 0.82rem;
   color: var(--global-text-color-light, #555);
 }
+.t14-sub-label {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 1.1rem 0 0.6rem;
+  color: var(--global-text-color, #222);
+}
+.t14-gaining-note {
+  font-size: 0.85rem;
+  padding: 0.6rem 0.9rem;
+  background: var(--global-bg-color, #f9f9f9);
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 8px;
+  margin-bottom: 0.3rem;
+}
+.t14-avoid-item strong { display: block; margin-bottom: 0.2rem; }
 </style>
 
 <div class="t14-section">
@@ -244,10 +261,9 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
   </div>
 </div>
 
-5–6 meals a day works well — your body processes smaller portions better, and you avoid overeating in a single sitting.
+<p>5–6 meals a day works well — your body processes smaller portions better, and you avoid overeating in a single sitting.</p>
 
-**Cutting Phase**
-
+<p class="t14-sub-label">Cutting Phase</p>
 <div class="t14-meal-grid">
   <div class="t14-meal-card">
     <div class="t14-meal-head">🌅 Meal 0 — Wake Up</div>
@@ -279,10 +295,10 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
   </div>
 </div>
 
-**Gaining Phase** — Same meals above, add extra carbs and protein to Meals 3 and 5.
+<p class="t14-sub-label">Gaining Phase</p>
+<div class="t14-gaining-note">Same meals as above — add extra carbs and protein to Meals 3 and 5.</div>
 
-**3 Things to Avoid**
-
+<p class="t14-sub-label">3 Things to Avoid</p>
 <div class="t14-avoid">
   <div class="t14-avoid-item">
     <span class="av-icon">🍬</span>
@@ -298,9 +314,7 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
   </div>
 </div>
 
-<div class="t14-note">
-  * If you can burn what you eat, the rules are more flexible — but most of us can't.
-</div>
+<div class="t14-note">* If you can burn what you eat, the rules are more flexible — but most of us can't.</div>
 </div>
 
 ---
