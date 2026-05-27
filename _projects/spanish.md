@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Spanish
-description: A1 → fluency. Monthly CEFR tests, Memrise, and a structured plan to get there.
+description: A1 → B2 in 6 months. Monthly CEFR tests, daily Memrise, tutor sessions, and a plan to get there by December 2026.
 img: assets/img/blog/projects/spanish_learning.png
 importance: 5
 category: Personal
@@ -201,7 +201,7 @@ permalink: /projects/spanish/
   <div class="sp-level-info">
     <div class="lv-name">Beginner — A1</div>
     <div class="lv-desc">Can understand and use familiar everyday expressions and basic phrases. Strong foundation in A0 (75%), solid A1 competence (57%). Not yet at A2 — routine tasks and familiar topic conversations are the next unlock.</div>
-    <div class="lv-next">Next target: <span>A2 — Elementary</span> · Handle familiar topics, simple routine tasks, and short personal descriptions.</div>
+    <div class="lv-next">Goal: <span>B2 by December 2026</span> · 6 months · A1 → A2 → B1 → B2</div>
   </div>
 </div>
 
@@ -219,22 +219,27 @@ permalink: /projects/spanish/
   <div class="sp-cefr-step next">
     <div class="cs-level">A2</div>
     <div class="cs-name">Elementary</div>
-    <div class="cs-can">Familiar topics, routine tasks</div>
+    <div class="cs-can">Target: Jul 2026</div>
   </div>
   <div class="sp-cefr-step">
-    <div class="cs-level">B2</div>
+    <div class="cs-level">B1</div>
+    <div class="cs-name">Intermediate</div>
+    <div class="cs-can">Target: Oct 2026</div>
+  </div>
+  <div class="sp-cefr-step" style="border: 2px solid #e63946;">
+    <div class="cs-level" style="color:#e63946;">B2</div>
     <div class="cs-name">Upper-Int</div>
-    <div class="cs-can">Complex topics, native fluency</div>
+    <div class="cs-can">🎯 Dec 2026</div>
   </div>
   <div class="sp-cefr-step">
     <div class="cs-level">C1</div>
     <div class="cs-name">Advanced</div>
-    <div class="cs-can">Academic & professional use</div>
+    <div class="cs-can">Beyond 2026</div>
   </div>
   <div class="sp-cefr-step">
     <div class="cs-level">C2</div>
     <div class="cs-name">Mastery</div>
-    <div class="cs-can">Near-native proficiency</div>
+    <div class="cs-can">Near-native</div>
   </div>
 </div>
 </div>
@@ -264,50 +269,50 @@ permalink: /projects/spanish/
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Jun 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">—</div>
+    <div class="sp-log-level pending">Target: A1+</div>
+    <div class="sp-log-notes">Consolidate A1 · A2 vocabulary push</div>
     <div class="sp-log-score">—</div>
   </div>
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Jul 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">—</div>
+    <div class="sp-log-level pending">Target: A2</div>
+    <div class="sp-log-notes">Milestone — reach A2 · Present tense solid</div>
     <div class="sp-log-score">—</div>
   </div>
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Aug 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">—</div>
+    <div class="sp-log-level pending">Target: A2+</div>
+    <div class="sp-log-notes">Past tenses · Preterite vs imperfect</div>
     <div class="sp-log-score">—</div>
   </div>
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Sep 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">—</div>
+    <div class="sp-log-level pending">Target: B1</div>
+    <div class="sp-log-notes">Milestone — reach B1 · Travel &amp; daily life fluency</div>
     <div class="sp-log-score">—</div>
   </div>
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Oct 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">—</div>
+    <div class="sp-log-level pending">Target: B1+</div>
+    <div class="sp-log-notes">Subjunctive · Complex sentences · More input</div>
     <div class="sp-log-score">—</div>
   </div>
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Nov 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">—</div>
+    <div class="sp-log-level pending">Target: B2–</div>
+    <div class="sp-log-notes">Native content · Podcasts · Extended conversations</div>
     <div class="sp-log-score">—</div>
   </div>
 
   <div class="sp-log-row pending">
     <div class="sp-log-date">Dec 2026</div>
-    <div class="sp-log-level pending">Upcoming</div>
-    <div class="sp-log-notes">Year-end review</div>
+    <div class="sp-log-level pending">🎯 Target: B2</div>
+    <div class="sp-log-notes">Final milestone — B2 confirmed</div>
     <div class="sp-log-score">—</div>
   </div>
 
@@ -320,10 +325,10 @@ permalink: /projects/spanish/
 
 <!-- ── STUDY PLAN ── -->
 <div class="sp-section">
-<h2>📚 Study Plan — A1 → A2</h2>
+<h2>📚 Study Plan — A1 → B2 in 6 Months</h2>
 
 <p style="font-size:0.88rem; color:var(--global-text-color-light,#555); margin-bottom:1rem;">
-  Target: reach A2 by end of 2026, B1 by mid-2027. The key jump from A1 to A2 is expanding vocabulary to ~1,000 common words, getting comfortable with present tense across all verb types, and being able to handle short conversations on familiar topics (family, food, daily routine, directions). Daily consistency matters more than long sessions.
+  Aggressive target: B2 by December 2026. This requires ~1–1.5 hrs of focused study daily — not optional. The path: A2 by July (present tense + 1,000 words), B1 by September (past tenses + travel fluency), B2 by December (subjunctive + native content). Every session counts.
 </p>
 
 <div class="sp-plan-grid">
@@ -396,7 +401,9 @@ permalink: /projects/spanish/
 </div>
 
 <div class="sp-note">
-  <strong>A1 → A2 grammar milestones:</strong> Present tense regular &amp; irregular verbs · Ser vs Estar · Hay · Gender &amp; articles (el/la/un/una) · Adjective agreement · Basic question words (qué, quién, cuándo, dónde, cómo, por qué) · Numbers, time, dates · Gustar + infinitive
+  <strong>A1→A2 (by Jul):</strong> Present tense all verbs · Ser vs Estar · Articles &amp; gender · Question words · Gustar · Numbers/dates<br>
+  <strong>A2→B1 (by Sep):</strong> Preterite · Imperfect · Reflexive verbs · Direct/indirect object pronouns · Future tense · Common idioms<br>
+  <strong>B1→B2 (by Dec):</strong> Subjunctive mood · Conditional · Passive voice · Complex sentences · ~3,000 word vocabulary · Native-speed listening
 </div>
 </div>
 
