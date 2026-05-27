@@ -345,8 +345,8 @@ permalink: /projects/spanish/
   </div>
   <div style="border:1px solid var(--global-divider-color,#e0e0e0); border-radius:10px; padding:0.8rem 1rem; background:var(--global-bg-color,#f8f9fa);">
     <div style="font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--global-text-color-light,#888); margin-bottom:0.2rem;">Daily Commitment</div>
-    <div style="font-size:1.1rem; font-weight:800; margin-bottom:0.3rem;">1–1.5 hrs</div>
-    <div style="font-size:0.78rem; color:var(--global-text-color-light,#666);">Non-negotiable. Every session counts toward December.</div>
+    <div style="font-size:1.1rem; font-weight:800; margin-bottom:0.3rem;">20–30 min</div>
+    <div style="font-size:0.78rem; color:var(--global-text-color-light,#666);">Daily · + 1 hr session on weekends. Every streak day counts.</div>
   </div>
 </div>
 
@@ -365,11 +365,11 @@ permalink: /projects/spanish/
   <div class="sp-plan-card">
     <div class="sp-plan-head"><span>Tuesday</span><span class="ph-tag">Listening</span></div>
     <div class="sp-plan-body">
-      <div class="focus">Input — 20 min</div>
+      <div class="focus">Input — 20–30 min</div>
       <ul>
         <li>Dreaming Spanish (A2 content)</li>
         <li>No subtitles — immersion focus</li>
-        <li>Note unknown words for Anki</li>
+        <li>Note unknown words for Memrise</li>
       </ul>
     </div>
   </div>
@@ -398,7 +398,7 @@ permalink: /projects/spanish/
   <div class="sp-plan-card">
     <div class="sp-plan-head"><span>Friday</span><span class="ph-tag">Speaking</span></div>
     <div class="sp-plan-body">
-      <div class="focus">Production — 20 min</div>
+      <div class="focus">Production — 20–30 min</div>
       <ul>
         <li>Write 5 sentences in Spanish</li>
         <li>Talk to tutor / language exchange</li>
@@ -409,10 +409,10 @@ permalink: /projects/spanish/
   <div class="sp-plan-card">
     <div class="sp-plan-head"><span>Weekend</span><span class="ph-tag">Review</span></div>
     <div class="sp-plan-body">
-      <div class="focus">Light review — 15 min</div>
+      <div class="focus">Deep session — 1 hr</div>
       <ul>
-        <li>Memrise catch-up only</li>
-        <li>Short reading (BBC Mundo / graded reader)</li>
+        <li>Memrise + Language Transfer</li>
+        <li>Reading (BBC Mundo / graded reader)</li>
         <li>Monthly test (1st weekend)</li>
       </ul>
     </div>
