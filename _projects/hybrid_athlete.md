@@ -479,7 +479,7 @@ permalink: /projects/hybrid_athlete/
 
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> May 2026</div>
-      <div class="ha-coming-soon">Photos coming soon — add to <code>assets/img/blog/projects/hybrid_athelete/may/</code></div>
+      <div class="ha-coming-soon">Photos coming soon</div>
     </div>
 
   </div>
