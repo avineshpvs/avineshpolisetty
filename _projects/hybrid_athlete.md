@@ -467,13 +467,11 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> February 2026</div>
       <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb-1.jpg' | relative_url }}" alt="February 2026 — Front" loading="lazy">
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb2.jpg' | relative_url }}" alt="February 2026 — Side" loading="lazy">
     </div>
 
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> March 2026</div>
       <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-1.jpg' | relative_url }}" alt="March 2026 — Front" loading="lazy">
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-2.jpg' | relative_url }}" alt="March 2026 — Side" loading="lazy">
     </div>
 
     <div class="ha-month-col">
