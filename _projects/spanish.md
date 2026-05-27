@@ -327,9 +327,28 @@ permalink: /projects/spanish/
 <div class="sp-section">
 <h2>📚 Study Plan — A1 → B2 in 6 Months</h2>
 
-<p style="font-size:0.88rem; color:var(--global-text-color-light,#555); margin-bottom:1rem;">
-  Aggressive target: B2 by December 2026. This requires ~1–1.5 hrs of focused study daily — not optional. The path: A2 by July (present tense + 1,000 words), B1 by September (past tenses + travel fluency), B2 by December (subjunctive + native content). Every session counts.
-</p>
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:0.8rem; margin-bottom:1.2rem;">
+  <div style="border:1px solid var(--global-divider-color,#e0e0e0); border-radius:10px; padding:0.8rem 1rem;">
+    <div style="font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:#f59e0b; margin-bottom:0.2rem;">Phase 1 · By Jul 2026</div>
+    <div style="font-size:1.1rem; font-weight:800; margin-bottom:0.3rem;">A2</div>
+    <div style="font-size:0.78rem; color:var(--global-text-color-light,#666);">Present tense solid · 1,000 core words · Familiar topic conversations</div>
+  </div>
+  <div style="border:1px solid var(--global-divider-color,#e0e0e0); border-radius:10px; padding:0.8rem 1rem;">
+    <div style="font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:#3b82f6; margin-bottom:0.2rem;">Phase 2 · By Sep 2026</div>
+    <div style="font-size:1.1rem; font-weight:800; margin-bottom:0.3rem;">B1</div>
+    <div style="font-size:0.78rem; color:var(--global-text-color-light,#666);">Past tenses · Travel fluency · 2,000 words · Extended conversations</div>
+  </div>
+  <div style="border:2px solid #e63946; border-radius:10px; padding:0.8rem 1rem;">
+    <div style="font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:#e63946; margin-bottom:0.2rem;">🎯 Goal · By Dec 2026</div>
+    <div style="font-size:1.1rem; font-weight:800; margin-bottom:0.3rem;">B2</div>
+    <div style="font-size:0.78rem; color:var(--global-text-color-light,#666);">Subjunctive · Native content · 3,000 words · Complex fluency</div>
+  </div>
+  <div style="border:1px solid var(--global-divider-color,#e0e0e0); border-radius:10px; padding:0.8rem 1rem; background:var(--global-bg-color,#f8f9fa);">
+    <div style="font-size:0.7rem; font-weight:700; text-transform:uppercase; letter-spacing:0.06em; color:var(--global-text-color-light,#888); margin-bottom:0.2rem;">Daily Commitment</div>
+    <div style="font-size:1.1rem; font-weight:800; margin-bottom:0.3rem;">1–1.5 hrs</div>
+    <div style="font-size:0.78rem; color:var(--global-text-color-light,#666);">Non-negotiable. Every session counts toward December.</div>
+  </div>
+</div>
 
 <div class="sp-plan-grid">
   <div class="sp-plan-card">
