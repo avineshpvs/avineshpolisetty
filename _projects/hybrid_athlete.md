@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hybrid Athlete 2026
-description: Nick Bare Hybrid Method — strength + endurance. DEKA Trifecta 2026 complete. Monthly progress, training plan, race calendar, and nutrition.
+description: A working father in his mid-thirties chasing strength, endurance, and the DEKA Trifecta — one race at a time.
 img: assets/img/blog/projects/hybrid_athelete/hybrid_athlete_thumb.jpg
 importance: 3
 category: Personal
