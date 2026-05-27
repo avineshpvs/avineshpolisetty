@@ -202,6 +202,69 @@ permalink: /projects/hybrid_athlete/
 .ha-zone-table td { padding: 0.3rem 0.6rem; border-bottom: 1px solid var(--global-divider-color, #eee); }
 .ha-zone-table tr:nth-child(even) td { background: var(--global-bg-color, #f9f9f9); }
 
+/* ── Story Timeline ── */
+.ha-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0 0 1.5rem;
+  position: relative;
+}
+.ha-timeline::before {
+  content: "";
+  position: absolute;
+  left: 38px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--global-divider-color, #e0e0e0);
+}
+.ha-tl-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding-bottom: 1.5rem;
+  position: relative;
+}
+.ha-tl-item:last-child { padding-bottom: 0; }
+.ha-tl-dot {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #14142b;
+  color: #fff;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+.ha-tl-dot.red   { background: #e63946; }
+.ha-tl-dot.green { background: #22c55e; }
+.ha-tl-dot.amber { background: #f59e0b; }
+.ha-tl-dot.blue  { background: #3b82f6; }
+.ha-tl-content { padding-top: 0.4rem; }
+.ha-tl-label {
+  font-weight: 700;
+  font-size: 0.92rem;
+  margin-bottom: 0.25rem;
+}
+.ha-tl-year {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #e63946;
+  margin-bottom: 0.2rem;
+}
+.ha-tl-text {
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: var(--global-text-color-light, #555);
+}
+
 /* ── Nutrition ── */
 .ha-macro-row {
   display: grid;
@@ -239,27 +302,52 @@ permalink: /projects/hybrid_athlete/
 </style>
 
 <!-- ── HERO ── -->
-<div style="margin-bottom: 2rem;">
+<div class="ha-timeline">
 
-  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
-    I have been a runner for as long as I can remember. At six years old, my father had my siblings and me lacing up our shoes every morning for a 3km run before school — no exceptions, no excuses. It was just what we did. That daily ritual became the foundation of everything. Through school and university I competed in 800m and 1500m track races, collecting medals and a love for movement that felt as natural as breathing.
-  </p>
+  <div class="ha-tl-item">
+    <div class="ha-tl-dot">🏃</div>
+    <div class="ha-tl-content">
+      <div class="ha-tl-year">Childhood</div>
+      <div class="ha-tl-label">Born to Run</div>
+      <div class="ha-tl-text">At six years old my father had us lacing up every morning for a 3km run before school — no exceptions. Through school and university I competed in 800m and 1500m track races. That daily discipline became the foundation of everything.</div>
+    </div>
+  </div>
 
-  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
-    My peak came in 2014–2015 while training for MMA with <strong>Fitness Fight Club in Bangalore</strong>. I was in <a href="{{ '/blog/2014/transformation-skinny-bulky-ripped/' | relative_url }}">the best shape of my life</a> — lean, strong, and hungry. Then came a PhD offer in Germany, and with it, a different kind of pressure. The demands of doctoral research, life in a new country, and the slow accumulation of stress quietly pushed fitness to the back seat. By 2019 I was at my heaviest — close to 80kg — and barely recognising the athlete I used to be.
-  </p>
+  <div class="ha-tl-item">
+    <div class="ha-tl-dot green">💪</div>
+    <div class="ha-tl-content">
+      <div class="ha-tl-year">2014 – 2015</div>
+      <div class="ha-tl-label">Peak Shape — MMA &amp; the Gym</div>
+      <div class="ha-tl-text">Training MMA with Fitness Fight Club in Bangalore, I was in <a href="{{ '/blog/2014/transformation-skinny-bulky-ripped/' | relative_url }}">the best shape of my life</a> — lean, strong, and hungry. Then a PhD offer in Germany arrived and everything changed.</div>
+    </div>
+  </div>
 
-  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
-    COVID, counterintuitively, became a turning point. The forced pause gave me time to reconnect with movement. I started rebuilding slowly, and by 2022 I crossed the finish line of my second Olympic Triathlon with the <strong>ASHA Silicon Valley group</strong> — proof that the runner was still in there. Then in 2023 my son was born, and once again life reshaped my priorities. But this time the slide felt different. I noticed it in how I felt keeping up with him, in the energy I didn't have at the end of a long day. Fitness wasn't just about me anymore — it was about the kind of father and role model I wanted to be.
-  </p>
+  <div class="ha-tl-item">
+    <div class="ha-tl-dot red">📉</div>
+    <div class="ha-tl-content">
+      <div class="ha-tl-year">2016 – 2019</div>
+      <div class="ha-tl-label">The PhD Slide</div>
+      <div class="ha-tl-text">Doctoral research, a new country, accumulated stress — fitness quietly moved to the back seat. By 2019 I was at my heaviest, close to 80kg, barely recognising the athlete I used to be.</div>
+    </div>
+  </div>
 
-  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
-    At the end of 2025 I made a decision: no more half-measures. I started researching what an optimised lifestyle for a working father in his mid-thirties could actually look like — and discovered the world of the <strong>hybrid athlete</strong>. The philosophy of <strong>Nick Bare</strong> — building strength and endurance simultaneously, never sacrificing one for the other — resonated immediately. Paired with <strong>Dorian Yates'</strong> Blood and Guts approach to weight training, which promised maximum muscle stimulus in under 40 minutes, I finally had a framework that fit my life without compromise.
-  </p>
+  <div class="ha-tl-item">
+    <div class="ha-tl-dot amber">🔄</div>
+    <div class="ha-tl-content">
+      <div class="ha-tl-year">2020 – 2023</div>
+      <div class="ha-tl-label">Rebuilding — Triathlon &amp; Fatherhood</div>
+      <div class="ha-tl-text">COVID became an unlikely turning point. I started rebuilding slowly, and by 2022 crossed the finish line of my second Olympic Triathlon with the ASHA Silicon Valley group. In 2023 my son was born — fitness was no longer just about me.</div>
+    </div>
+  </div>
 
-  <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 0;">
-    2026 is the test. DEKA events, Spartan races, and triathlons — this season is about proving that the kid who ran 3km every morning before school still has more left to give.
-  </p>
+  <div class="ha-tl-item">
+    <div class="ha-tl-dot blue">🎯</div>
+    <div class="ha-tl-content">
+      <div class="ha-tl-year">2026</div>
+      <div class="ha-tl-label">The Hybrid Athlete Decision</div>
+      <div class="ha-tl-text">No more half-measures. The <strong>Nick Bare</strong> hybrid philosophy — strength and endurance simultaneously — paired with <strong>Dorian Yates'</strong> Blood and Guts method gave me a framework that fits a working father's life. DEKA events, Spartan races, and triathlons. This season is the test.</div>
+    </div>
+  </div>
 
 </div>
 
