@@ -519,7 +519,7 @@ permalink: /projects/hybrid_athlete/
   <div class="ha-week-grid">
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Monday <span class="day-tag">Two-a-day</span></div>
+      <div class="ha-day-head">Monday <span class="day-tag">Strength</span></div>
       <div class="ha-day-body">
         <div class="focus">AM — Full Body Strength (40 min)</div>
         <ul>
@@ -530,10 +530,6 @@ permalink: /projects/hybrid_athlete/
           <li>Curls + Skull Crushers 3×10</li>
           <li>Box Jumps / DEKA finisher</li>
         </ul>
-        <div class="pm-block">
-          <div class="focus">PM — Run 30–45 min</div>
-          <ul><li>Zone 2–3 easy run</li><li>Strides or tempo at end</li></ul>
-        </div>
       </div>
     </div>
 
