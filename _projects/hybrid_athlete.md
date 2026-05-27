@@ -549,7 +549,7 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Wednesday <span class="day-tag">Strength + Bike</span></div>
+      <div class="ha-day-head">Wednesday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
         <div class="focus">AM — Full Body Strength (40 min) + Bike (30 min)</div>
         <ul>
@@ -560,6 +560,10 @@ permalink: /projects/hybrid_athlete/
           <li>Dips + Cable Curl 3×10</li>
           <li>Bike 30 min Zone 2</li>
         </ul>
+        <div class="pm-block">
+          <div class="focus">PM — Run 25–30 min</div>
+          <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
+        </div>
       </div>
     </div>
 
