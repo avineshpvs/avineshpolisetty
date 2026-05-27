@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Spanish
-description: Tracking my journey from A1 to fluency — monthly CEFR tests, Memrise, tutor sessions, and a plan to reach A2 then B1.
+description: A1 → fluency. Monthly CEFR tests, Memrise, and a structured plan to reach B1.
 img: assets/img/blog/projects/spanish_learning.png
 importance: 5
 category: Personal
