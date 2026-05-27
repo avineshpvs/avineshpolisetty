@@ -7,8 +7,6 @@ importance: 2
 category: Personal
 ---
 
-Fitness journey sharing the transformation from skinny to bulky to ripped. Q&A format covering common questions from gym-goers.
-
-2014 — A complete transformation documented with diet plans, workout routines, and progress tracking.
-
-**Focus:** Fitness, Transformation
+<meta http-equiv="refresh" content="0; url={{ '/blog/2014/transformation-skinny-bulky-ripped/' | relative_url }}">
+<script>window.location.replace("{{ '/blog/2014/transformation-skinny-bulky-ripped/' | relative_url }}");</script>
+<p>Redirecting… <a href="{{ '/blog/2014/transformation-skinny-bulky-ripped/' | relative_url }}">Click here if you are not redirected.</a></p>
