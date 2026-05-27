@@ -336,7 +336,7 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-tl-content">
       <div class="ha-tl-year">2020 – 2023</div>
       <div class="ha-tl-label">Rebuilding — Triathlon &amp; Fatherhood</div>
-      <div class="ha-tl-text">COVID, counterintuitively, became a turning point. The forced pause gave me time to reconnect with movement. I started rebuilding slowly, and by 2022 I crossed the finish line of my second Olympic Triathlon with the <strong>ASHA Silicon Valley group</strong> — proof that the runner was still in there. Then in 2023 my son was born, and once again life reshaped my priorities. But this time the slide felt different. I noticed it in how I felt keeping up with him, in the energy I didn't have at the end of a long day. Fitness wasn't just about me anymore — it was about the kind of father and role model I wanted to be.</div>
+      <div class="ha-tl-text">COVID became an unlikely turning point — the forced pause gave me time to reconnect with movement. By 2022 I crossed the finish line of my second Olympic Triathlon with the <strong>ASHA Silicon Valley group</strong>. In 2023 my son was born, and fitness stopped being just about me. It became about the kind of father I wanted to be.</div>
     </div>
   </div>
 
@@ -345,7 +345,7 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-tl-content">
       <div class="ha-tl-year">2026</div>
       <div class="ha-tl-label">The Hybrid Athlete Decision</div>
-      <div class="ha-tl-text">At the end of 2025 I made a decision: no more half-measures. I started researching what an optimised lifestyle for a working father in his mid-thirties could actually look like — and discovered the world of the <strong>hybrid athlete</strong>. The philosophy of <strong>Nick Bare</strong> — building strength and endurance simultaneously, never sacrificing one for the other — resonated immediately. Paired with <strong>Dorian Yates'</strong> Blood and Guts approach to weight training, which promised maximum muscle stimulus in under 40 minutes, I finally had a framework that fit my life without compromise. DEKA events, Spartan races, and triathlons — this season is about proving that the kid who ran 3km every morning before school still has more left to give.</div>
+      <div class="ha-tl-text">At the end of 2025 I made a decision: no more half-measures. The <strong>Nick Bare</strong> hybrid philosophy — strength and endurance simultaneously — paired with <strong>Dorian Yates'</strong> Blood and Guts method gave me a framework that finally fit a working father's life. DEKA events, Spartan races, and triathlons — this season is the test.</div>
     </div>
   </div>
 
