@@ -434,7 +434,7 @@ permalink: /projects/spanish/
   </div>
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
-    <div class="rc-name">Language Transfer</div>
+    <div class="rc-name"><a href="https://www.languagetransfer.org/courses#complete-spanish" target="_blank" rel="noopener noreferrer">Language Transfer ↗</a></div>
     <div class="rc-desc">Free audio course — "Complete Spanish". 40 short episodes that teach you to think in Spanish rather than translate. Excellent complement to Memrise and tutor sessions.</div>
   </div>
 </div>
