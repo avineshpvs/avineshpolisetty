@@ -10,19 +10,124 @@ categories: fitness
 
 {% include figure.liquid loading="eager" path="/assets/img/blog/six_pack_1.png" class="img-fluid rounded z-depth-1" zoomable=true alt="My Transformation: Skinny to Bulky to Ripped" %}
 
-I am not an actor, a fitness model, or a fitness guru. I have a day job I love, and fitness has always been one of the most important things in my life. This is the honest version — no shortcuts, no magic, just what worked for me and why.
+<style>
+.t14-intro {
+  font-size: 1rem;
+  line-height: 1.8;
+  border-left: 3px solid #e63946;
+  padding: 0.6rem 1rem;
+  margin: 1.2rem 0 1.8rem;
+  color: var(--global-text-color, #333);
+}
+/* Timeline */
+.t14-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 1.2rem 0 1.5rem;
+  position: relative;
+}
+.t14-timeline::before {
+  content: "";
+  position: absolute;
+  left: 38px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--global-divider-color, #e0e0e0);
+}
+.t14-tl-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding-bottom: 1.4rem;
+  position: relative;
+}
+.t14-tl-item:last-child { padding-bottom: 0; }
+.t14-tl-dot {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #14142b;
+  color: #fff;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+.t14-tl-dot.red { background: #e63946; }
+.t14-tl-dot.green { background: #22c55e; }
+.t14-tl-dot.amber { background: #f59e0b; }
+.t14-tl-content {
+  padding-top: 0.35rem;
+}
+.t14-tl-label {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 0.2rem;
+}
+.t14-tl-text {
+  font-size: 0.83rem;
+  line-height: 1.6;
+  color: var(--global-text-color-light, #555);
+}
+.t14-continue {
+  font-size: 0.82rem;
+  padding: 0.55rem 0.9rem;
+  background: var(--global-bg-color, #f8f9fa);
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 8px;
+  margin-top: 0.3rem;
+}
+</style>
 
----
+<div class="t14-intro">
+  I am not an actor, a fitness model, or a fitness guru. I have a day job I love, and fitness has always been one of the most important things in my life. This is the honest version — no shortcuts, no magic, just what worked for me and why.
+</div>
 
 ## My Story
 
-I had been a long-distance runner since childhood and into sports — swimming, cricket, tennis, badminton — from a young age. My dad used to drop us near school and we had to run back home in time to catch the bus. Thanks to him for instilling the fitness bug early.
-
-At college I was a jack of all trades — decent fitness but never mastered anything. I started hitting the gym for a strange reason: emotional discomfort. I found my peace there. Two training partners — Abhijeet and Akthar — pushed me hard in those early months. Within six months I gained real muscle: arms, chest, legs, shoulders. I got my confidence back.
-
-But consistency was always my weakness. Freelancing, travel, late nights — fat accumulated and the physique I'd built slowly faded. After joining the corporate world and settling down, I finally had the structure to chase it properly. Three months of focused work later, I got there: ripped for the first time.
-
-_That was the beginning. The story continues at the [Hybrid Athlete 2026](/projects/hybrid_athlete/) page._
+<div class="t14-timeline">
+  <div class="t14-tl-item">
+    <div class="t14-tl-dot">🏃</div>
+    <div class="t14-tl-content">
+      <div class="t14-tl-label">The Foundation — Childhood</div>
+      <div class="t14-tl-text">Long-distance runner since I was young. Swimming, cricket, tennis, badminton. My dad would drop us near school and we had to run back home to catch the bus — no exceptions. That daily discipline became the base for everything that followed.</div>
+    </div>
+  </div>
+  <div class="t14-tl-item">
+    <div class="t14-tl-dot amber">💡</div>
+    <div class="t14-tl-content">
+      <div class="t14-tl-label">Finding the Gym — College</div>
+      <div class="t14-tl-text">Started lifting for an unusual reason: emotional discomfort. The gym became my outlet. Two training partners — Abhijeet and Akthar — pushed me hard in those early months and made it stick.</div>
+    </div>
+  </div>
+  <div class="t14-tl-item">
+    <div class="t14-tl-dot">💪</div>
+    <div class="t14-tl-content">
+      <div class="t14-tl-label">The Bulk — +6 Months</div>
+      <div class="t14-tl-text">Real muscle came fast: arms, chest, legs, shoulders. Got my confidence back. But I only ever wanted one thing — a ripped physique — and bulk wasn't enough.</div>
+    </div>
+  </div>
+  <div class="t14-tl-item">
+    <div class="t14-tl-dot red">⚠️</div>
+    <div class="t14-tl-content">
+      <div class="t14-tl-label">The Setback — Freelancing Era</div>
+      <div class="t14-tl-text">Consistency was always my weakness. Freelancing, travel, late nights — fat accumulated and the physique slowly faded. The knowledge was there; the structure wasn't.</div>
+    </div>
+  </div>
+  <div class="t14-tl-item">
+    <div class="t14-tl-dot green">✓</div>
+    <div class="t14-tl-content">
+      <div class="t14-tl-label">Getting Ripped — 3 Months</div>
+      <div class="t14-tl-text">Corporate life brought structure. Three months of focused work — consistent training, dialled-in diet — and I finally got there. This post is about exactly what that looked like.</div>
+      <div class="t14-continue">The story continues → <a href="/projects/hybrid_athlete/">Hybrid Athlete 2026</a></div>
+    </div>
+  </div>
+</div>
 
 ---
 
