@@ -136,6 +136,9 @@ permalink: /projects/hybrid_athlete/
 .ha-month-col { display: flex; flex-direction: column; gap: 0.5rem; }
 .ha-month-col img {
   width: 100%;
+  height: 480px;
+  object-fit: cover;
+  object-position: top center;
   border-radius: 8px;
   border: 1px solid var(--global-divider-color, #ddd);
   display: block;
