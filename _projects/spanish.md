@@ -414,7 +414,7 @@ permalink: /projects/spanish/
   </div>
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
-    <div class="rc-name">Dreaming Spanish</div>
+    <div class="rc-name"><a href="https://www.dreaminspanish.com" target="_blank" rel="noopener noreferrer">Dreaming Spanish ↗</a></div>
     <div class="rc-desc">Comprehensible input videos in Spanish at every level. Start at A2 content. The most natural way to build listening intuition.</div>
   </div>
   <div class="sp-resource-card">
