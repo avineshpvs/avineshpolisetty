@@ -70,15 +70,13 @@ permalink: /projects/hybrid_athlete/
 }
 .ha-event-card:hover { box-shadow: 0 4px 18px rgba(0,0,0,0.1); }
 .ha-event-header {
-  background: #14142b;
-  color: #fff;
-  padding: 0.75rem 1rem;
+  padding: 0.75rem 1rem 0.3rem;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
 }
 .ha-event-header .ev-name { font-weight: 800; font-size: 1rem; letter-spacing: 0.04em; }
-.ha-event-header .ev-date { font-size: 0.78rem; opacity: 0.75; }
+.ha-event-header .ev-date { font-size: 0.78rem; color: var(--global-text-color-light, #888); }
 .ha-event-imgs { display: grid; gap: 0.4rem; padding: 0.4rem; }
 .ha-event-imgs.cols-2 { grid-template-columns: 1fr 1fr; }
 .ha-event-imgs.cols-3 { grid-template-columns: 1fr 1fr 1fr; }
