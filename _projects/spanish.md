@@ -248,8 +248,8 @@ permalink: /projects/spanish/
 <div class="sp-test-info">
   <span style="font-size:1.3rem">📝</span>
   <div>
-    <strong>Standard Test: Kwiziq Spanish Level Test</strong>
-    Free, takes ~15 minutes, maps directly to CEFR A1–C2. Take it on the same day each month (e.g. first Saturday) for consistent comparison. Search for "Kwiziq Spanish level test" to find it.
+    <strong>Standard Test: <a href="https://spanish.kwiziq.com/test" target="_blank" rel="noopener noreferrer">Kwiziq Spanish Level Test ↗</a></strong>
+    Free, takes ~15 minutes, maps directly to CEFR A1–C2. Take it on the same day each month (e.g. first Saturday) for consistent comparison.
   </div>
 </div>
 
@@ -424,7 +424,7 @@ permalink: /projects/spanish/
   </div>
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
-    <div class="rc-name">Kwiziq Level Test</div>
+    <div class="rc-name"><a href="https://spanish.kwiziq.com/test" target="_blank" rel="noopener noreferrer">Kwiziq Level Test ↗</a></div>
     <div class="rc-desc">Monthly CEFR placement test. Takes 15 min, gives A1–C2 result. Use consistently on the same day each month.</div>
   </div>
   <div class="sp-resource-card">
