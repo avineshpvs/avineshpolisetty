@@ -131,7 +131,7 @@ permalink: /projects/hybrid_athlete/
 .ha-dot { width: 9px; height: 9px; border-radius: 50%; background: #e63946; display: inline-block; flex-shrink: 0; }
 .ha-photo-row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 0.6rem;
 }
 .ha-photo-row img {
