@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Spanish
-description: Tracking my journey from A2 to fluency — monthly CEFR tests, study plan, and progress log.
+description: Tracking my journey from A2 to fluency — monthly CEFR tests, Memrise, tutor sessions, and a plan to reach B1.
 img: assets/img/blog/projects/spanish_learning.png
 importance: 5
 category: Personal
@@ -330,11 +330,11 @@ permalink: /projects/spanish/
   <div class="sp-plan-card">
     <div class="sp-plan-head"><span>Monday</span><span class="ph-tag">Vocabulary</span></div>
     <div class="sp-plan-body">
-      <div class="focus">Anki — 20 min</div>
+      <div class="focus">Memrise — 20 min</div>
       <ul>
-        <li>Review due cards first</li>
-        <li>Add 10 new B1 words</li>
-        <li>Focus on verb conjugations</li>
+        <li>Complete daily Memrise streak</li>
+        <li>Focus on A2–B1 word sets</li>
+        <li>Repeat any difficult words</li>
       </ul>
     </div>
   </div>
@@ -387,7 +387,7 @@ permalink: /projects/spanish/
     <div class="sp-plan-body">
       <div class="focus">Light review — 15 min</div>
       <ul>
-        <li>Anki catch-up only</li>
+        <li>Memrise catch-up only</li>
         <li>Watch Spanish TV / film</li>
         <li>Monthly test (1st weekend)</li>
       </ul>
@@ -409,8 +409,8 @@ permalink: /projects/spanish/
 <div class="sp-resource-grid">
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
-    <div class="rc-name">Anki</div>
-    <div class="rc-desc">Spaced repetition flashcards. Use the pre-built Spanish frequency deck for B1 vocabulary. 15–20 min/day is enough.</div>
+    <div class="rc-name">Memrise</div>
+    <div class="rc-desc">Spaced repetition vocabulary with native speaker video clips. Use the official Spanish course and keep the daily streak going. 15–20 min/day is enough.</div>
   </div>
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
