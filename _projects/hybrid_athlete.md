@@ -611,15 +611,21 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Sunday <span class="day-tag">Recovery</span></div>
+      <div class="ha-day-head">Sunday <span class="day-tag">Swim + Recovery</span></div>
       <div class="ha-day-body">
-        <div class="focus">Active Recovery</div>
+        <div class="focus">Open Water Swim — 1.5km</div>
         <ul>
-          <li>Zone 2 walk or easy run (30 min)</li>
-          <li>Mobility &amp; foam roll</li>
-          <li>Sleep 8–9 hrs</li>
-          <li>Nutrition focus day</li>
+          <li>Easy pace, sighting practice</li>
+          <li>Zone 2 effort throughout</li>
         </ul>
+        <div class="pm-block">
+          <div class="focus">Recovery</div>
+          <ul>
+            <li>Mobility &amp; foam roll</li>
+            <li>Sleep 8–9 hrs</li>
+            <li>Nutrition focus day</li>
+          </ul>
+        </div>
       </div>
     </div>
 
