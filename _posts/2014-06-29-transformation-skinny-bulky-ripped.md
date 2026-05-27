@@ -10,133 +10,94 @@ categories: fitness
 
 {% include figure.liquid loading="eager" path="/assets/img/blog/six_pack_1.png" class="img-fluid rounded z-depth-1" zoomable=true alt="My Transformation: Skinny to Bulky to Ripped" %}
 
-Before starting I want to tell that I am not an Actor, I am not a Fitness model, I am not a Fitness guru.
-I have a day job which I love and fitness has always been one of the important things in my life.
-I am not writing this to show off, I am writing mainly because I want to share my journey and even if I motivate one person at the end of the day I will be a happy man.
+I am not an actor, a fitness model, or a fitness guru. I have a day job which I love, and fitness has always been one of the most important things in my life. I'm writing this not to show off, but to share my journey — if I motivate even one person, I'll be a happy man.
 
-I tried to think of all types of cheesy titles for this blog post namely "3 Tips for Six pack abs", "3 Mistakes that people do", etc.
-Then I realized there is no good way to write a blog than in a set of Question Answer pairs.
-These questions were asked by newbies and by people hitting gym for some years.
-These questions are completely valid as there is a lot of information on the web and it is easy to get confused.
-Coming from a research background I always had the inquisitiveness to read material, analyze and experiment.
-Fitness is a big research topic in itself.
+I tried to think of all the cheesy titles: _"3 Tips for Six Pack Abs"_, _"3 Mistakes People Make"_. Instead, I decided the best format is a straightforward Q&A — real questions asked by beginners and experienced gym-goers alike. Coming from a research background, I've always had the curiosity to read, analyze, and experiment. Fitness is a research topic in itself.
 
-Small introduction about myself so that you can have an understanding of my transformation better.
+---
 
-**Introduction:**
-Well I had been a long distance runner since childhood and was into sports (swimming, cricket, tennis, badminton) since a young age.
-I started off with 4km run when I was young.
-My dad used to wake us up in the morning and leave us near school.
-We had to run back home in time to get ready and catch the school bus.
-Thanks to my Dad (a sportsman himself) for instilling the fitness bug in me.
-Fast-forward, at college too I had always been a jack of all trades since I had good fitness but never tried to master a sport.
-So you might have guessed by now that the first picture clearly depicts me, I was really skinny.
-I started off hitting the gym for a strange reason.
-I wanted to distract myself from the emotional discomfort that I was going through and I found my peace in GYM.
+## My Story
 
-I read some routines on the web and I started hitting gym regularly.
-I used to train with a couple of buddies namely "Abhijeet" and "Akthar", who always helped me to push further.
-After these two guys I never had a training partner because it was difficult to have a common schedule and I used to experiment with different routines.
-So within a couple of months, I gained weight.
-My arms, chest, legs and shoulders became big.
-I got my confidence back.
-But the only thing I always wanted was a six-pack and a ripped physique.
-My only problem was consistency.
-I had been a freelancer and I used to travel and party hard.
-As a result, as the second picture above shows, I accumulated a lot of fat around my waist.
-After joining the corporate world, I have settled down a bit now and have the best chance to keep it rolling for my dream of a ripped body (still not completely there).
-3 months of hard work and yes I made it here.
-Still challenging myself for more aesthetic look.
+I had been a long-distance runner since childhood and was into sports — swimming, cricket, tennis, badminton — from a young age. My dad used to wake us up and drop us near school; we had to run back home in time to catch the bus. Thanks to him (a sportsman himself) for instilling the fitness bug in me.
 
-It's been 6 years now, and I am preparing myself for the upcoming challenges.
+At college I was always a jack of all trades — decent fitness, but never mastered a sport. I started hitting the gym for a strange reason: I wanted to distract myself from emotional discomfort, and I found my peace there.
 
-Let the Question and Answers begin:
+I trained with two buddies — Abhijeet and Akthar — who pushed me hard. After them, I never had a consistent training partner, so I experimented with different routines. Within months I gained muscle — arms, chest, legs, shoulders. I got my confidence back. But I always wanted that six-pack, that ripped physique. My problem was consistency — freelancing, travel, parties — and fat accumulated around my waist as a result.
 
-**How to start? I can't lift? I can't do a pull or push up?**
-Start now. You can start anywhere — at home, gym, or a fitness club. When I started I couldn't do a single push-up or pull-up. It is persistence that takes you further.
+After joining the corporate world and settling down, I finally had the right conditions to chase a ripped body. Three months of focused work, and I got there. Still challenging myself for more.
 
-**Should I start with Running/Cycling? Bodybuilding? Calisthenics (Body weight training)?**
-You can do whatever you want. It ultimately should align with your goals.
+_It's been over 6 years now — and new challenges are still coming._
 
-**Running/Cycling:** I had been a big fan of these two. If you want endurance, this is best. I lost fat but the only problem I noticed was that I was also losing muscle. One simple rule is that you need to challenge your body to the next level to stay away from a plateau (a body condition where it doesn't grow). So to challenge it here you need to increase your time of cardio. Considering everyone does a day job, we usually don't have much time, right? I usually prefer 20 mins of HIIT (High Intensity Interval Training). Best way to challenge your body, build stamina, and burn fat. If you are hefty then you need to start slow. Running could actually damage your knee and keep you away from fitness for a long time.
+---
 
-**Bodybuilding:** Easy to challenge yourself with reps or increase in weights. Good sport as long as you know how to do things. The only problem is you might lose flexibility and the endurance.
+## Getting Started
 
-**Calisthenics:** This is the new trending word in the fitness world. The one I am planning to move towards as well. It's more about core conditioning, muscle strength, and great fitness. The best part is you can do it anywhere — home, park, you name it — no need for a gym membership.
+**How do I start if I can't lift, can't do a push-up or pull-up?**
 
-**My fitness Idols?**
-Arnold Schwarzenegger when I started, now it is [Lazar Angelov](https://www.instagram.com/lazar_angelov_official/ "Lazar Angelov") and [Frank Medrano](https://www.instagram.com/frankmedrano/ "Frank Medrano").
+Start now — at home, the gym, or a fitness club. When I started I couldn't do a single push-up or pull-up. Persistence is what takes you further, not your starting point.
 
-**3 key things for fitness:**
+**Which type of training should I choose?**
 
-- **Consistency/Persistence:**
-  Rome was not built in a day.
-  I have had friends who tell me dude "I am hitting the gym and I am not getting any results".
-  My first question to them was how many days are you working out.
-  They would say 2 times or 3 times on and off.
-  If you are not consistent enough about your routine and diet you are not going to achieve results even if you have the best personal trainer and the best workout program.
-  The only thing you will be doing is wasting 5k every month down the drain.
+It depends on your goal. Here's a breakdown:
 
-  Tip: Best way to keep record and be accountable is to maintain a workout log.
+- **Running / Cycling** — Great for endurance and fat loss, but I noticed I was also losing muscle. To avoid a plateau you need to keep increasing duration, which gets hard with a busy schedule. I prefer 20 mins of HIIT: efficient, burns fat, builds stamina. If you're heavier, start slow — running on heavy joints can cause injury.
 
-- **Diet:**
-  Diet contributes 50% to a great physique.
-  If you eat unhealthy then you will not get results.
-  I was eating healthy most of the days but I was taking a high-protein diet for a couple of months and was never reaching my desired physique.
-  Then I realised I was eating more than what I needed.
-  Whatever excess calories I was taking in were becoming fat.
-  Always have a balanced meal (carbs 40%, protein 50%, essential fats 10%) and of course the micro nutrients (greens and salads).
-  Will get in details about my meal plan later.
+- **Bodybuilding** — Easy to track progress (more weight, more reps). Works well as long as you learn proper form. Downside: you may lose flexibility and endurance over time.
 
-- **No pain No gain:**
-  You have to strain your muscle to gain muscle.
-  If you look cute after your workout then you have not worked out enough.
-  Of course you need to keep your workout interesting, mix it up every month.
-  Just keep away from plateau by challenging yourself.
+- **Calisthenics** — Core conditioning, muscle strength, and full-body fitness. No gym needed. This is the direction I was moving toward — and where I am now with the hybrid athlete approach.
 
-- **Bulking up or Losing Fat?**
-  This is one of the most debatable questions in the fitness world.
-  I still think it is doable if you keep your diet a bit calorie deficit and protein intensive.
-  It worked out for me.
+---
 
-**How long do you workout in Gym?**
+## The 3 Pillars
 
-Roughly around 45 mins to 1 hr. I usually don't chat around in the gym mainly because it keeps me concentrated and allows me to finish my routine in time.
-I sometimes keep ear phones without any music just to make sure no one disturbs me.
-To get ripped I sometimes do HIIT in the morning for 20 mins with some calisthenics routine.
+**1. Consistency**
 
-**Do you take supplements?**
-Most people ask me this question as if you take supplements and by magic you become ripped.
-This is a common misconception about supplements (protein shakes).
-Supplements by the name itself suggests if you cannot get protein in your meals then they are used to supplement them.
-If you can get the required amount of protein (1/1.5 x Your Body weight gm) from your meals then you would not need them.
-I tried a couple of months without protein powder replacing them with eggs and meat.
-It was good, I saw results but it became too boring for me.
-Protein shakes are quite handy and easy to have if you don't have time for your meal.
-Last but not the least you need to workout, eating protein will not make you ripped and strong.
+Rome wasn't built in a day. I've had friends say "I'm going to the gym and seeing no results." First question: how often? If the answer is 2–3 times on-and-off, no trainer or program will fix that. Inconsistency is wasted money and effort.
 
-**Where to you buy protein supplements?**
+> **Tip:** Keep a workout log. Accountability changes everything.
 
-I currently get my supplements from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" title="MyProtein" target="_blank" rel="noopener noreferrer">MyProtein</a> — great quality at a good price.
-Use my referral link to get a discount on your first order.
+**2. Diet**
 
-- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Protein" target="_blank" rel="noopener noreferrer">Impact Whey Protein</a> — my go-to for everyday use, mixes well and great flavours.
-- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Isolate" target="_blank" rel="noopener noreferrer">Impact Whey Isolate</a> — if you want a leaner, low-carb option for cutting.
+Diet is 50% of the result. I was eating healthy most of the time but was taking in more calories than I needed — excess became fat. The simple rule: a balanced macro split works. More on this in the diet section below.
 
-**Where to start reading and know about workout routines?**
+**3. No Pain, No Gain**
 
-<a href="http://www.bodybuilding.com/" title="Bodybuiliding " target="_blank">Bodybuilding.com:</a> It has lots of information.
-It has routines by some good fitness gurus.
-You can choose one of them and follow them consistently.
-<a href="http://www.cutandjacked.com/" title="CutandJacked" target="_blank">CutandJacked</a>: Contains interviews from fitness models to fitness gurus.
-Also contains routines, diet programs and many interesting articles.
+You have to strain muscle to build muscle. If you look fresh after your workout, you haven't pushed hard enough. Mix up your routine monthly to stay away from plateaus.
 
-**For diet:**
-<a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Youtube link" target="_blank">CutandJacked Diet Kitchen</a>: To make interesting recipes and not get fed up of eating the usual stuff.
-Not all fitness freaks eat bland food.
-Healthy food can be made tasty too.
+---
 
-**What's your workout plan?**
+## Common Questions
+
+**How long should I workout?**
+
+Roughly 45 mins to 1 hour. I don't chat in the gym — it keeps me focused and on schedule. I sometimes wear earphones with no music just to signal I'm unavailable. For the ripped phase I added 20 mins of morning HIIT + calisthenics on top.
+
+**Should I bulk or cut at the same time?**
+
+One of the most debated questions in fitness. I believe it's doable if you keep a slight calorie deficit while keeping protein high. It worked for me — lean gains over time rather than a bulk-cut cycle.
+
+**Who are your fitness idols?**
+
+Arnold Schwarzenegger when I started. Later: [Lazar Angelov](https://www.instagram.com/lazar_angelov_official/) and [Frank Medrano](https://www.instagram.com/frankmedrano/).
+
+---
+
+## Supplements
+
+**Do I need protein supplements?**
+
+A common misconception: supplements aren't magic. They're a _supplement_ — if you can't hit your protein target (~1–1.5g per kg of bodyweight) from food, use them to fill the gap. I tried months without powder (just eggs and meat) and saw results, but it got repetitive. Shakes are convenient. And remember — eating protein without training does nothing.
+
+**Where do I buy protein?**
+
+I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" title="MyProtein" target="_blank" rel="noopener noreferrer">MyProtein</a> — good quality, reasonable price. Use my referral link for a discount on your first order.
+
+- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Protein" target="_blank" rel="noopener noreferrer">Impact Whey Protein</a> — everyday use, great flavours, mixes well.
+- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Isolate" target="_blank" rel="noopener noreferrer">Impact Whey Isolate</a> — low-carb option for cutting phases.
+
+---
+
+## Workout Plan
 
 | Day | Focus                              | Extra        |
 | --- | ---------------------------------- | ------------ |
@@ -147,59 +108,59 @@ Healthy food can be made tasty too.
 | Fri | Arms (Biceps / Triceps / Forearms) | + 10 min abs |
 | Sat | Legs or Trek                       | —            |
 
-To spice it up I sometimes swap in a Calisthenics (body weight) session.
-When I can't make it to the gym I just do body weight training at home.
+To keep it interesting I swap in a calisthenics session occasionally. When I can't make the gym, I train at home with bodyweight.
 
-**What do you eat? Diet plan?**
+---
 
-**Cutting Down:**
+## Diet Plan
 
-| Meal                  | What                                                                                  |
-| --------------------- | ------------------------------------------------------------------------------------- |
-| Meal 0 — Wake up      | Green Tea + Lemon + Honey (very little) _or_ Green Juice (Spinach, Wheat grass, Mint) |
-| Meal 1 — Breakfast    | Muesli + Milk + 1 scoop Protein + ½ Banana                                            |
-| Meal 2 — Mid-morning  | ½ Pomegranate + Sprouts + Dry fruits (Dates, Walnuts, Pistachios, Almonds)            |
-| Meal 3 — Lunch        | 1 handful Rice / Lettuce + Chicken + Beans + Vegetables                               |
-| Meal 4 — Pre-workout  | Oats + Milk + 1 scoop Protein + ½ Banana                                              |
-| Meal 5 — Post-workout | 1 scoop Protein shake + Banana (optional)                                             |
-| Meal 6 — Dinner       | Salad + Mixed Beans + 3 Egg whites + 1 Yolk                                           |
+**Macro target:** Carbs 40% · Protein 50% · Essential Fats 10% · plus micronutrients (greens, salads)
 
-**Gaining:**
-When bulking I add extra Carbs and Protein to Meals 3 and 5.
+5–6 meals a day works well — your body processes smaller portions better, and you avoid overeating in a single sitting.
 
-5-6 meals per day is always good mainly because your body gets time to break it down and you don't gulp too much in a meal.
+### Cutting Phase
 
-**3 Things to stay away from in your Diet?**
+| Meal                  | What                                                                       |
+| --------------------- | -------------------------------------------------------------------------- |
+| Meal 0 — Wake up      | Green Tea + Lemon + Honey _or_ Green Juice (Spinach, Wheat grass, Mint)    |
+| Meal 1 — Breakfast    | Muesli + Milk + 1 scoop Protein + ½ Banana                                 |
+| Meal 2 — Mid-morning  | ½ Pomegranate + Sprouts + Dry fruits (Dates, Walnuts, Pistachios, Almonds) |
+| Meal 3 — Lunch        | 1 handful Rice / Lettuce + Chicken + Beans + Vegetables                    |
+| Meal 4 — Pre-workout  | Oats + Milk + 1 scoop Protein + ½ Banana                                   |
+| Meal 5 — Post-workout | 1 scoop Protein shake + Banana (optional)                                  |
+| Meal 6 — Dinner       | Salad + Mixed Beans + 3 Egg whites + 1 Yolk                                |
 
-**1) Sugar/Too many fruits:**
-A lot of people try diets like only fruits and say they are not losing weight.
-Even if you eat fruits, if you are eating in a calorie surplus then you will gain weight.
-Sugars are a big NO.
-I usually don't recommend cheat days because it usually spoils routines.
-If you can stick to them its up to you.
+### Gaining Phase
 
-**2) Too many carbohydrates:**
-Especially for people who do jobs sitting in front of laptops, we don't require as many carbohydrates as we usually eat.
-It just converts to unnecessary fat.
-Especially Indians we need Roti or Rice in every meal.
-We eat 3 meals but just gulp a lot.
-When I told my mother I was cutting down Roti and Rice from my meals she thought I was crazy.
-Simple rule be calorie deficit to cut down.
+Same as above — add extra carbs and protein to Meals 3 and 5.
 
-**3) Fats:**
-Essential fats are necessary but it is always good to stay away from fried foods.
+### 3 Things to Avoid
 
-_\* If you can burn the calories you eat then well and good, you can eat anything._
+1. **Sugar / Too many fruits** — Calories from fruit still count. Sugars are a hard no. Cheat days usually derail routines — skip them if you can.
+2. **Excess carbs** — Desk workers don't need as many carbs as they think. Unused carbs become fat. Cut the rice and roti back; your body will adapt.
+3. **Fried / unhealthy fats** — Essential fats are fine and necessary; fried food is not.
 
-**What is my next fitness challenge?**
+_\* If you can burn what you eat, the rules are more flexible — but most of us can't._
 
-I enrolled for <a href="https://www.facebook.com/FFCNOW/" title="Fitness Fight Club" target="_blank" rel="noopener noreferrer">Fitness Fight Club</a> from Monday.
-It has always been my dream to learn Muay Thai, Boxing and MMA.
-Glad that I have this gym next to my office.
-I am going for more conditioning, flexibility and reflexes.
-I will review about the Gym once I train with them for at least a month.
-I still have Marathon and Triathlon to check off my <a href="/i-am-possible-list/" title="I am Possible List" target="_blank">bucket list</a>.
+---
 
-If you have any questions feel free to contact me or write in the comments section below.
-I am not perfect, always ready to learn and change things.
-That's how life works.
+## Resources
+
+**Workout:**
+
+- <a href="http://www.bodybuilding.com/" title="Bodybuilding" target="_blank">Bodybuilding.com</a> — Routines, programs, and expert content. Pick one and follow it consistently.
+- <a href="http://www.cutandjacked.com/" title="CutandJacked" target="_blank">CutandJacked</a> — Interviews with fitness models and gurus, plus diet programs and articles.
+
+**Diet & Recipes:**
+
+- <a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Diet Kitchen" target="_blank">CutandJacked Diet Kitchen</a> — Healthy recipes that actually taste good.
+
+---
+
+## What's Next
+
+I enrolled at <a href="https://www.facebook.com/FFCNOW/" title="Fitness Fight Club" target="_blank" rel="noopener noreferrer">Fitness Fight Club</a> to train Muay Thai, Boxing, and MMA — something I'd always wanted to do. The goal: conditioning, flexibility, and reflexes. Marathon and Triathlon are still on the <a href="/i-am-possible-list/" title="I am Possible List">bucket list</a>.
+
+---
+
+_Questions? Drop them in the comments or reach out directly. I'm not perfect — always learning and adjusting. That's how it works._
