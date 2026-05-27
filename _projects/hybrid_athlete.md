@@ -363,7 +363,10 @@ permalink: /projects/hybrid_athlete/
         <span class="ev-name">DEKA MILE</span>
         <span class="ev-date">May 9, 2026</span>
       </div>
-      <div class="ha-event-body" style="padding-top:1rem;">
+      <div class="ha-event-imgs">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile.jpg' | relative_url }}" alt="Deka Mile 2026" loading="lazy">
+      </div>
+      <div class="ha-event-body">
         <div class="ha-venue">📍 APX Velocity — San Jose, CA</div>
         <div class="ha-stat-row">
           <div class="ha-stat"><div class="sl">Time</div><div class="sv">31:16</div></div>
