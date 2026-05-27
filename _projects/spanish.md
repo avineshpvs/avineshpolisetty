@@ -459,11 +459,6 @@ permalink: /projects/spanish/
     <div class="rc-desc">Unlimited 1:1 Spanish lessons with native tutors. Ideal for speaking practice and grammar correction. Focus sessions on the current phase milestones.</div>
   </div>
   <div class="sp-resource-card">
-    <span class="rc-type paid">Tutor</span>
-    <div class="rc-name">1:1 Tutor Sessions</div>
-    <div class="rc-desc">Most effective for grammar correction and speaking confidence. Focus sessions on the grammar milestones above — don't let it become casual chat only.</div>
-  </div>
-  <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
     <div class="rc-name"><a href="https://www.languagetransfer.org/courses#complete-spanish" target="_blank" rel="noopener noreferrer">Language Transfer ↗</a></div>
     <div class="rc-desc">Free audio course — "Complete Spanish". 40 short episodes that teach you to think in Spanish rather than translate. Excellent complement to Memrise and tutor sessions.</div>
