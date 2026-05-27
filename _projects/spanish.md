@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Spanish
-description: Tracking my journey from A2 to fluency — monthly CEFR tests, Memrise, tutor sessions, and a plan to reach B1.
+description: Tracking my journey from A1 to fluency — monthly CEFR tests, Memrise, tutor sessions, and a plan to reach A2 then B1.
 img: assets/img/blog/projects/spanish_learning.png
 importance: 5
 category: Personal
@@ -195,31 +195,31 @@ permalink: /projects/spanish/
 
 <div class="sp-level-hero">
   <div class="sp-level-badge">
-    A2
+    A1
     <span class="lv-sub">CEFR</span>
   </div>
   <div class="sp-level-info">
-    <div class="lv-name">Elementary — A2</div>
-    <div class="lv-desc">Can understand sentences on familiar topics (personal info, shopping, local geography). Can communicate in simple, routine tasks and describe everyday matters in simple terms.</div>
-    <div class="lv-next">Next target: <span>B1 — Intermediate</span> · Can manage most travel situations and describe experiences in connected sentences.</div>
+    <div class="lv-name">Beginner — A1</div>
+    <div class="lv-desc">Can understand and use familiar everyday expressions and basic phrases. Strong foundation in A0 (75%), solid A1 competence (57%). Not yet at A2 — routine tasks and familiar topic conversations are the next unlock.</div>
+    <div class="lv-next">Next target: <span>A2 — Elementary</span> · Handle familiar topics, simple routine tasks, and short personal descriptions.</div>
   </div>
 </div>
 
 <div class="sp-cefr-track">
   <div class="sp-cefr-step done">
-    <div class="cs-level">A1</div>
-    <div class="cs-name">Beginner</div>
-    <div class="cs-can">Greetings, numbers, simple phrases</div>
+    <div class="cs-level">A0</div>
+    <div class="cs-name">Entry</div>
+    <div class="cs-can">75% · Basic phrases &amp; greetings</div>
   </div>
   <div class="sp-cefr-step current">
+    <div class="cs-level">A1</div>
+    <div class="cs-name">Beginner</div>
+    <div class="cs-can">57% · Everyday expressions</div>
+  </div>
+  <div class="sp-cefr-step next">
     <div class="cs-level">A2</div>
     <div class="cs-name">Elementary</div>
     <div class="cs-can">Familiar topics, routine tasks</div>
-  </div>
-  <div class="sp-cefr-step next">
-    <div class="cs-level">B1</div>
-    <div class="cs-name">Intermediate</div>
-    <div class="cs-can">Travel, describe experiences</div>
   </div>
   <div class="sp-cefr-step">
     <div class="cs-level">B2</div>
@@ -255,11 +255,11 @@ permalink: /projects/spanish/
 
 <div class="sp-log">
 
-  <div class="sp-log-row pending">
+  <div class="sp-log-row done">
     <div class="sp-log-date">May 2026</div>
-    <div class="sp-log-level pending">Not taken</div>
-    <div class="sp-log-notes">Baseline test — take this month to establish starting score</div>
-    <div class="sp-log-score">—</div>
+    <div class="sp-log-level">A1</div>
+    <div class="sp-log-notes">Baseline · A0: 75% · A1: 57% · A2: 27% · B1: 27% · B2: 22%</div>
+    <div class="sp-log-score">57%</div>
   </div>
 
   <div class="sp-log-row pending">
@@ -320,10 +320,10 @@ permalink: /projects/spanish/
 
 <!-- ── STUDY PLAN ── -->
 <div class="sp-section">
-<h2>📚 Study Plan — A2 → B1</h2>
+<h2>📚 Study Plan — A1 → A2</h2>
 
 <p style="font-size:0.88rem; color:var(--global-text-color-light,#555); margin-bottom:1rem;">
-  Target: reach B1 by end of 2026. The key jump from A2 to B1 is mastering the subjunctive, preterite vs imperfect distinction, and building enough vocabulary (~2,500 words) to handle unfamiliar topics. Daily consistency matters more than long sessions.
+  Target: reach A2 by end of 2026, B1 by mid-2027. The key jump from A1 to A2 is expanding vocabulary to ~1,000 common words, getting comfortable with present tense across all verb types, and being able to handle short conversations on familiar topics (family, food, daily routine, directions). Daily consistency matters more than long sessions.
 </p>
 
 <div class="sp-plan-grid">
@@ -333,7 +333,7 @@ permalink: /projects/spanish/
       <div class="focus">Memrise — 20 min</div>
       <ul>
         <li>Complete daily Memrise streak</li>
-        <li>Focus on A2–B1 word sets</li>
+        <li>Focus on A1–A2 word sets</li>
         <li>Repeat any difficult words</li>
       </ul>
     </div>
@@ -354,9 +354,9 @@ permalink: /projects/spanish/
     <div class="sp-plan-body">
       <div class="focus">Grammar — 1 hr session</div>
       <ul>
-        <li>Preterite vs imperfect</li>
-        <li>Subjunctive introduction</li>
-        <li>Conversation practice</li>
+        <li>Present tense all verb types</li>
+        <li>Ser vs Estar, Hay</li>
+        <li>Conversation on daily topics</li>
       </ul>
     </div>
   </div>
@@ -396,7 +396,7 @@ permalink: /projects/spanish/
 </div>
 
 <div class="sp-note">
-  <strong>A2 → B1 grammar milestones:</strong> Preterite (done actions) · Imperfect (ongoing/habitual past) · Subjunctive mood (wishes, doubts, emotions) · Reflexive verbs · Direct + indirect object pronouns · Future tense
+  <strong>A1 → A2 grammar milestones:</strong> Present tense regular &amp; irregular verbs · Ser vs Estar · Hay · Gender &amp; articles (el/la/un/una) · Adjective agreement · Basic question words (qué, quién, cuándo, dónde, cómo, por qué) · Numbers, time, dates · Gustar + infinitive
 </div>
 </div>
 
