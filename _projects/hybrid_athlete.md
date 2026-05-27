@@ -538,7 +538,7 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Tuesday <span class="day-tag">Recovery</span></div>
+      <div class="ha-day-head">Tuesday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
         <div class="focus">AM — Swim 30–45 min</div>
         <ul>
@@ -547,8 +547,8 @@ permalink: /projects/hybrid_athlete/
           <li>2×100m @ DEKA pace</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Rest / Mobility</div>
-          <ul><li>Foam rolling</li><li>Hip flexor + shoulder work</li></ul>
+          <div class="focus">PM — Run 30–40 min</div>
+          <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
         </div>
       </div>
     </div>
@@ -580,8 +580,8 @@ permalink: /projects/hybrid_athlete/
           <li>Pull buoy drills</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Spin Class (5:30 PM)</div>
-          <ul><li>Zone 3–4 bike intervals</li><li>45–60 min structured effort</li></ul>
+          <div class="focus">PM — Rest / Mobility</div>
+          <ul><li>Foam rolling</li><li>Hip flexor + shoulder work</li></ul>
         </div>
       </div>
     </div>
