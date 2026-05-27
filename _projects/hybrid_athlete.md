@@ -417,9 +417,6 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
-  <div class="ha-ranking-screenshot">
-    <img src="{{ '/assets/img/blog/projects/hybrid_athelete/current-deka-ranking/current-deka-ranking-may-27.png' | relative_url }}" alt="DEKA Rankings Screenshot — May 2026" loading="lazy">
-  </div>
 </div>
 
 ---
@@ -470,9 +467,6 @@ permalink: /projects/hybrid_athlete/
           </tr>
         </tbody>
       </table>
-    </div>
-    <div style="margin-top:0.7rem;">
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/body_composition_history.jpg' | relative_url }}" alt="Body Composition History InBody Scan" loading="lazy" style="width:100%;max-width:600px;border-radius:8px;border:1px solid var(--global-divider-color,#ddd);">
     </div>
   </div>
 
