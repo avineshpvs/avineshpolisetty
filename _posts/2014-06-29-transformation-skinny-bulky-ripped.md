@@ -2,7 +2,7 @@
 layout: post
 title: "My Transformation: Skinny -> Bulky -> Ripped"
 date: 2014-06-29 05:52:22
-description: My fitness journey from skinny to bulky to ripped, with practical Q&A on workouts, diet, supplements, and staying consistent.
+description: My fitness journey from skinny to bulky to ripped — the real story, the training plan, the diet, and what actually works.
 thumbnail: /assets/img/blog/six_pack_1.png
 tags: fitness
 categories: fitness
@@ -10,98 +10,61 @@ categories: fitness
 
 {% include figure.liquid loading="eager" path="/assets/img/blog/six_pack_1.png" class="img-fluid rounded z-depth-1" zoomable=true alt="My Transformation: Skinny to Bulky to Ripped" %}
 
-I am not an actor, a fitness model, or a fitness guru. I have a day job which I love, and fitness has always been one of the most important things in my life. I'm writing this not to show off, but to share my journey — if I motivate even one person, I'll be a happy man.
-
-I tried to think of all the cheesy titles: _"3 Tips for Six Pack Abs"_, _"3 Mistakes People Make"_. Instead, I decided the best format is a straightforward Q&A — real questions asked by beginners and experienced gym-goers alike. Coming from a research background, I've always had the curiosity to read, analyze, and experiment. Fitness is a research topic in itself.
+I am not an actor, a fitness model, or a fitness guru. I have a day job I love, and fitness has always been one of the most important things in my life. This is the honest version — no shortcuts, no magic, just what worked for me and why.
 
 ---
 
 ## My Story
 
-I had been a long-distance runner since childhood and was into sports — swimming, cricket, tennis, badminton — from a young age. My dad used to wake us up and drop us near school; we had to run back home in time to catch the bus. Thanks to him (a sportsman himself) for instilling the fitness bug in me.
+I had been a long-distance runner since childhood and into sports — swimming, cricket, tennis, badminton — from a young age. My dad used to drop us near school and we had to run back home in time to catch the bus. Thanks to him for instilling the fitness bug early.
 
-At college I was always a jack of all trades — decent fitness, but never mastered a sport. I started hitting the gym for a strange reason: I wanted to distract myself from emotional discomfort, and I found my peace there.
+At college I was a jack of all trades — decent fitness but never mastered anything. I started hitting the gym for a strange reason: emotional discomfort. I found my peace there. Two training partners — Abhijeet and Akthar — pushed me hard in those early months. Within six months I gained real muscle: arms, chest, legs, shoulders. I got my confidence back.
 
-I trained with two buddies — Abhijeet and Akthar — who pushed me hard. After them, I never had a consistent training partner, so I experimented with different routines. Within months I gained muscle — arms, chest, legs, shoulders. I got my confidence back. But I always wanted that six-pack, that ripped physique. My problem was consistency — freelancing, travel, parties — and fat accumulated around my waist as a result.
+But consistency was always my weakness. Freelancing, travel, late nights — fat accumulated and the physique I'd built slowly faded. After joining the corporate world and settling down, I finally had the structure to chase it properly. Three months of focused work later, I got there: ripped for the first time.
 
-After joining the corporate world and settling down, I finally had the right conditions to chase a ripped body. Three months of focused work, and I got there. Still challenging myself for more.
-
-_It's been over 6 years now — and new challenges are still coming._
+_That was the beginning. The story continues at the [Hybrid Athlete 2026](/projects/hybrid_athlete/) page._
 
 ---
 
-## Getting Started
+## The Philosophy
 
-**How do I start if I can't lift, can't do a push-up or pull-up?**
+Before the plan, you need to understand the three things that actually determine results. Everything else is noise.
 
-Start now — at home, the gym, or a fitness club. When I started I couldn't do a single push-up or pull-up. Persistence is what takes you further, not your starting point.
+**1. Consistency is non-negotiable**
 
-**Which type of training should I choose?**
+I've had friends say "I go to the gym and see no results." The first question is always: how often? If the answer is 2–3 times on-and-off, no trainer, no program, and no supplement will fix that. You are simply not giving your body a consistent stimulus to adapt to.
 
-It depends on your goal. Here's a breakdown:
+The fix is boring but true: show up 4–5 times a week, every week, for months. Track your sessions in a log — it creates accountability and shows you whether you're actually being consistent or just feeling like you are.
 
-- **Running / Cycling** — Great for endurance and fat loss, but I noticed I was also losing muscle. To avoid a plateau you need to keep increasing duration, which gets hard with a busy schedule. I prefer 20 mins of HIIT: efficient, burns fat, builds stamina. If you're heavier, start slow — running on heavy joints can cause injury.
+**2. Training type depends on your goal**
 
-- **Bodybuilding** — Easy to track progress (more weight, more reps). Works well as long as you learn proper form. Downside: you may lose flexibility and endurance over time.
+Not all training is equal. Here's what I learned from trying all three:
 
-- **Calisthenics** — Core conditioning, muscle strength, and full-body fitness. No gym needed. This is the direction I was moving toward — and where I am now with the hybrid athlete approach.
+- **Weightlifting** — The most measurable. You either lifted more than last week or you didn't. Easy to track progress, easy to stay away from plateaus. The downside: done alone, it trades endurance and flexibility for muscle mass.
+- **Running / HIIT** — Excellent for fat loss and cardiovascular fitness. I found 20 minutes of HIIT more effective than 45 minutes of steady-state cardio. The problem: without enough protein and strength work alongside it, you also lose muscle. Start slow if you're carrying extra weight — joints need time to adapt.
+- **Calisthenics** — Underrated. Core strength, body control, and real functional fitness. No gym required. This is where I was heading after the bulky phase — and where the hybrid athlete approach eventually took me.
 
----
+**3. Progressive overload — not just "no pain no gain"**
 
-## The 3 Pillars
+The old gym saying is directionally right but vague. The actual principle is **progressive overload**: your body only changes when it's forced to handle more than it handled before. That means adding weight, adding reps, or reducing rest — systematically, not randomly. If you're doing the same workout with the same weight for 3 months and wondering why nothing is changing, this is why.
 
-**1. Consistency**
-
-Rome wasn't built in a day. I've had friends say "I'm going to the gym and seeing no results." First question: how often? If the answer is 2–3 times on-and-off, no trainer or program will fix that. Inconsistency is wasted money and effort.
-
-> **Tip:** Keep a workout log. Accountability changes everything.
-
-**2. Diet**
-
-Diet is 50% of the result. I was eating healthy most of the time but was taking in more calories than I needed — excess became fat. The simple rule: a balanced macro split works. More on this in the diet section below.
-
-**3. No Pain, No Gain**
-
-You have to strain muscle to build muscle. If you look fresh after your workout, you haven't pushed hard enough. Mix up your routine monthly to stay away from plateaus.
+Mix up your routine every 6–8 weeks and keep a log of your numbers. A plateau is a signal that your body has adapted — change the stimulus.
 
 ---
 
-## Common Questions
+## Training Plan
 
-**How long should I workout?**
+**Session length:** 45–60 minutes. I don't chat in the gym — earphones in, focused, done on time. Longer sessions don't mean better sessions; they usually mean more rest between sets.
 
-Roughly 45 mins to 1 hour. I don't chat in the gym — it keeps me focused and on schedule. I sometimes wear earphones with no music just to signal I'm unavailable. For the ripped phase I added 20 mins of morning HIIT + calisthenics on top.
-
-**Should I bulk or cut at the same time?**
-
-One of the most debated questions in fitness. I believe it's doable if you keep a slight calorie deficit while keeping protein high. It worked for me — lean gains over time rather than a bulk-cut cycle.
-
-**Who are your fitness idols?**
-
-Arnold Schwarzenegger when I started. Later: [Lazar Angelov](https://www.instagram.com/lazar_angelov_official/) and [Frank Medrano](https://www.instagram.com/frankmedrano/).
-
----
-
-## Supplements
-
-**Do I need protein supplements?**
-
-A common misconception: supplements aren't magic. They're a _supplement_ — if you can't hit your protein target (~1–1.5g per kg of bodyweight) from food, use them to fill the gap. I tried months without powder (just eggs and meat) and saw results, but it got repetitive. Shakes are convenient. And remember — eating protein without training does nothing.
-
-**Where do I buy protein?**
-
-I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" title="MyProtein" target="_blank" rel="noopener noreferrer">MyProtein</a> — good quality, reasonable price. Use my referral link for a discount on your first order.
-
-- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Protein" target="_blank" rel="noopener noreferrer">Impact Whey Protein</a> — everyday use, great flavours, mixes well.
-- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Isolate" target="_blank" rel="noopener noreferrer">Impact Whey Isolate</a> — low-carb option for cutting phases.
-
----
+**Bulk vs. cut simultaneously?** Yes — with the right approach. Keep a slight calorie deficit (200–300 calories below maintenance), keep protein high, and lift heavy. You won't gain muscle as fast as a dedicated bulk, but you won't accumulate fat either. This lean recomposition approach worked well for me coming from an intermediate base.
 
 <style>
 /* ── Blog post: Workout & Diet cards ── */
 .t14-section > h2 {
-  font-size: 1.25rem; font-weight: 700;
-  margin-bottom: 1.1rem; padding-bottom: 0.4rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.4rem;
   border-bottom: 2px solid #e63946;
 }
 /* Day cards */
@@ -111,51 +74,146 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
   gap: 0.8rem;
   margin-bottom: 0.9rem;
 }
-.t14-day-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; overflow: hidden; }
+.t14-day-card {
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 10px;
+  overflow: hidden;
+}
 .t14-day-head {
   background: #14142b;
   color: #ffffff !important;
   padding: 0.45rem 0.8rem;
-  font-weight: 700; font-size: 0.82rem;
-  display: flex; justify-content: space-between; align-items: baseline;
+  font-weight: 700;
+  font-size: 0.82rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
-.t14-day-head span { color: #ffffff !important; }
-.t14-day-head .day-tag { font-size: 0.7rem; opacity: 0.7; color: #ffffff !important; }
-.t14-day-body { padding: 0.65rem 0.8rem; font-size: 0.8rem; }
-.t14-day-body .focus { font-weight: 700; color: #e63946; margin-bottom: 0.3rem; font-size: 0.82rem; }
-.t14-day-body .extra { font-size: 0.75rem; color: var(--global-text-color-light, #888); margin-top: 0.35rem; }
+.t14-day-head span {
+  color: #ffffff !important;
+}
+.t14-day-head .day-tag {
+  font-size: 0.7rem;
+  opacity: 0.7;
+  color: #ffffff !important;
+}
+.t14-day-body {
+  padding: 0.65rem 0.8rem;
+  font-size: 0.8rem;
+}
+.t14-day-body .focus {
+  font-weight: 700;
+  color: #e63946;
+  margin-bottom: 0.3rem;
+  font-size: 0.82rem;
+}
+.t14-day-body ul {
+  margin: 0.25rem 0 0;
+  padding-left: 1.1rem;
+}
+.t14-day-body ul li {
+  margin-bottom: 0.2rem;
+  font-size: 0.78rem;
+  color: var(--global-text-color-light, #555);
+}
+.t14-day-body .extra {
+  font-size: 0.75rem;
+  color: var(--global-text-color-light, #888);
+  margin-top: 0.35rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid var(--global-divider-color, #eee);
+}
 /* Macro cards */
 .t14-macro-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
-  gap: 0.8rem; margin-bottom: 1.2rem;
+  gap: 0.8rem;
+  margin-bottom: 1.2rem;
 }
-.t14-macro-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; padding: 0.75rem 0.9rem; text-align: center; }
-.t14-macro-card .mc-lbl { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-text-color-light, #888); }
-.t14-macro-card .mc-val { font-size: 1.7rem; font-weight: 800; line-height: 1.1; margin: 0.2rem 0 0; }
-.t14-macro-card .mc-sub { font-size: 0.72rem; color: var(--global-text-color-light, #888); }
-.t14-macro-card.prot .mc-val { color: #3b82f6; }
-.t14-macro-card.carb .mc-val { color: #f59e0b; }
-.t14-macro-card.fat  .mc-val { color: #22c55e; }
+.t14-macro-card {
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 10px;
+  padding: 0.75rem 0.9rem;
+  text-align: center;
+}
+.t14-macro-card .mc-lbl {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--global-text-color-light, #888);
+}
+.t14-macro-card .mc-val {
+  font-size: 1.7rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin: 0.2rem 0 0;
+}
+.t14-macro-card .mc-sub {
+  font-size: 0.72rem;
+  color: var(--global-text-color-light, #888);
+}
+.t14-macro-card.prot .mc-val {
+  color: #3b82f6;
+}
+.t14-macro-card.carb .mc-val {
+  color: #f59e0b;
+}
+.t14-macro-card.fat .mc-val {
+  color: #22c55e;
+}
 /* Meal cards */
 .t14-meal-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0.8rem; margin-bottom: 1rem;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
 }
-.t14-meal-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; overflow: hidden; font-size: 0.8rem; }
-.t14-meal-head { background: var(--global-bg-color, #f1f5f9); padding: 0.45rem 0.8rem; font-weight: 700; font-size: 0.78rem; border-bottom: 1px solid var(--global-divider-color, #e0e0e0); }
-.t14-meal-body { padding: 0.6rem 0.8rem; color: var(--global-text-color, #333); }
+.t14-meal-card {
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 0.8rem;
+}
+.t14-meal-head {
+  background: var(--global-bg-color, #f1f5f9);
+  padding: 0.45rem 0.8rem;
+  font-weight: 700;
+  font-size: 0.78rem;
+  border-bottom: 1px solid var(--global-divider-color, #e0e0e0);
+}
+.t14-meal-body {
+  padding: 0.6rem 0.8rem;
+  color: var(--global-text-color, #333);
+}
+.t14-meal-note {
+  font-size: 0.72rem;
+  color: var(--global-text-color-light, #888);
+  margin-top: 0.3rem;
+}
 /* Avoid list */
-.t14-avoid { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.5rem; }
+.t14-avoid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
 .t14-avoid-item {
-  display: flex; align-items: flex-start; gap: 0.7rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
   padding: 0.6rem 0.9rem;
   border: 1px solid var(--global-divider-color, #e0e0e0);
-  border-radius: 8px; font-size: 0.82rem;
+  border-radius: 8px;
+  font-size: 0.82rem;
 }
-.t14-avoid-item .av-icon { font-size: 1.1rem; flex-shrink: 0; }
-.t14-avoid-item strong { display: block; margin-bottom: 0.15rem; }
+.t14-avoid-item .av-icon {
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+.t14-avoid-item strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
 .t14-note {
   margin-top: 1rem;
   background: var(--global-bg-color, #f8faff);
@@ -179,33 +237,44 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
   border-radius: 8px;
   margin-bottom: 0.3rem;
 }
-.t14-avoid-item strong { display: block; margin-bottom: 0.2rem; }
 </style>
-
-<div class="t14-section">
-<h2>Workout Plan</h2>
 
 <div class="t14-week-grid">
   <div class="t14-day-card">
-    <div class="t14-day-head"><span>Monday</span><span class="day-tag">Push</span></div>
+    <div class="t14-day-head"><span>Monday</span><span class="day-tag">Chest · Tri</span></div>
     <div class="t14-day-body">
-      <div class="focus">Chest / Triceps</div>
-      Bench Press · Incline DB · Dips · Tricep Pushdown
+      <div class="focus">Push</div>
+      <ul>
+        <li>Bench Press — 4×8</li>
+        <li>Incline DB Press — 3×10</li>
+        <li>Dips — 3×12</li>
+        <li>Tricep Pushdown — 3×12</li>
+      </ul>
       <div class="extra">+ 10 min abs</div>
     </div>
   </div>
   <div class="t14-day-card">
-    <div class="t14-day-head"><span>Tuesday</span><span class="day-tag">Pull</span></div>
+    <div class="t14-day-head"><span>Tuesday</span><span class="day-tag">Back · Bi</span></div>
     <div class="t14-day-body">
-      <div class="focus">Back / Biceps</div>
-      Pull-ups · Rows · Lat Pulldown · Curls
+      <div class="focus">Pull</div>
+      <ul>
+        <li>Pull-ups — 4×8</li>
+        <li>Barbell Rows — 3×10</li>
+        <li>Lat Pulldown — 3×12</li>
+        <li>Barbell Curls — 3×10</li>
+      </ul>
     </div>
   </div>
   <div class="t14-day-card">
     <div class="t14-day-head"><span>Wednesday</span><span class="day-tag">Legs</span></div>
     <div class="t14-day-body">
       <div class="focus">Legs</div>
-      Squats · Leg Press · RDL · Calf Raises
+      <ul>
+        <li>Squats — 4×8</li>
+        <li>Leg Press — 3×12</li>
+        <li>Romanian DL — 3×10</li>
+        <li>Calf Raises — 4×15</li>
+      </ul>
       <div class="extra">+ 10 min abs</div>
     </div>
   </div>
@@ -213,129 +282,155 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
     <div class="t14-day-head"><span>Thursday</span><span class="day-tag">Shoulders</span></div>
     <div class="t14-day-body">
       <div class="focus">Shoulders</div>
-      OHP · Lateral Raises · Front Raises · Rear Delts
+      <ul>
+        <li>OHP — 4×8</li>
+        <li>Lateral Raises — 3×15</li>
+        <li>Front Raises — 3×12</li>
+        <li>Rear Delt Flyes — 3×15</li>
+      </ul>
     </div>
   </div>
   <div class="t14-day-card">
     <div class="t14-day-head"><span>Friday</span><span class="day-tag">Arms</span></div>
     <div class="t14-day-body">
       <div class="focus">Arms</div>
-      Biceps · Triceps · Forearms · Grip work
+      <ul>
+        <li>Barbell Curls — 3×10</li>
+        <li>Hammer Curls — 3×12</li>
+        <li>Skull Crushers — 3×10</li>
+        <li>Forearm Curls — 3×15</li>
+      </ul>
       <div class="extra">+ 10 min abs</div>
     </div>
   </div>
   <div class="t14-day-card">
     <div class="t14-day-head"><span>Saturday</span><span class="day-tag">Active</span></div>
     <div class="t14-day-body">
-      <div class="focus">Legs or Trek</div>
-      Outdoor hike / trail run or extra leg session
+      <div class="focus">Legs or Outdoors</div>
+      <ul>
+        <li>Trail run or hike</li>
+        <li>Calisthenics circuit</li>
+        <li>Extra leg session</li>
+      </ul>
     </div>
   </div>
 </div>
 
 <div class="t14-note">
-  To keep it interesting I swap in a calisthenics session occasionally. When I can't make the gym, I train at home with bodyweight.
-</div>
+  Rest 60–90 seconds between sets for hypertrophy. If you can comfortably complete the top end of the rep range for all sets, add weight next session. That is progressive overload in practice.
 </div>
 
 ---
 
-<div class="t14-section">
-<h2>Diet Plan</h2>
+## Nutrition
+
+Supplements are not the foundation — food is. Most people flip this and wonder why they're not making progress.
+
+**Do you need protein powder?** Only if you can't hit your target from whole food. The target is roughly **1.6–2g of protein per kg of bodyweight** per day. I tried a few months on food alone (eggs, chicken, fish) and it worked, but it got repetitive and expensive. Protein shakes fill the gap conveniently — they're not magic, they're just food in liquid form. Eating protein without training does nothing.
+
+I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVINESH-R1" title="MyProtein" target="_blank" rel="noopener noreferrer">MyProtein</a>:
+
+- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Protein" target="_blank" rel="noopener noreferrer">Impact Whey Protein</a> — everyday use, mixes well, good range of flavours.
+- <a href="https://www.myprotein.com/sports-nutrition/impact-whey-isolate/10530911.html?affil=avineshref&applyCode=AVINESH-R1" title="MyProtein Impact Whey Isolate" target="_blank" rel="noopener noreferrer">Impact Whey Isolate</a> — lower carbs, better for cutting phases.
 
 <div class="t14-macro-row">
   <div class="t14-macro-card carb">
     <div class="mc-lbl">Carbs</div>
     <div class="mc-val">40%</div>
-    <div class="mc-sub">of calories</div>
+    <div class="mc-sub">fuel for training</div>
   </div>
   <div class="t14-macro-card prot">
     <div class="mc-lbl">Protein</div>
-    <div class="mc-val">50%</div>
-    <div class="mc-sub">1–1.5g / kg BW</div>
+    <div class="mc-val">35%</div>
+    <div class="mc-sub">1.6–2g / kg BW</div>
   </div>
   <div class="t14-macro-card fat">
     <div class="mc-lbl">Fats</div>
-    <div class="mc-val">10%</div>
+    <div class="mc-val">25%</div>
     <div class="mc-sub">essential only</div>
   </div>
 </div>
 
-<p>5–6 meals a day works well — your body processes smaller portions better, and you avoid overeating in a single sitting.</p>
+5–6 smaller meals a day keeps energy stable and prevents overeating in a single sitting. The total calories matter more than the meal count — but spreading intake works well for training days.
 
-<p class="t14-sub-label">Cutting Phase</p>
+<p class="t14-sub-label">Cutting Phase — Sample Day</p>
 <div class="t14-meal-grid">
   <div class="t14-meal-card">
     <div class="t14-meal-head">🌅 Meal 0 — Wake Up</div>
-    <div class="t14-meal-body">Green Tea + Lemon + Honey<br><em>or</em> Green Juice (Spinach, Wheatgrass, Mint)</div>
+    <div class="t14-meal-body">
+      Green Tea + Lemon + Honey<br><em>or</em> Green Juice (Spinach, Wheatgrass, Mint)
+      <div class="t14-meal-note">Kickstarts digestion, no calories needed yet</div>
+    </div>
   </div>
   <div class="t14-meal-card">
     <div class="t14-meal-head">🥣 Meal 1 — Breakfast</div>
-    <div class="t14-meal-body">Muesli + Milk + 1 scoop Protein + ½ Banana</div>
+    <div class="t14-meal-body">
+      Muesli + Milk + 1 scoop Protein + ½ Banana
+      <div class="t14-meal-note">Complex carbs + protein to start the day</div>
+    </div>
   </div>
   <div class="t14-meal-card">
     <div class="t14-meal-head">🍎 Meal 2 — Mid-Morning</div>
-    <div class="t14-meal-body">½ Pomegranate + Sprouts + Dry Fruits (Dates, Walnuts, Pistachios, Almonds)</div>
+    <div class="t14-meal-body">
+      ½ Pomegranate + Sprouts + Dry Fruits<br>(Dates, Walnuts, Pistachios, Almonds)
+      <div class="t14-meal-note">Micronutrients + healthy fats</div>
+    </div>
   </div>
   <div class="t14-meal-card">
     <div class="t14-meal-head">🍗 Meal 3 — Lunch</div>
-    <div class="t14-meal-body">1 handful Rice / Lettuce + Chicken + Beans + Vegetables</div>
+    <div class="t14-meal-body">
+      1 handful Rice / Lettuce + Chicken + Beans + Vegetables
+      <div class="t14-meal-note">Biggest carb meal, timed before afternoon energy dip</div>
+    </div>
   </div>
   <div class="t14-meal-card">
     <div class="t14-meal-head">⚡ Meal 4 — Pre-Workout</div>
-    <div class="t14-meal-body">Oats + Milk + 1 scoop Protein + ½ Banana</div>
+    <div class="t14-meal-body">
+      Oats + Milk + 1 scoop Protein + ½ Banana
+      <div class="t14-meal-note">Fast carbs for energy, protein to protect muscle</div>
+    </div>
   </div>
   <div class="t14-meal-card">
     <div class="t14-meal-head">💪 Meal 5 — Post-Workout</div>
-    <div class="t14-meal-body">1 scoop Protein Shake + Banana (optional)</div>
+    <div class="t14-meal-body">
+      1 scoop Protein Shake + Banana (optional)
+      <div class="t14-meal-note">Rapid protein delivery within 30–45 min of training</div>
+    </div>
   </div>
   <div class="t14-meal-card">
     <div class="t14-meal-head">🥗 Meal 6 — Dinner</div>
-    <div class="t14-meal-body">Salad + Mixed Beans + 3 Egg Whites + 1 Yolk</div>
+    <div class="t14-meal-body">
+      Salad + Mixed Beans + 3 Egg Whites + 1 Yolk
+      <div class="t14-meal-note">Light carbs, high protein, easy to digest before sleep</div>
+    </div>
   </div>
 </div>
 
 <p class="t14-sub-label">Gaining Phase</p>
-<div class="t14-gaining-note">Same meals as above — add extra carbs and protein to Meals 3 and 5.</div>
+<div class="t14-gaining-note">Same structure — increase portion size at Meals 3 and 5. Add an extra serving of rice or oats at lunch, and a banana or second scoop post-workout. Aim for 300–500 calories above maintenance. Track weekly weight: if you're gaining more than 0.5kg/week, dial the surplus back.</div>
 
-<p class="t14-sub-label">3 Things to Avoid</p>
+<p class="t14-sub-label">3 Things to Cut</p>
 <div class="t14-avoid">
   <div class="t14-avoid-item">
     <span class="av-icon">🍬</span>
-    <div><strong>Sugar / Too Many Fruits</strong>Calories from fruit still count. Sugars are a hard no. Cheat days usually derail routines — skip them if you can.</div>
+    <div><strong>Sugar and liquid calories</strong>Sodas, fruit juices, and even "healthy" smoothies pack calories fast without filling you up. Sugar spikes insulin, drives fat storage, and leaves you hungry again quickly. Cut these first — it's the highest-impact dietary change most people can make.</div>
   </div>
   <div class="t14-avoid-item">
     <span class="av-icon">🍚</span>
-    <div><strong>Excess Carbs</strong>Desk workers don't need as many carbs as they think. Unused carbs become fat. Cut the rice and roti back; your body adapts.</div>
+    <div><strong>Excess refined carbs</strong>If you sit at a desk for 8 hours, you don't need three roti or two cups of rice at every meal. Unused carbs convert to fat. Reduce portions gradually — your body adapts within 2–3 weeks and the hunger subsides.</div>
   </div>
   <div class="t14-avoid-item">
     <span class="av-icon">🍟</span>
-    <div><strong>Fried / Unhealthy Fats</strong>Essential fats are necessary; fried food is not.</div>
+    <div><strong>Fried and ultra-processed food</strong>Essential fats from nuts, eggs, avocado, and olive oil are necessary. Deep-fried food and processed snacks are not — they're calorie-dense, nutrient-poor, and make hitting a deficit almost impossible.</div>
   </div>
 </div>
 
-<div class="t14-note">* If you can burn what you eat, the rules are more flexible — but most of us can't.</div>
-</div>
-
----
-
-## Resources
-
-**Workout:**
-
-- <a href="http://www.bodybuilding.com/" title="Bodybuilding" target="_blank">Bodybuilding.com</a> — Routines, programs, and expert content. Pick one and follow it consistently.
-- <a href="http://www.cutandjacked.com/" title="CutandJacked" target="_blank">CutandJacked</a> — Interviews with fitness models and gurus, plus diet programs and articles.
-
-**Diet & Recipes:**
-
-- <a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Diet Kitchen" target="_blank">CutandJacked Diet Kitchen</a> — Healthy recipes that actually taste good.
+<div class="t14-note">The one rule that overrides everything: if you consistently burn more calories than you consume, you will lose fat. Macros and meal timing matter for performance and muscle retention — but total energy balance is what determines body composition.</div>
 
 ---
 
 ## What's Next
 
-I enrolled at <a href="https://www.facebook.com/FFCNOW/" title="Fitness Fight Club" target="_blank" rel="noopener noreferrer">Fitness Fight Club</a> to train Muay Thai, Boxing, and MMA — something I'd always wanted to do. The goal: conditioning, flexibility, and reflexes. Marathon and Triathlon are still on the <a href="/i-am-possible-list/" title="I am Possible List">bucket list</a>.
+That transformation in 2014 was a starting point, not a finish line. After getting ripped, I trained MMA and Muay Thai for a year, then a PhD in Germany put fitness on the back seat. By 2019 I was at my heaviest. By 2022 I'd completed my second Olympic Triathlon. In 2023 my son was born, and the challenge changed shape again.
 
----
-
-_Questions? Drop them in the comments or reach out directly. I'm not perfect — always learning and adjusting. That's how it works._
+In 2026 I'm back — this time as a [Hybrid Athlete](/projects/hybrid_athlete/), combining strength training with DEKA events, Spartan races, and triathlon. The kid who couldn't do a single push-up eventually figured it out. The work is never really finished.
