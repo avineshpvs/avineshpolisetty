@@ -246,7 +246,7 @@ permalink: /projects/hybrid_athlete/
   </p>
 
   <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
-    My peak came in 2014–2015 while training for MMA with <strong>Fitness Fight Club in Bangalore</strong>. I was in the best shape of my life — lean, strong, and hungry. Then came a PhD offer in Germany, and with it, a different kind of pressure. The demands of doctoral research, life in a new country, and the slow accumulation of stress quietly pushed fitness to the back seat. By 2019 I was at my heaviest — close to 80kg — and barely recognising the athlete I used to be.
+    My peak came in 2014–2015 while training for MMA with <strong>Fitness Fight Club in Bangalore</strong>. I was in <a href="{{ '/blog/2014/transformation-skinny-bulky-ripped/' | relative_url }}">the best shape of my life</a> — lean, strong, and hungry. Then came a PhD offer in Germany, and with it, a different kind of pressure. The demands of doctoral research, life in a new country, and the slow accumulation of stress quietly pushed fitness to the back seat. By 2019 I was at my heaviest — close to 80kg — and barely recognising the athlete I used to be.
   </p>
 
   <p style="font-size: 1.05rem; line-height: 1.85; margin-bottom: 1.2rem;">
