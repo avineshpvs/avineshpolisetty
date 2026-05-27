@@ -576,8 +576,8 @@ permalink: /projects/hybrid_athlete/
           <li>Pull buoy drills</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Run 25–30 min</div>
-          <ul><li>Tempo or interval run</li><li>Zone 3–4 effort</li></ul>
+          <div class="focus">PM — Bike 45–60 min</div>
+          <ul><li>3×15 min at hard effort (Zone 3–4)</li><li>5 min easy between intervals</li></ul>
         </div>
       </div>
     </div>
@@ -601,14 +601,15 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Saturday <span class="day-tag">Long Effort</span></div>
+      <div class="ha-day-head">Saturday <span class="day-tag">Brick</span></div>
       <div class="ha-day-body">
-        <div class="focus">Long Aerobic Session</div>
+        <div class="focus">Brick — Bike + Run</div>
         <ul>
-          <li>Long run (10–15km Zone 2)</li>
-          <li>Or: brick/race simulation</li>
-          <li>DEKA circuit practice on heavy weeks</li>
-          <li>Gel every 40 min on long efforts</li>
+          <li>Bike 60–90 min Zone 2</li>
+          <li>Immediately into Run 20–30 min</li>
+          <li>No rest between bike and run</li>
+          <li>Gel every 40 min on bike leg</li>
+          <li>Simulates triathlon race transition</li>
         </ul>
       </div>
     </div>
