@@ -274,7 +274,7 @@ permalink: /projects/hybrid_athlete/
 
     <div class="ha-race-row soon">
       <div><div class="ha-race-date">May 30</div></div>
-      <div><div class="ha-race-name">Spartan Super — Salinas</div><div class="ha-race-meta">Salinas, CA · OCF 13km</div></div>
+      <div><div class="ha-race-name">NorCal Spartan Super</div><div class="ha-race-meta">Salinas, CA · OCF 10km</div></div>
       <div style="text-align:right"><div class="ha-race-goal">Goal: Zero burpees</div><span class="ha-badge soon">3 days</span></div>
     </div>
 
@@ -285,9 +285,21 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-race-row future">
+      <div><div class="ha-race-date">Jul 12</div></div>
+      <div><div class="ha-race-name">Deka Strong</div><div class="ha-race-meta">DEKA</div></div>
+      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+    </div>
+
+    <div class="ha-race-row future">
       <div><div class="ha-race-date">Aug 9</div></div>
       <div><div class="ha-race-name">Triathlon — Santa Cruz</div><div class="ha-race-meta">Santa Cruz, CA · Sprint or Olympic</div></div>
       <div style="text-align:right"><div class="ha-race-goal">Sprint &lt;1:25 / Olympic &lt;2:50</div><span class="ha-badge upcoming">Upcoming</span></div>
+    </div>
+
+    <div class="ha-race-row future">
+      <div><div class="ha-race-date">Aug 29</div></div>
+      <div><div class="ha-race-name">DEKA — APX Velocity</div><div class="ha-race-meta">APX Velocity · San Jose, CA · DEKA</div></div>
+      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
     </div>
 
     <div class="ha-race-row future">
@@ -303,9 +315,9 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-race-row future">
-      <div><div class="ha-race-date">Nov 7–8</div></div>
-      <div><div class="ha-race-name">Spartan Beast + Sprint</div><div class="ha-race-meta">Beast 21km + Sprint 5km back-to-back · OCF</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Back-to-back finish</div><span class="ha-badge upcoming">Upcoming</span></div>
+      <div><div class="ha-race-date">Nov 7</div></div>
+      <div><div class="ha-race-name">SLO CAL Spartan Beast</div><div class="ha-race-meta">San Luis Obispo, CA · OCF 21km</div></div>
+      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
     </div>
 
   </div>
