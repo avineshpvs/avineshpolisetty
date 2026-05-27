@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hybrid Athlete 2026
-description: A working father in his mid-thirties chasing strength, endurance, and the DEKA Trifecta — one race at a time.
+description: A working father in his late-thirties chasing strength and endurance — one race at a time.
 img: assets/img/blog/projects/hybrid_athelete/hybrid_athlete_thumb.jpg
 importance: 3
 category: Personal
