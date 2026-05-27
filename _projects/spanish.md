@@ -409,7 +409,7 @@ permalink: /projects/spanish/
 <div class="sp-resource-grid">
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
-    <div class="rc-name">Memrise</div>
+    <div class="rc-name"><a href="https://www.memrise.com" target="_blank" rel="noopener noreferrer">Memrise ↗</a></div>
     <div class="rc-desc">Spaced repetition vocabulary with native speaker video clips. Use the official Spanish course and keep the daily streak going. 15–20 min/day is enough.</div>
   </div>
   <div class="sp-resource-card">
@@ -419,7 +419,7 @@ permalink: /projects/spanish/
   </div>
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
-    <div class="rc-name">BBC Mundo</div>
+    <div class="rc-name"><a href="https://www.bbc.com/mundo" target="_blank" rel="noopener noreferrer">BBC Mundo ↗</a></div>
     <div class="rc-desc">Real news written for native speakers. Good for reading practice once you hit solid A2. Start with shorter articles.</div>
   </div>
   <div class="sp-resource-card">
