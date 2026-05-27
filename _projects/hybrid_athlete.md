@@ -603,7 +603,7 @@ permalink: /projects/hybrid_athlete/
         <div class="focus">Long Aerobic Session</div>
         <ul>
           <li>Long run (10–15km Zone 2)</li>
-          <li>Or: swim/brick/race simulation</li>
+          <li>Or: brick/race simulation</li>
           <li>DEKA circuit practice on heavy weeks</li>
           <li>Gel every 40 min on long efforts</li>
         </ul>
