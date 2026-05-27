@@ -550,20 +550,17 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Wednesday <span class="day-tag">Two-a-day</span></div>
+      <div class="ha-day-head">Wednesday <span class="day-tag">Strength + Bike</span></div>
       <div class="ha-day-body">
-        <div class="focus">AM — Full Body Strength (40 min)</div>
+        <div class="focus">AM — Full Body Strength (40 min) + Bike (30 min)</div>
         <ul>
           <li>Bench Press (phase table)</li>
           <li>Overhead Press (phase table)</li>
           <li>Incline DB Press 3×10</li>
           <li>Lat Pulldown 3×10</li>
           <li>Dips + Cable Curl 3×10</li>
+          <li>Bike 30 min Zone 2</li>
         </ul>
-        <div class="pm-block">
-          <div class="focus">PM — Bike / Run 45–60 min</div>
-          <ul><li>Zone 2 bike or easy run</li></ul>
-        </div>
       </div>
     </div>
 
