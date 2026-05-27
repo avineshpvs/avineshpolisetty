@@ -516,14 +516,13 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-day-card">
       <div class="ha-day-head">Monday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
-        <div class="focus">AM — Full Body Strength (40 min)</div>
+        <div class="focus">AM — Chest + Shoulders + Triceps (40 min)</div>
         <ul>
-          <li>Back Squat (phase table)</li>
-          <li>Weighted Pull-Up (phase table)</li>
-          <li>Romanian Deadlift 3×8</li>
-          <li>Dumbbell Row 3×10</li>
-          <li>Curls + Skull Crushers 3×10</li>
-          <li>Box Jumps / DEKA finisher</li>
+          <li>Incline Barbell Press: 2 warm-up + 1×6–8 to failure</li>
+          <li>Seated DB Lateral Raises: 1 warm-up + 1×8–10 to failure</li>
+          <li>Overhead Press: 1 warm-up + 1×8–10 to failure</li>
+          <li>Tricep Pushdowns: 1 warm-up + 1×10–12 to failure</li>
+          <li>Box Jumps 3×5 — DEKA explosive power</li>
         </ul>
         <div class="pm-block">
           <div class="focus">PM — Run 25–30 min</div>
@@ -552,13 +551,14 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-day-card">
       <div class="ha-day-head">Wednesday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
-        <div class="focus">AM — Full Body Strength (40 min) + Bike (30 min)</div>
+        <div class="focus">AM — Legs + Core + OCF (40 min) + Bike (30 min)</div>
         <ul>
-          <li>Bench Press (phase table)</li>
-          <li>Overhead Press (phase table)</li>
-          <li>Incline DB Press 3×10</li>
-          <li>Lat Pulldown 3×10</li>
-          <li>Dips + Cable Curl 3×10</li>
+          <li>Back Squat: 2 warm-up + 1×8–10 to failure</li>
+          <li>Romanian Deadlift: 1 warm-up + 1×8–10 to failure</li>
+          <li>Hip Thrust: 1 warm-up + 1×10–12 to failure</li>
+          <li>Calf Raises: 1 warm-up + 1×12–15 to failure</li>
+          <li>Sandbag Lunges 3×20m — DEKA/Spartan</li>
+          <li>Hanging Leg Raises 1×15</li>
           <li>Bike 30 min Zone 2</li>
         </ul>
         <div class="pm-block">
@@ -588,13 +588,12 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-day-card">
       <div class="ha-day-head">Friday <span class="day-tag">Strength+</span></div>
       <div class="ha-day-body">
-        <div class="focus">AM — Full Body Strength (40 min)</div>
+        <div class="focus">AM — Back + Biceps + DEKA (40 min)</div>
         <ul>
-          <li>Deadlift (phase table)</li>
-          <li>Weighted Dip (phase table)</li>
-          <li>Hip Thrust 3×10</li>
-          <li>Farmer's Carry 3×40m</li>
-          <li>Core finisher</li>
+          <li>Weighted Pull-Up: 2 warm-up + 1×6–8 to failure</li>
+          <li>Barbell Row: 1 warm-up + 1×8–10 to failure</li>
+          <li>EZ Bar Curl: 1 warm-up + 1×6–8 to failure</li>
+          <li>Farmer's Carry 3×40m — DEKA grip + traps</li>
         </ul>
         <div class="pm-block">
           <div class="focus">PM — Short Bike or Rest</div>
