@@ -526,7 +526,7 @@ permalink: /projects/hybrid_athlete/
           <li>Box Jumps / DEKA finisher</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Run 30–40 min</div>
+          <div class="focus">PM — Run 25–30 min</div>
           <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
         </div>
       </div>
@@ -542,7 +542,7 @@ permalink: /projects/hybrid_athlete/
           <li>2×100m @ DEKA pace</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Run 30–40 min</div>
+          <div class="focus">PM — Run 25–30 min</div>
           <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
         </div>
       </div>
@@ -572,7 +572,7 @@ permalink: /projects/hybrid_athlete/
           <li>Pull buoy drills</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Run 30–40 min</div>
+          <div class="focus">PM — Run 25–30 min</div>
           <ul><li>Tempo or interval run</li><li>Zone 3–4 effort</li></ul>
         </div>
       </div>
