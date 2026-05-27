@@ -361,13 +361,13 @@ permalink: /projects/spanish/
     </div>
   </div>
   <div class="sp-plan-card">
-    <div class="sp-plan-head"><span>Thursday</span><span class="ph-tag">Reading</span></div>
+    <div class="sp-plan-head"><span>Thursday</span><span class="ph-tag">Language Transfer</span></div>
     <div class="sp-plan-body">
-      <div class="focus">Reading — 20 min</div>
+      <div class="focus">Audio — 20 min</div>
       <ul>
-        <li>BBC Mundo easy articles</li>
-        <li>Or graded reader (A2 level)</li>
-        <li>Look up max 5 words</li>
+        <li>1–2 Language Transfer episodes</li>
+        <li>Pause and repeat out loud</li>
+        <li>Note new grammar patterns</li>
       </ul>
     </div>
   </div>
@@ -388,7 +388,7 @@ permalink: /projects/spanish/
       <div class="focus">Light review — 15 min</div>
       <ul>
         <li>Memrise catch-up only</li>
-        <li>Watch Spanish TV / film</li>
+        <li>Short reading (BBC Mundo / graded reader)</li>
         <li>Monthly test (1st weekend)</li>
       </ul>
     </div>
@@ -435,7 +435,7 @@ permalink: /projects/spanish/
   <div class="sp-resource-card">
     <span class="rc-type free">Free</span>
     <div class="rc-name">Language Transfer</div>
-    <div class="rc-desc">Free audio course — "Complete Spanish". Excellent for understanding the logic of the language, not just memorising. Great complement to Anki.</div>
+    <div class="rc-desc">Free audio course — "Complete Spanish". 40 short episodes that teach you to think in Spanish rather than translate. Excellent complement to Memrise and tutor sessions.</div>
   </div>
 </div>
 </div>
