@@ -97,50 +97,211 @@ I get mine from <a href="https://www.myprotein.com/referrals.list?applyCode=AVIN
 
 ---
 
-## Workout Plan
+<style>
+/* ── Blog post: Workout & Diet cards ── */
+.t14-section > h2 {
+  font-size: 1.25rem; font-weight: 700;
+  margin-bottom: 1.1rem; padding-bottom: 0.4rem;
+  border-bottom: 2px solid #e63946;
+}
+/* Day cards */
+.t14-week-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.8rem;
+  margin-bottom: 0.9rem;
+}
+.t14-day-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; overflow: hidden; }
+.t14-day-head {
+  background: #14142b; color: #fff;
+  padding: 0.45rem 0.8rem;
+  font-weight: 700; font-size: 0.82rem;
+  display: flex; justify-content: space-between; align-items: baseline;
+}
+.t14-day-head .day-tag { font-size: 0.7rem; opacity: 0.7; }
+.t14-day-body { padding: 0.65rem 0.8rem; font-size: 0.8rem; }
+.t14-day-body .focus { font-weight: 700; color: #e63946; margin-bottom: 0.3rem; font-size: 0.82rem; }
+.t14-day-body .extra { font-size: 0.75rem; color: var(--global-text-color-light, #888); margin-top: 0.35rem; }
+/* Macro cards */
+.t14-macro-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 0.8rem; margin-bottom: 1.2rem;
+}
+.t14-macro-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; padding: 0.75rem 0.9rem; text-align: center; }
+.t14-macro-card .mc-lbl { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-text-color-light, #888); }
+.t14-macro-card .mc-val { font-size: 1.7rem; font-weight: 800; line-height: 1.1; margin: 0.2rem 0 0; }
+.t14-macro-card .mc-sub { font-size: 0.72rem; color: var(--global-text-color-light, #888); }
+.t14-macro-card.prot .mc-val { color: #3b82f6; }
+.t14-macro-card.carb .mc-val { color: #f59e0b; }
+.t14-macro-card.fat  .mc-val { color: #22c55e; }
+/* Meal cards */
+.t14-meal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.8rem; margin-bottom: 1rem;
+}
+.t14-meal-card { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; overflow: hidden; font-size: 0.8rem; }
+.t14-meal-head { background: var(--global-bg-color, #f1f5f9); padding: 0.45rem 0.8rem; font-weight: 700; font-size: 0.78rem; border-bottom: 1px solid var(--global-divider-color, #e0e0e0); }
+.t14-meal-body { padding: 0.6rem 0.8rem; color: var(--global-text-color, #333); }
+/* Avoid list */
+.t14-avoid { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.5rem; }
+.t14-avoid-item {
+  display: flex; align-items: flex-start; gap: 0.7rem;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--global-divider-color, #e0e0e0);
+  border-radius: 8px; font-size: 0.82rem;
+}
+.t14-avoid-item .av-icon { font-size: 1.1rem; flex-shrink: 0; }
+.t14-avoid-item strong { display: block; margin-bottom: 0.15rem; }
+.t14-note {
+  margin-top: 1rem;
+  background: var(--global-bg-color, #f8faff);
+  border-left: 3px solid #3b82f6;
+  border-radius: 0 8px 8px 0;
+  padding: 0.65rem 1rem;
+  font-size: 0.82rem;
+  color: var(--global-text-color-light, #555);
+}
+</style>
 
-| Day | Focus                              | Extra        |
-| --- | ---------------------------------- | ------------ |
-| Mon | Chest / Triceps                    | + 10 min abs |
-| Tue | Back / Biceps                      | —            |
-| Wed | Legs                               | + 10 min abs |
-| Thu | Shoulders                          | —            |
-| Fri | Arms (Biceps / Triceps / Forearms) | + 10 min abs |
-| Sat | Legs or Trek                       | —            |
+<div class="t14-section">
+<h2>Workout Plan</h2>
 
-To keep it interesting I swap in a calisthenics session occasionally. When I can't make the gym, I train at home with bodyweight.
+<div class="t14-week-grid">
+  <div class="t14-day-card">
+    <div class="t14-day-head"><span>Monday</span><span class="day-tag">Push</span></div>
+    <div class="t14-day-body">
+      <div class="focus">Chest / Triceps</div>
+      Bench Press · Incline DB · Dips · Tricep Pushdown
+      <div class="extra">+ 10 min abs</div>
+    </div>
+  </div>
+  <div class="t14-day-card">
+    <div class="t14-day-head"><span>Tuesday</span><span class="day-tag">Pull</span></div>
+    <div class="t14-day-body">
+      <div class="focus">Back / Biceps</div>
+      Pull-ups · Rows · Lat Pulldown · Curls
+    </div>
+  </div>
+  <div class="t14-day-card">
+    <div class="t14-day-head"><span>Wednesday</span><span class="day-tag">Legs</span></div>
+    <div class="t14-day-body">
+      <div class="focus">Legs</div>
+      Squats · Leg Press · RDL · Calf Raises
+      <div class="extra">+ 10 min abs</div>
+    </div>
+  </div>
+  <div class="t14-day-card">
+    <div class="t14-day-head"><span>Thursday</span><span class="day-tag">Shoulders</span></div>
+    <div class="t14-day-body">
+      <div class="focus">Shoulders</div>
+      OHP · Lateral Raises · Front Raises · Rear Delts
+    </div>
+  </div>
+  <div class="t14-day-card">
+    <div class="t14-day-head"><span>Friday</span><span class="day-tag">Arms</span></div>
+    <div class="t14-day-body">
+      <div class="focus">Arms</div>
+      Biceps · Triceps · Forearms · Grip work
+      <div class="extra">+ 10 min abs</div>
+    </div>
+  </div>
+  <div class="t14-day-card">
+    <div class="t14-day-head"><span>Saturday</span><span class="day-tag">Active</span></div>
+    <div class="t14-day-body">
+      <div class="focus">Legs or Trek</div>
+      Outdoor hike / trail run or extra leg session
+    </div>
+  </div>
+</div>
+
+<div class="t14-note">
+  To keep it interesting I swap in a calisthenics session occasionally. When I can't make the gym, I train at home with bodyweight.
+</div>
+</div>
 
 ---
 
-## Diet Plan
+<div class="t14-section">
+<h2>Diet Plan</h2>
 
-**Macro target:** Carbs 40% · Protein 50% · Essential Fats 10% · plus micronutrients (greens, salads)
+<div class="t14-macro-row">
+  <div class="t14-macro-card carb">
+    <div class="mc-lbl">Carbs</div>
+    <div class="mc-val">40%</div>
+    <div class="mc-sub">of calories</div>
+  </div>
+  <div class="t14-macro-card prot">
+    <div class="mc-lbl">Protein</div>
+    <div class="mc-val">50%</div>
+    <div class="mc-sub">1–1.5g / kg BW</div>
+  </div>
+  <div class="t14-macro-card fat">
+    <div class="mc-lbl">Fats</div>
+    <div class="mc-val">10%</div>
+    <div class="mc-sub">essential only</div>
+  </div>
+</div>
 
 5–6 meals a day works well — your body processes smaller portions better, and you avoid overeating in a single sitting.
 
-### Cutting Phase
+**Cutting Phase**
 
-| Meal                  | What                                                                       |
-| --------------------- | -------------------------------------------------------------------------- |
-| Meal 0 — Wake up      | Green Tea + Lemon + Honey _or_ Green Juice (Spinach, Wheat grass, Mint)    |
-| Meal 1 — Breakfast    | Muesli + Milk + 1 scoop Protein + ½ Banana                                 |
-| Meal 2 — Mid-morning  | ½ Pomegranate + Sprouts + Dry fruits (Dates, Walnuts, Pistachios, Almonds) |
-| Meal 3 — Lunch        | 1 handful Rice / Lettuce + Chicken + Beans + Vegetables                    |
-| Meal 4 — Pre-workout  | Oats + Milk + 1 scoop Protein + ½ Banana                                   |
-| Meal 5 — Post-workout | 1 scoop Protein shake + Banana (optional)                                  |
-| Meal 6 — Dinner       | Salad + Mixed Beans + 3 Egg whites + 1 Yolk                                |
+<div class="t14-meal-grid">
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">🌅 Meal 0 — Wake Up</div>
+    <div class="t14-meal-body">Green Tea + Lemon + Honey<br><em>or</em> Green Juice (Spinach, Wheatgrass, Mint)</div>
+  </div>
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">🥣 Meal 1 — Breakfast</div>
+    <div class="t14-meal-body">Muesli + Milk + 1 scoop Protein + ½ Banana</div>
+  </div>
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">🍎 Meal 2 — Mid-Morning</div>
+    <div class="t14-meal-body">½ Pomegranate + Sprouts + Dry Fruits (Dates, Walnuts, Pistachios, Almonds)</div>
+  </div>
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">🍗 Meal 3 — Lunch</div>
+    <div class="t14-meal-body">1 handful Rice / Lettuce + Chicken + Beans + Vegetables</div>
+  </div>
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">⚡ Meal 4 — Pre-Workout</div>
+    <div class="t14-meal-body">Oats + Milk + 1 scoop Protein + ½ Banana</div>
+  </div>
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">💪 Meal 5 — Post-Workout</div>
+    <div class="t14-meal-body">1 scoop Protein Shake + Banana (optional)</div>
+  </div>
+  <div class="t14-meal-card">
+    <div class="t14-meal-head">🥗 Meal 6 — Dinner</div>
+    <div class="t14-meal-body">Salad + Mixed Beans + 3 Egg Whites + 1 Yolk</div>
+  </div>
+</div>
 
-### Gaining Phase
+**Gaining Phase** — Same meals above, add extra carbs and protein to Meals 3 and 5.
 
-Same as above — add extra carbs and protein to Meals 3 and 5.
+**3 Things to Avoid**
 
-### 3 Things to Avoid
+<div class="t14-avoid">
+  <div class="t14-avoid-item">
+    <span class="av-icon">🍬</span>
+    <div><strong>Sugar / Too Many Fruits</strong>Calories from fruit still count. Sugars are a hard no. Cheat days usually derail routines — skip them if you can.</div>
+  </div>
+  <div class="t14-avoid-item">
+    <span class="av-icon">🍚</span>
+    <div><strong>Excess Carbs</strong>Desk workers don't need as many carbs as they think. Unused carbs become fat. Cut the rice and roti back; your body adapts.</div>
+  </div>
+  <div class="t14-avoid-item">
+    <span class="av-icon">🍟</span>
+    <div><strong>Fried / Unhealthy Fats</strong>Essential fats are necessary; fried food is not.</div>
+  </div>
+</div>
 
-1. **Sugar / Too many fruits** — Calories from fruit still count. Sugars are a hard no. Cheat days usually derail routines — skip them if you can.
-2. **Excess carbs** — Desk workers don't need as many carbs as they think. Unused carbs become fat. Cut the rice and roti back; your body will adapt.
-3. **Fried / unhealthy fats** — Essential fats are fine and necessary; fried food is not.
-
-_\* If you can burn what you eat, the rules are more flexible — but most of us can't._
+<div class="t14-note">
+  * If you can burn what you eat, the rules are more flexible — but most of us can't.
+</div>
+</div>
 
 ---
 
