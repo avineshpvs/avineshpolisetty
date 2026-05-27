@@ -564,7 +564,7 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-day-card">
-      <div class="ha-day-head">Thursday <span class="day-tag">Endurance</span></div>
+      <div class="ha-day-head">Thursday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
         <div class="focus">AM — Swim 30–45 min</div>
         <ul>
@@ -572,8 +572,8 @@ permalink: /projects/hybrid_athlete/
           <li>Pull buoy drills</li>
         </ul>
         <div class="pm-block">
-          <div class="focus">PM — Rest / Mobility</div>
-          <ul><li>Foam rolling</li><li>Hip flexor + shoulder work</li></ul>
+          <div class="focus">PM — Run 30–40 min</div>
+          <ul><li>Tempo or interval run</li><li>Zone 3–4 effort</li></ul>
         </div>
       </div>
     </div>
