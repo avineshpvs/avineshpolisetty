@@ -478,7 +478,8 @@ permalink: /projects/hybrid_athlete/
     <div>
       <div class="ha-month-label"><span class="ha-dot"></span> March 2026</div>
       <div class="ha-photo-row">
-        <div class="ha-coming-soon">Photos coming soon — add to <code>assets/img/blog/projects/hybrid_athelete/march/</code></div>
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-1.jpg' | relative_url }}" alt="March 2026 — Front" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-2.jpg' | relative_url }}" alt="March 2026 — Side" loading="lazy">
       </div>
     </div>
 
