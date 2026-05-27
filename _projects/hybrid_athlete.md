@@ -119,7 +119,6 @@ permalink: /projects/hybrid_athlete/
 .ha-ranking-screenshot img { width: 100%; border-radius: 8px; border: 1px solid var(--global-divider-color, #ddd); }
 
 /* ── Monthly Progress ── */
-.ha-months { display: flex; flex-direction: column; gap: 1.4rem; }
 .ha-month-label {
   font-weight: 700;
   font-size: 0.95rem;
@@ -129,21 +128,19 @@ permalink: /projects/hybrid_athlete/
   margin-bottom: 0.6rem;
 }
 .ha-dot { width: 9px; height: 9px; border-radius: 50%; background: #e63946; display: inline-block; flex-shrink: 0; }
-.ha-photo-row {
+.ha-months-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 0.6rem;
+  gap: 1rem;
 }
-.ha-photo-row img {
+.ha-month-col { display: flex; flex-direction: column; gap: 0.5rem; }
+.ha-month-col img {
   width: 100%;
-  height: 240px;
-  object-fit: cover;
-  object-position: top;
   border-radius: 8px;
   border: 1px solid var(--global-divider-color, #ddd);
+  display: block;
 }
 .ha-coming-soon {
-  grid-column: 1/-1;
   padding: 1.2rem;
   text-align: center;
   border: 1px dashed var(--global-divider-color, #bbb);
@@ -465,29 +462,23 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
-  <div class="ha-months">
+  <div class="ha-months-grid">
 
-    <div>
+    <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> February 2026</div>
-      <div class="ha-photo-row">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb-1.jpg' | relative_url }}" alt="February 2026 — Front" loading="lazy">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb2.jpg' | relative_url }}" alt="February 2026 — Side" loading="lazy">
-      </div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb-1.jpg' | relative_url }}" alt="February 2026 — Front" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb2.jpg' | relative_url }}" alt="February 2026 — Side" loading="lazy">
     </div>
 
-    <div>
+    <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> March 2026</div>
-      <div class="ha-photo-row">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-1.jpg' | relative_url }}" alt="March 2026 — Front" loading="lazy">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-2.jpg' | relative_url }}" alt="March 2026 — Side" loading="lazy">
-      </div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-1.jpg' | relative_url }}" alt="March 2026 — Front" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-2.jpg' | relative_url }}" alt="March 2026 — Side" loading="lazy">
     </div>
 
-    <div>
+    <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> May 2026</div>
-      <div class="ha-photo-row">
-        <div class="ha-coming-soon">Photos coming soon — add to <code>assets/img/blog/projects/hybrid_athelete/may/</code></div>
-      </div>
+      <div class="ha-coming-soon">Photos coming soon — add to <code>assets/img/blog/projects/hybrid_athelete/may/</code></div>
     </div>
 
   </div>
