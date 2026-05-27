@@ -509,6 +509,10 @@ permalink: /projects/hybrid_athlete/
     Both domains are trained with progressive overload, never letting one stagnate to serve the other.
     The philosophy demands consistency over perfection: a modified session always beats skipping one, and attacking your weakest pillar is what drives real growth.
     Fueling is treated as non-negotiable — protein at every meal, carbs around every session, and recovery prioritized as seriously as the training itself.
+    The strength side of this program draws from <strong>Dorian Yates' Blood and Guts HIT method</strong> — the approach used by the 6-time Mr. Olympia to build one of the most muscular physiques in history in under 40 minutes a session.
+    The principle is simple: instead of multiple sets at moderate effort, each exercise is taken to absolute muscular failure on a single all-out working set, preceded by two pyramid warm-up sets.
+    Controlled tempo (2 seconds up, 4 seconds down), no momentum, and full range of motion ensure the muscle — not the joints — does all the work.
+    With maximum intensity replacing maximum volume, the muscles are fully stimulated and then left to grow during recovery, making this method ideal for a hybrid athlete who needs time and energy left for running, swimming, and racing.
   </p>
 
   <div class="ha-week-grid">
