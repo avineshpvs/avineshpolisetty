@@ -535,11 +535,12 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-day-card">
       <div class="ha-day-head">Tuesday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
-        <div class="focus">AM — Swim 30–45 min</div>
+        <div class="focus">AM — Swim 1,200–1,500m</div>
         <ul>
-          <li>Technique focus</li>
-          <li>Drill sets + easy laps</li>
-          <li>2×100m @ DEKA pace</li>
+          <li>Warm-up 200m easy</li>
+          <li>Drills: single-arm, catch-up, finger-drag 4×50m</li>
+          <li>Main set: 8×100m at race pace, 20s rest</li>
+          <li>Cool-down 100m easy</li>
         </ul>
         <div class="pm-block">
           <div class="focus">PM — Run 25–30 min</div>
@@ -570,10 +571,12 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-day-card">
       <div class="ha-day-head">Thursday <span class="day-tag">Two-a-day</span></div>
       <div class="ha-day-body">
-        <div class="focus">AM — Swim 30–45 min</div>
+        <div class="focus">AM — Swim 1,500–2,000m</div>
         <ul>
-          <li>Build sets + endurance pace</li>
-          <li>Pull buoy drills</li>
+          <li>Warm-up 200m easy</li>
+          <li>Main set: 3×500m continuous at steady pace, 30s rest</li>
+          <li>Pull buoy 200m for stroke focus</li>
+          <li>Cool-down 100m easy</li>
         </ul>
         <div class="pm-block">
           <div class="focus">PM — Bike 45–60 min</div>
@@ -617,10 +620,12 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-day-card">
       <div class="ha-day-head">Sunday <span class="day-tag">Swim + Recovery</span></div>
       <div class="ha-day-body">
-        <div class="focus">Open Water Swim — 1.5km</div>
+        <div class="focus">Open Water Swim — 1.5km → build to 2km</div>
         <ul>
-          <li>Easy pace, sighting practice</li>
           <li>Zone 2 effort throughout</li>
+          <li>Sighting practice every 10 strokes</li>
+          <li>Race simulation — no rest, steady pace</li>
+          <li>Build to 2km+ by August</li>
         </ul>
         <div class="pm-block">
           <div class="focus">Recovery</div>
