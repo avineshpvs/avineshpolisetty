@@ -240,11 +240,6 @@ permalink: /projects/hybrid_athlete/
     The 2026 season targets the <strong>Deka Trifecta</strong>, <strong>Spartan Trifecta</strong>, and back-to-back triathlons.
     Two-a-days (AM strength + PM cardio), progressive overload, and intentional nutrition make the difference.
   </p>
-  <div style="display: flex; gap: 0.6rem; flex-wrap: wrap;">
-    <span style="background:#22c55e;color:#fff;font-size:0.78rem;font-weight:700;padding:0.25rem 0.75rem;border-radius:20px;">✓ 2026 Deka Trifecta Complete</span>
-    <span style="background:#14142b;color:#fff;font-size:0.78rem;font-weight:700;padding:0.25rem 0.75rem;border-radius:20px;">Age Group M35–39 · USA</span>
-    <span style="background:#e63946;color:#fff;font-size:0.78rem;font-weight:700;padding:0.25rem 0.75rem;border-radius:20px;">Villa Sport · San Jose, CA</span>
-  </div>
 </div>
 
 ---
