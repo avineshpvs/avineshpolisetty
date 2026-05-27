@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Spanish
-description: A1 → fluency. Monthly CEFR tests, Memrise, and a structured plan to reach B1.
+description: A1 → fluency. Monthly CEFR tests, Memrise, and a structured plan to get there.
 img: assets/img/blog/projects/spanish_learning.png
 importance: 5
 category: Personal
