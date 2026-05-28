@@ -30,7 +30,7 @@ Previously worked at IBM Watson, Lexical Computing Ltd., and interned at RMIT Se
 
 When I'm not at work, I write
 
-- articles for my newsletter - [The Avi AI Brief](https://the-avi-ai-brief.beehiiv.com)
+- articles for my newsletter - [The Avi AI Brief](https://full-stack-human.beehiiv.com)
 - my travel experiences [blog](/blog/)
 
 I also work on both [professional](/projects/) and [personal projects](/projects/).
