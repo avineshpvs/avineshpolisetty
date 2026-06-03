@@ -389,6 +389,12 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-race-row future">
+      <div><div class="ha-race-date">Jul 11</div></div>
+      <div><div class="ha-race-name">Stars and Strides 10K + Rafa Kids Fun Run</div><div class="ha-race-meta">10K Run · with Rafa</div></div>
+      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+    </div>
+
+    <div class="ha-race-row future">
       <div><div class="ha-race-date">Jul 12</div></div>
       <div><div class="ha-race-name">Deka Strong</div><div class="ha-race-meta">DEKA</div></div>
       <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
