@@ -408,7 +408,7 @@ permalink: /projects/hybrid_athlete/
 
     <div class="ha-race-row future">
       <div><div class="ha-race-date">Aug 29</div></div>
-      <div><div class="ha-race-name">Spartan Super 10K NorCal + Kids Race</div><div class="ha-race-meta">NorCal · OCF 10km · with Rafa</div></div>
+      <div><div class="ha-race-name">Spartan Super 10K NorCal + Kids Race</div><div class="ha-race-meta">Elk Grove, CA · OCF 10km · with Rafa</div></div>
       <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
     </div>
 
