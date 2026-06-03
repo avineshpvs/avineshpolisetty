@@ -581,9 +581,10 @@ permalink: /projects/hybrid_athlete/
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
-  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1rem;">Global DEKA Atlas · Elite &amp; Age Group · Male 35–39 · United States · as of May 2026</p>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Male 35–39 · Open Heat · as of May 2026</p>
 
-  <div class="ha-rank-grid">
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">DEKA — Global Atlas</p>
+  <div class="ha-rank-grid" style="margin-bottom:1.5rem;">
     <div class="ha-rank-card">
       <div class="rk-type">Deka Strong</div>
       <div class="rk-num">#381</div>
@@ -604,6 +605,24 @@ permalink: /projects/hybrid_athlete/
       <div class="rk-lbl">Global</div>
       <div class="rk-time">31:16</div>
       <div class="rk-ag">AG M35–39 · #426 Gender</div>
+    </div>
+  </div>
+
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">Spartan — Salinas, CA · May 2026</p>
+  <div class="ha-rank-grid">
+    <div class="ha-rank-card">
+      <div class="rk-type">Spartan Super</div>
+      <div class="rk-num">#245</div>
+      <div class="rk-lbl">Category / 1830</div>
+      <div class="rk-time">2:06:42</div>
+      <div class="rk-ag">AG M35–39 #41/247 · Top 13%</div>
+    </div>
+    <div class="ha-rank-card">
+      <div class="rk-type">Spartan Sprint</div>
+      <div class="rk-num">#1462</div>
+      <div class="rk-lbl">Category / 2230</div>
+      <div class="rk-time">2:05:46</div>
+      <div class="rk-ag">AG M35–39 #153/240 · Top 66%</div>
     </div>
   </div>
 
