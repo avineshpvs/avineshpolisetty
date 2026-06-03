@@ -128,15 +128,15 @@ permalink: /projects/hybrid_athlete/
 .ha-dot { width: 9px; height: 9px; border-radius: 50%; background: #e63946; display: inline-block; flex-shrink: 0; }
 .ha-months-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
 .ha-month-col { display: flex; flex-direction: column; gap: 0.5rem; }
 .ha-month-col img {
   width: 100%;
-  height: 480px;
-  object-fit: cover;
-  object-position: top center;
+  height: 700px;
+  object-fit: contain;
+  background: var(--global-bg-color, #f8f9fa);
   border-radius: 8px;
   border: 1px solid var(--global-divider-color, #ddd);
   display: block;
@@ -309,7 +309,7 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-tl-content">
       <div class="ha-tl-year">Childhood</div>
       <div class="ha-tl-label">Born to Run</div>
-      <div class="ha-tl-text">I have been a runner for as long as I can remember. At six years old, my father had my siblings and me lacing up our shoes every morning for a 3km run before school — no exceptions, no excuses. It was just what we did. That daily ritual became the foundation of everything. Through school and university I competed in 800m and 1500m track races, collecting medals and a love for movement that felt as natural as breathing.</div>
+      <div class="ha-tl-text">I have been a runner for as long as I can remember. At six years old, my father had my brother and me lacing up our shoes every morning for a 3km run before school — no exceptions, no excuses. It was just what we did. That daily ritual became the foundation of everything. Through school and university I competed in 800m and 1500m track races, collecting medals and a love for movement that felt as natural as breathing.</div>
     </div>
   </div>
 
@@ -376,16 +376,16 @@ permalink: /projects/hybrid_athlete/
       <div style="text-align:right"><div class="ha-race-result">31:16 ✓</div></div>
     </div>
 
-    <div class="ha-race-row soon">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">May 30</div></div>
       <div><div class="ha-race-name">NorCal Spartan Super</div><div class="ha-race-meta">Salinas, CA · OCF 10km</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Goal: Zero burpees</div><span class="ha-badge soon">3 days</span></div>
+      <div style="text-align:right"><div class="ha-race-result">2:06:42 ✓</div></div>
     </div>
 
-    <div class="ha-race-row soon">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">May 31</div></div>
       <div><div class="ha-race-name">Spartan Sprint — Salinas</div><div class="ha-race-meta">Salinas, CA · OCF 5km</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Goal: Sub 45 min</div><span class="ha-badge soon">4 days</span></div>
+      <div style="text-align:right"><div class="ha-race-result">2:05:46 ✓</div></div>
     </div>
 
     <div class="ha-race-row future">
@@ -507,6 +507,65 @@ permalink: /projects/hybrid_athlete/
 
 ---
 
+<!-- ── SPARTAN SALINAS ── -->
+<div class="ha-section">
+  <h2>⚔️ Spartan Salinas — May 2026 <span class="ha-badge">Completed</span></h2>
+
+  <div class="ha-events-grid">
+
+    <!-- Spartan Super 10K -->
+    <div class="ha-event-card">
+      <div class="ha-event-header">
+        <span class="ev-name">SPARTAN SUPER</span>
+        <span class="ev-date">May 30, 2026</span>
+      </div>
+      <div class="ha-event-imgs cols-2">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/712112501.JPG' | relative_url }}" alt="Spartan Super — Monkey Bars" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/712143843.JPG' | relative_url }}" alt="Spartan Super — Cargo Net" loading="lazy">
+      </div>
+      <div class="ha-event-body">
+        <div class="ha-venue">📍 Salinas, CA · 10 KM · Open Heat</div>
+        <div class="ha-stat-row">
+          <div class="ha-stat"><div class="sl">Time</div><div class="sv">2:06:42</div></div>
+          <div class="ha-stat"><div class="sl">Category</div><div class="sv">#245/1830</div></div>
+          <div class="ha-stat"><div class="sl">AG 35–39</div><div class="sv">#41/247</div></div>
+          <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 13%</div></div>
+        </div>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/spartan-10k-results.png' | relative_url }}" alt="Spartan Super Results" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+    <!-- Spartan Sprint 5K -->
+    <div class="ha-event-card">
+      <div class="ha-event-header">
+        <span class="ev-name">SPARTAN SPRINT</span>
+        <span class="ev-date">May 31, 2026</span>
+      </div>
+      <div class="ha-event-imgs cols-2">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/715056519.JPG' | relative_url }}" alt="Spartan Sprint — Monkey Bars" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/715084483.JPG' | relative_url }}" alt="Spartan Sprint — Sandbag Carry" loading="lazy">
+      </div>
+      <div class="ha-event-body">
+        <div class="ha-venue">📍 Salinas, CA · 5 KM · Open Heat</div>
+        <div class="ha-stat-row">
+          <div class="ha-stat"><div class="sl">Time</div><div class="sv">2:05:46</div></div>
+          <div class="ha-stat"><div class="sl">Category</div><div class="sv">#1462/2230</div></div>
+          <div class="ha-stat"><div class="sl">AG 35–39</div><div class="sv">#153/240</div></div>
+          <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 66%</div></div>
+        </div>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/spartan-5k-result.png' | relative_url }}" alt="Spartan Sprint Results" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+---
+
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
@@ -593,12 +652,12 @@ permalink: /projects/hybrid_athlete/
 
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> February 2026</div>
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb-1.jpg' | relative_url }}" alt="February 2026 — Front" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/feb/feb-1.jpg' | relative_url }}" alt="February 2026" loading="lazy">
     </div>
 
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> March 2026</div>
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-1.jpg' | relative_url }}" alt="March 2026 — Front" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/march/march-1.jpg' | relative_url }}" alt="March 2026" loading="lazy">
     </div>
 
     <div class="ha-month-col">
