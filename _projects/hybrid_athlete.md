@@ -532,8 +532,8 @@ permalink: /projects/hybrid_athlete/
         <span class="ev-date">May 30, 2026</span>
       </div>
       <div class="ha-event-imgs cols-2">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/712112501.JPG' | relative_url }}" alt="Spartan Super — Monkey Bars" loading="lazy">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/712143843.JPG' | relative_url }}" alt="Spartan Super — Cargo Net" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/712166120.JPG' | relative_url }}" alt="Spartan Super — Barbed Wire Crawl" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/712135565.JPG' | relative_url }}" alt="Spartan Super — Bucket Carry" loading="lazy">
       </div>
       <div class="ha-event-body">
         <div class="ha-venue">📍 Salinas, CA · 10 KM · Open Heat</div>
@@ -556,8 +556,8 @@ permalink: /projects/hybrid_athlete/
         <span class="ev-date">May 31, 2026</span>
       </div>
       <div class="ha-event-imgs cols-2">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/715056519.JPG' | relative_url }}" alt="Spartan Sprint — Monkey Bars" loading="lazy">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/715084483.JPG' | relative_url }}" alt="Spartan Sprint — Sandbag Carry" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/715117436.JPG' | relative_url }}" alt="Spartan Sprint — Rope Pull" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/715111842.JPG' | relative_url }}" alt="Spartan Sprint — Medal" loading="lazy">
       </div>
       <div class="ha-event-body">
         <div class="ha-venue">📍 Salinas, CA · 5 KM · Open Heat</div>
