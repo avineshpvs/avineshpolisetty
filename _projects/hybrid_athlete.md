@@ -425,6 +425,12 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-race-row future">
+      <div><div class="ha-race-date">Oct 3–4</div></div>
+      <div><div class="ha-race-name">Rock 'n' Roll San Jose 10K</div><div class="ha-race-meta">San Jose, CA · 10K Run</div></div>
+      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+    </div>
+
+    <div class="ha-race-row future">
       <div><div class="ha-race-date">Nov 7</div></div>
       <div><div class="ha-race-name">SLO CAL Spartan Beast</div><div class="ha-race-meta">San Luis Obispo, CA · OCF 21km</div></div>
       <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
