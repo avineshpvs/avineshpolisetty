@@ -674,6 +674,14 @@ permalink: /projects/hybrid_athlete/
             <td>78.7</td>
             <td>0.365</td>
           </tr>
+          <tr>
+            <td><strong>Jun 3, 2026</strong></td>
+            <td>161.9</td>
+            <td>13.9%</td>
+            <td style="color:#22c55e;font-weight:700;">↓ 1.0%</td>
+            <td>79.8</td>
+            <td>0.367</td>
+          </tr>
         </tbody>
       </table>
     </div>
