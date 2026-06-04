@@ -688,7 +688,7 @@ permalink: /projects/hybrid_athlete/
 
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> March 2026</div>
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/march.jpg' | relative_url }}" alt="March 2026" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/march.jpeg' | relative_url }}" alt="March 2026" loading="lazy">
     </div>
 
     <div class="ha-month-col">
