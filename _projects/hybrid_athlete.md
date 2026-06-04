@@ -135,8 +135,8 @@ permalink: /projects/hybrid_athlete/
 .ha-month-col img {
   width: 100%;
   height: 700px;
-  object-fit: contain;
-  background: var(--global-bg-color, #f8f9fa);
+  object-fit: cover;
+  object-position: top center;
   border-radius: 8px;
   border: 1px solid var(--global-divider-color, #ddd);
   display: block;
