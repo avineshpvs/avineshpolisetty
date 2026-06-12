@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-06-12'
 papers:
   F4u28JcAAAAJ:0EnyYjriUFMC:
-    citations: 37
+    citations: 38
     title: Description of the system developed by team athene in the fnc-1
     year: '2017'
   F4u28JcAAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 11
     title: A data mining approach to learn reorder rules for SMT
     year: '2010'
   F4u28JcAAAAJ:3fE2CSJIrl8C:
-    citations: 8
+    citations: 9
     title: Terms for query expansion using unstructured data
     year: '2019'
   F4u28JcAAAAJ:4DMP91E08xMC:
-    citations: 16
+    citations: 17
     title: 'J3R: Joint multi-task learning of ratings and review summaries for explainable recommendation'
     year: '2019'
   F4u28JcAAAAJ:4TOpqqG69KYC:
@@ -34,7 +34,7 @@ papers:
     title: Transfer Grammar Engine and Automatic Learning of Reorder Rules in Machine Translation
     year: '2011'
   F4u28JcAAAAJ:KlAtU1dfN6UC:
-    citations: 13
+    citations: 17
     title: Answering natural language table queries through semantic table representation
     year: '2019'
   F4u28JcAAAAJ:L8Ckcad2t8MC:
@@ -42,11 +42,11 @@ papers:
     title: Comparative study of various machine learning methods for telugu part of speech tagging
     year: '2006'
   F4u28JcAAAAJ:M3ejUd6NZC8C:
-    citations: 6
+    citations: 7
     title: Comparative study of various Machine Learning methods For Telugu Part of Speech tagging
     year: '2006'
   F4u28JcAAAAJ:MXK_kJrjxJIC:
-    citations: 368
+    citations: 371
     title: A retrospective analysis of the fake news challenge stance-detection task
     year: '2018'
   F4u28JcAAAAJ:QIV2ME_5wuYC:
@@ -78,7 +78,7 @@ papers:
     title: Information Preparation with the Human in the Loop
     year: '2020'
   F4u28JcAAAAJ:Y0pCki6q_DkC:
-    citations: 71
+    citations: 73
     title: 'Gap-fill Tests for Language Learners: Corpus-Driven Item Generation'
     year: '2010'
   F4u28JcAAAAJ:_FxGoFyzp5QC:
@@ -134,11 +134,11 @@ papers:
     title: Comparable Corpora BootCaT
     year: '2011'
   F4u28JcAAAAJ:u-x6o8ySG0sC:
-    citations: 163
+    citations: 165
     title: A Corpus Factory for Many Languages.
     year: '2010'
   F4u28JcAAAAJ:u5HHmVD_uO8C:
-    citations: 164
+    citations: 167
     title: Part-of-speech tagging and chunking using conditional random fields and transformation based learning
     year: '2007'
   F4u28JcAAAAJ:ufrVoPGSRksC:
