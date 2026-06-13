@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Transformation: Skinny -> Bulky -> Ripped"
+title: "Skinny to Ripped"
 date: 2014-06-29 05:52:22
 description: My fitness journey from skinny to bulky to ripped — the real story, the training plan, the diet, and what actually works.
 thumbnail: /assets/img/blog/six_pack_1.png

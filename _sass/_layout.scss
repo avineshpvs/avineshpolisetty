@@ -5,7 +5,7 @@
 @use "variables" as v;
 
 html {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 body {
@@ -60,3 +60,27 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+.projects {
+  .card-img-top {
+    height: 150px;
+    object-fit: cover;
+  }
+
+  .card-body {
+    padding: 0.75rem 1rem;
+
+    .card-title {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin-bottom: 0.3rem;
+    }
+
+    .card-text {
+      font-size: 0.9375rem;
+      line-height: 1.4;
+      color: var(--global-text-color-light);
+      margin-bottom: 0.5rem;
+    }
+  }
+}

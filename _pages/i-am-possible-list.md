@@ -128,11 +128,20 @@ html[data-theme="dark"] {
 .bl-achievement-imgs .bl-achievement-img {
   order: unset;
 }
+.bl-achievement-img--wide {
+  flex: 0 0 280px;
+  aspect-ratio: 12 / 5;
+}
 .bl-achievement-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
+}
+.bl-achievement-img--wide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 .bl-achievement-num {
   display: inline-flex;
@@ -563,13 +572,33 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
-      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2026-deka-strong-1.jpg" alt="Deka Strong 2026" data-zoom-src="/assets/img/bucket_list/2026-deka-strong-1.jpg"></div>
-      <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2026-deka-strong-2.jpg" alt="Deka Strong Certificate 2026" data-zoom-src="/assets/img/bucket_list/2026-deka-strong-2.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/712166120.JPG" alt="Spartan Super 10k 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/712166120.JPG"></div>
+      <div class="bl-achievement-img bl-achievement-img--wide"><img src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/spartan-10k-result.png" alt="Spartan Super Results" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/spartan-10k-result.png"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/spartan sprint 5k - may 2026/715134866.JPG" alt="Spartan Sprint 5k 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan sprint 5k - may 2026/715134866.JPG"></div>
+      <div class="bl-achievement-img bl-achievement-img--wide"><img src="/assets/img/blog/projects/hybrid_athelete/spartan sprint 5k - may 2026/spartan-5k-results.png" alt="Spartan Sprint Results" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan sprint 5k - may 2026/spartan-5k-results.png"></div>
+    </div>
+    <div class="bl-achievement-body">
+      <div class="bl-achievement-num">48</div>
+      <h3 class="bl-achievement-title">Spartan Trifecta</h3>
+      <p class="bl-achievement-meta">2026 — Spartan Super 10k, 2:06:42</p>
+      <p class="bl-achievement-meta">2026 — Spartan Sprint 5k, 2:05:46</p>
+    </div>
+  </div>
+  <div class="bl-achievement-card done">
+    <div class="bl-achievement-imgs">
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka-strong/5999757466242244668.JPG" alt="Deka Strong 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka-strong/5999757466242244668.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka-strong/DEKA-strong-cert.png" alt="Deka Strong Certificate" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka-strong/DEKA-strong-cert.png"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka_fit/681459976.JPG" alt="Deka Fit 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka_fit/681459976.JPG"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka_fit/DEKA-fit-cert.png" alt="Deka Fit Certificate" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka_fit/DEKA-fit-cert.png"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile.jpg" alt="Deka Mile 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile-cert.png" alt="Deka Mile Certificate" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile-cert.png"></div>
     </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">49</div>
       <h3 class="bl-achievement-title">Deka Trifecta</h3>
       <p class="bl-achievement-meta">2026 — Deka Strong, 25:30</p>
+      <p class="bl-achievement-meta">2026 — Deka Fit, 56:41</p>
+      <p class="bl-achievement-meta">2026 — Deka Mile, 31:16</p>
     </div>
   </div>
   <div class="bl-achievement-card done">

@@ -128,13 +128,13 @@ permalink: /projects/hybrid_athlete/
 .ha-dot { width: 9px; height: 9px; border-radius: 50%; background: #e63946; display: inline-block; flex-shrink: 0; }
 .ha-months-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
 .ha-month-col { display: flex; flex-direction: column; gap: 0.5rem; }
 .ha-month-col img {
   width: 100%;
-  height: 700px;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
   object-position: top center;
   border-radius: 8px;
@@ -309,7 +309,7 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-tl-content">
       <div class="ha-tl-year">Childhood</div>
       <div class="ha-tl-label">Born to Run</div>
-      <div class="ha-tl-text">I have been a runner for as long as I can remember. At six years old, my father had my brother and me lacing up our shoes every morning for a 3km run before school — no exceptions, no excuses. It was just what we did. That daily ritual became the foundation of everything. Through school and university I competed in 800m and 1500m track races, collecting medals and a love for movement that felt as natural as breathing.</div>
+      <div class="ha-tl-text">I have been a runner for as long as I can remember. At eight years old, my father had my brother and me lacing up our shoes every morning for a 3km run before school — no exceptions, no excuses. It was just what we did. That daily ritual became the foundation of everything. Through school and university I competed in 800m and 1500m track races, collecting medals and a love for movement that felt as natural as breathing.</div>
     </div>
   </div>
 
@@ -544,7 +544,7 @@ permalink: /projects/hybrid_athlete/
           <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 13%</div></div>
         </div>
         <div class="ha-cert">
-          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/spartan-10k-results.png' | relative_url }}" alt="Spartan Super Results" loading="lazy">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20super%2010k%20-%20may%202026/spartan-10k-result.png' | relative_url }}" alt="Spartan Super Results" loading="lazy">
         </div>
       </div>
     </div>
@@ -568,7 +568,7 @@ permalink: /projects/hybrid_athlete/
           <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 66%</div></div>
         </div>
         <div class="ha-cert">
-          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/spartan-5k-result.png' | relative_url }}" alt="Spartan Sprint Results" loading="lazy">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan%20sprint%205k%20-%20may%202026/spartan-5k-results.png' | relative_url }}" alt="Spartan Sprint Results" loading="lazy">
         </div>
       </div>
     </div>
