@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-15'
 papers:
   F4u28JcAAAAJ:0EnyYjriUFMC:
     citations: 38
@@ -134,11 +134,11 @@ papers:
     title: Comparable Corpora BootCaT
     year: '2011'
   F4u28JcAAAAJ:u-x6o8ySG0sC:
-    citations: 165
+    citations: 166
     title: A Corpus Factory for Many Languages.
     year: '2010'
   F4u28JcAAAAJ:u5HHmVD_uO8C:
-    citations: 167
+    citations: 168
     title: Part-of-speech tagging and chunking using conditional random fields and transformation based learning
     year: '2007'
   F4u28JcAAAAJ:ufrVoPGSRksC:
