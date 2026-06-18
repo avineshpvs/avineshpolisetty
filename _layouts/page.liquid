@@ -29,7 +29,7 @@ layout: default
     {% include giscus.liquid %}
   {% endif %}
 
-  {% if site.graphcomment.website_id %}
+  {% if site.graphcomment.website_id and page.comments != false %}
     {% include graphcomment.liquid %}
   {% endif %}
 </div>

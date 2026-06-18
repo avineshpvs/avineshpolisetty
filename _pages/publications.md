@@ -5,6 +5,7 @@ title: Publications
 description: Avinesh Polisetty's publications in NLP, ML, MT, and Summarization.
 nav: true
 nav_order: 2
+comments: false
 ---
 
 <!-- _pages/publications.md -->
