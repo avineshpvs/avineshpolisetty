@@ -170,6 +170,26 @@ permalink: /projects/hybrid_athlete/
   color: var(--global-text-color, #333);
   margin-bottom: 1.2rem;
 }
+.ha-method-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #e63946;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.75rem;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+}
+.ha-method-badge .ha-method-name {
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  font-weight: 800;
+}
 .ha-week-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
@@ -713,6 +733,9 @@ permalink: /projects/hybrid_athlete/
 <div class="ha-section">
   <h2>🏋️ Training Plan</h2>
 
+  <div class="ha-method-badge">
+    Method &rarr; <span class="ha-method-name">Nick Bare's Hybrid Athlete Program</span>
+  </div>
   <div class="ha-philosophy">
     <span>Nick Bare — Hybrid Athlete</span>
     <em>"Do the work. Trust the process. Become uncommon amongst uncommon people."</em>
@@ -744,10 +767,8 @@ permalink: /projects/hybrid_athlete/
           <li>Tricep Pushdowns: 1 warm-up + 1×10–12 to failure</li>
           <li>Box Jumps 3×5 — DEKA explosive power</li>
         </ul>
-        <div class="pm-block">
-          <div class="focus">PM — Run 25–30 min</div>
-          <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
-        </div>
+        <div class="focus">AM — Run 25–30 min</div>
+        <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
       </div>
     </div>
 
@@ -781,10 +802,8 @@ permalink: /projects/hybrid_athlete/
           <li>Hanging Leg Raises 1×15</li>
           <li>Bike 30 min Zone 2</li>
         </ul>
-        <div class="pm-block">
-          <div class="focus">PM — Run 25–30 min</div>
-          <ul><li>Zone 2 easy run</li><li>Conversational pace</li></ul>
-        </div>
+        <div class="focus">AM — Bike 25–30 min</div>
+        <ul><li>Zone 2 easy ride</li><li>Conversational pace</li></ul>
       </div>
     </div>
 
@@ -798,10 +817,6 @@ permalink: /projects/hybrid_athlete/
           <li>Pull buoy 200m for stroke focus</li>
           <li>Cool-down 100m easy</li>
         </ul>
-        <div class="pm-block">
-          <div class="focus">PM — Bike 45–60 min</div>
-          <ul><li>3×15 min at hard effort (Zone 3–4)</li><li>5 min easy between intervals</li></ul>
-        </div>
       </div>
     </div>
 
@@ -815,10 +830,8 @@ permalink: /projects/hybrid_athlete/
           <li>EZ Bar Curl: 1 warm-up + 1×6–8 to failure</li>
           <li>Farmer's Carry 3×40m — DEKA grip + traps</li>
         </ul>
-        <div class="pm-block">
-          <div class="focus">PM — Short Bike or Rest</div>
-          <ul><li>20–30 min flush ride or rest</li></ul>
-        </div>
+        <div class="focus">AM — Bike 20–30 min</div>
+        <ul><li>Flush ride</li></ul>
       </div>
     </div>
 
