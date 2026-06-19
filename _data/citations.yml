@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-19'
 papers:
   F4u28JcAAAAJ:0EnyYjriUFMC:
     citations: 38
@@ -14,7 +14,7 @@ papers:
     title: Terms for query expansion using unstructured data
     year: '2019'
   F4u28JcAAAAJ:4DMP91E08xMC:
-    citations: 17
+    citations: 18
     title: 'J3R: Joint multi-task learning of ratings and review summaries for explainable recommendation'
     year: '2019'
   F4u28JcAAAAJ:4TOpqqG69KYC:
