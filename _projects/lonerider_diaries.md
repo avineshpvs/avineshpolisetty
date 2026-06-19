@@ -11,8 +11,6 @@ A journey across India meeting new people and understanding different cultures. 
 
 2015 — An unplanned bike trip across 4 states.
 
-**Technologies:** Adventure, Solo Travel
-
 ### Blog Posts
 
 {% assign lonerider_posts = site.posts | where_exp: "post", "post.tags contains 'lonerider'" | sort: "date" %}
