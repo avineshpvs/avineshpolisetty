@@ -15,3 +15,20 @@ node_modules/
 vendor
 # Added by code-review-graph
 .code-review-graph/
+
+# AI editor/agent tooling
+.claude/
+.cursor/
+.cursorrules
+.gemini/
+.impeccable/
+.kiro/
+.qoder/
+.vscode/
+.windsurfrules
+.mcp.json
+.opencode.json
+.github/skills/
+.github/code-review-graph.instruction.md
+GEMINI.md
+QODER.md
