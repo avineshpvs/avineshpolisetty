@@ -81,6 +81,9 @@ permalink: /projects/hybrid_athlete/
 .ha-event-imgs.cols-2 { grid-template-columns: 1fr 1fr; }
 .ha-event-imgs.cols-3 { grid-template-columns: 1fr 1fr 1fr; }
 .ha-event-imgs img { width: 100%; height: 220px; object-fit: cover; object-position: top center; border-radius: 6px; display: block; }
+/* photos pre-cropped 3:2 around the subject; 40% biases the trim downward so heads
+   survive the wide single-column card on mobile */
+.ha-event-imgs.centered img { object-position: center 40%; }
 .ha-event-body { padding: 0.85rem 1rem; }
 .ha-venue { font-size: 0.78rem; color: var(--global-text-color-light, #666); margin-bottom: 0.55rem; }
 .ha-stat-row { display: flex; gap: 0.7rem; flex-wrap: wrap; }
@@ -408,16 +411,22 @@ permalink: /projects/hybrid_athlete/
       <div style="text-align:right"><div class="ha-race-result">2:05:46 ✓</div></div>
     </div>
 
-    <div class="ha-race-row future">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">Jul 11</div></div>
-      <div><div class="ha-race-name">Stars and Strides 10K + Rafa Kids Fun Run</div><div class="ha-race-meta">10K Run · with Rafa</div></div>
-      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+      <div><div class="ha-race-name">Stars and Strides 10K + Rafa Kids Fun Run</div><div class="ha-race-meta">San Jose, CA · 10K Run · with Rafa</div></div>
+      <div style="text-align:right"><div class="ha-race-result">49:42 ✓</div></div>
     </div>
 
-    <div class="ha-race-row future">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">Jul 12</div></div>
-      <div><div class="ha-race-name">Deka Strong</div><div class="ha-race-meta">DEKA</div></div>
-      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+      <div><div class="ha-race-name">Deka Strong</div><div class="ha-race-meta">APX Velocity · San Jose, CA · DEKA</div></div>
+      <div style="text-align:right"><div class="ha-race-result">20:00 ✓ PR</div></div>
+    </div>
+
+    <div class="ha-race-row done">
+      <div><div class="ha-race-date">Jul 26</div></div>
+      <div><div class="ha-race-name">Donner Lake Swim — 1.2 Mile</div><div class="ha-race-meta">Truckee, CA · Open Water Wetsuit</div></div>
+      <div style="text-align:right"><div class="ha-race-result">48:07 🥉</div></div>
     </div>
 
     <div class="ha-race-row future">
@@ -480,8 +489,7 @@ permalink: /projects/hybrid_athlete/
         <div class="ha-venue">📍 Academy of Self Defense — San Jose, CA</div>
         <div class="ha-stat-row">
           <div class="ha-stat"><div class="sl">Time</div><div class="sv">25:30</div></div>
-          <div class="ha-stat"><div class="sl">Global Rank</div><div class="sv">#381</div></div>
-          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#796</div></div>
+          <div class="ha-stat"><div class="sl">Since improved to</div><div class="sv">20:00</div></div>
         </div>
         <div class="ha-cert">
           <img src="{{ '/assets/img/blog/projects/hybrid_athelete/deka-strong/DEKA-strong-cert.png' | relative_url }}" alt="Deka Strong Certificate" loading="lazy">
@@ -503,8 +511,7 @@ permalink: /projects/hybrid_athlete/
         <div class="ha-venue">📍 NorCal DEKA FIT — Sacramento, CA</div>
         <div class="ha-stat-row">
           <div class="ha-stat"><div class="sl">Time</div><div class="sv">56:41</div></div>
-          <div class="ha-stat"><div class="sl">Global Rank</div><div class="sv">#223</div></div>
-          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#893</div></div>
+          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#1071</div></div>
         </div>
         <div class="ha-cert">
           <img src="{{ '/assets/img/blog/projects/hybrid_athelete/deka_fit/DEKA-fit-cert.png' | relative_url }}" alt="Deka Fit Certificate" loading="lazy">
@@ -525,8 +532,7 @@ permalink: /projects/hybrid_athlete/
         <div class="ha-venue">📍 APX Velocity — San Jose, CA</div>
         <div class="ha-stat-row">
           <div class="ha-stat"><div class="sl">Time</div><div class="sv">31:16</div></div>
-          <div class="ha-stat"><div class="sl">Global Rank</div><div class="sv">#191</div></div>
-          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#426</div></div>
+          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#582</div></div>
         </div>
         <div class="ha-cert">
           <img src="{{ '/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile-cert.png' | relative_url }}" alt="Deka Mile Certificate" loading="lazy">
@@ -598,35 +604,125 @@ permalink: /projects/hybrid_athlete/
 
 ---
 
+<!-- ── JULY 2026 BLOCK ── -->
+<div class="ha-section">
+  <h2>🔥 July 2026 — Run · Strength · Swim <span class="ha-badge">Completed</span></h2>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">
+    Three races in sixteen days, one from each pillar — a 10K road race, a DEKA Strong PR, and a 1.2-mile open water swim. The clearest read yet on whether training all three at once actually works.
+  </p>
+
+  <div class="ha-events-grid">
+
+    <!-- Stars and Strides 10K -->
+    <div class="ha-event-card">
+      <div class="ha-event-header">
+        <span class="ev-name">STARS &amp; STRIDES 10K</span>
+        <span class="ev-date">Jul 11, 2026</span>
+      </div>
+      <div class="ha-event-imgs centered">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/stars-and-strides-10k/stars-and-strides-10k.jpg' | relative_url }}" alt="Stars and Strides 10K 2026" loading="lazy">
+      </div>
+      <div class="ha-event-body">
+        <div class="ha-venue">📍 San Jose, CA · 10 KM Road · Bib #3461</div>
+        <div class="ha-stat-row">
+          <div class="ha-stat"><div class="sl">Chip Time</div><div class="sv">49:42</div></div>
+          <div class="ha-stat"><div class="sl">Overall</div><div class="sv">#97/731</div></div>
+          <div class="ha-stat"><div class="sl">Male</div><div class="sv">#77/415</div></div>
+          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#8/41</div></div>
+        </div>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/stars-and-strides-10k/stars-and-strides-result.png' | relative_url }}" alt="Stars and Strides 10K Results" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+    <!-- Deka Strong July -->
+    <div class="ha-event-card">
+      <div class="ha-event-header">
+        <span class="ev-name">DEKA STRONG</span>
+        <span class="ev-date">Jul 12, 2026</span>
+      </div>
+      <div class="ha-event-imgs centered">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/deka-strong-july/deka-strong-july-finish.jpg' | relative_url }}" alt="Deka Strong July 2026 — finish" loading="lazy">
+      </div>
+      <div class="ha-event-body">
+        <div class="ha-venue">📍 APX Velocity — San Jose, CA · Age Group Heat</div>
+        <div class="ha-stat-row">
+          <div class="ha-stat"><div class="sl">DEKA Mark</div><div class="sv">20:00</div></div>
+          <div class="ha-stat"><div class="sl">Previous</div><div class="sv">25:30</div></div>
+          <div class="ha-stat"><div class="sl">Improvement</div><div class="sv">−5:30</div></div>
+          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#569</div></div>
+        </div>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/deka-strong-july/DEKA-strong-july-cert.png' | relative_url }}" alt="Deka Strong July Certificate" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+    <!-- Donner Lake Swim -->
+    <div class="ha-event-card">
+      <div class="ha-event-header">
+        <span class="ev-name">DONNER LAKE SWIM</span>
+        <span class="ev-date">Jul 26, 2026</span>
+      </div>
+      <div class="ha-event-imgs centered">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-swim.jpg' | relative_url }}" alt="Donner Lake Swim 2026 — swim exit" loading="lazy">
+      </div>
+      <div class="ha-event-body">
+        <div class="ha-venue">📍 Donner Lake, Truckee, CA · 1.2 Mile Wetsuit · Bib #568</div>
+        <div class="ha-stat-row">
+          <div class="ha-stat"><div class="sl">Time</div><div class="sv">48:07</div></div>
+          <div class="ha-stat"><div class="sl">Overall</div><div class="sv">#22</div></div>
+          <div class="ha-stat"><div class="sl">AG M30–39</div><div class="sv">🥉 3rd</div></div>
+        </div>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-results.jpg' | relative_url }}" alt="Donner Lake Swim Results Board" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="ha-note-box">
+    <strong>Two things worth noting.</strong> DEKA Strong dropped from 25:30 in March to <strong>20:00</strong> in July — the same ten zones, five and a half minutes faster, and the clearest evidence yet that the Blood and Guts strength block is transferring to race day.
+    And Donner Lake was the first open water podium: <strong>3rd in M30–39</strong> over 1.2 miles (≈1.93 km) in 48:07 — almost exactly the distance and the target time of the Santa Cruz 70.3 swim relay in September. The goal is now to hold that pace in salt water, in a pack.
+  </div>
+</div>
+
+---
+
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
-  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Male 35–39 · Open Heat · as of May 2026</p>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Male 35–39 · as of July 2026</p>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">DEKA — Global Atlas</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">DEKA — Global Leaderboard · Villa Sport</p>
   <div class="ha-rank-grid" style="margin-bottom:1.5rem;">
     <div class="ha-rank-card">
       <div class="rk-type">Deka Strong</div>
-      <div class="rk-num">#381</div>
-      <div class="rk-lbl">Global</div>
-      <div class="rk-time">25:30</div>
-      <div class="rk-ag">AG M35–39 · #796 Gender</div>
-    </div>
-    <div class="ha-rank-card">
-      <div class="rk-type">Deka Fit</div>
-      <div class="rk-num">#223</div>
-      <div class="rk-lbl">Global</div>
-      <div class="rk-time">56:41</div>
-      <div class="rk-ag">AG M35–39 · #893 Gender</div>
+      <div class="rk-num">#569</div>
+      <div class="rk-lbl">Age Group M35–39</div>
+      <div class="rk-time">20:00</div>
+      <div class="rk-ag">Overall #4039 · Male #2573</div>
     </div>
     <div class="ha-rank-card">
       <div class="rk-type">Deka Mile</div>
-      <div class="rk-num">#191</div>
-      <div class="rk-lbl">Global</div>
+      <div class="rk-num">#582</div>
+      <div class="rk-lbl">Age Group M35–39</div>
       <div class="rk-time">31:16</div>
-      <div class="rk-ag">AG M35–39 · #426 Gender</div>
+      <div class="rk-ag">Overall #4233 · Male #2650</div>
+    </div>
+    <div class="ha-rank-card">
+      <div class="rk-type">Deka Fit</div>
+      <div class="rk-num">#1071</div>
+      <div class="rk-lbl">Age Group M35–39</div>
+      <div class="rk-time">56:41</div>
+      <div class="rk-ag">Overall #6254 · Male #4182</div>
     </div>
   </div>
+  <p style="font-size:0.75rem;color:var(--global-text-color-light,#888);margin:-0.9rem 0 1.5rem;">
+    Best-time standings on the Global DEKA individuals leaderboard. Deka Strong reflects the 20:00 mark set on Jul 12, 2026.
+  </p>
 
   <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">Spartan — Salinas, CA · May 2026</p>
   <div class="ha-rank-grid">
@@ -643,6 +739,24 @@ permalink: /projects/hybrid_athlete/
       <div class="rk-lbl">Category / 2230</div>
       <div class="rk-time">2:05:46</div>
       <div class="rk-ag">AG M35–39 #153/240 · Top 66%</div>
+    </div>
+  </div>
+
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">Road &amp; Open Water — July 2026</p>
+  <div class="ha-rank-grid">
+    <div class="ha-rank-card">
+      <div class="rk-type">Stars &amp; Strides 10K</div>
+      <div class="rk-num">#97</div>
+      <div class="rk-lbl">Overall / 731</div>
+      <div class="rk-time">49:42</div>
+      <div class="rk-ag">AG M35–39 #8/41 · Top 20%</div>
+    </div>
+    <div class="ha-rank-card">
+      <div class="rk-type">Donner Lake 1.2 Mile</div>
+      <div class="rk-num">#22</div>
+      <div class="rk-lbl">Overall</div>
+      <div class="rk-time">48:07</div>
+      <div class="rk-ag">🥉 3rd · AG M30–39</div>
     </div>
   </div>
 
