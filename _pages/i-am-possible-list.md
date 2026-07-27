@@ -66,7 +66,7 @@ html[data-theme="dark"] {
 .bl-hero-count span { color: #059669 !important; }
 .bl-hero-label { font-size: 0.55rem; opacity: 0.8; margin: 0.1rem 0 0 0; color: #ffffff !important; }
 .bl-progress-bar { height: 3px; background: rgba(255,255,255,0.15); border-radius: 100px; margin: 0.35rem auto 0; max-width: 100px; }
-.bl-progress-fill { height: 100%; width: 23%; background: linear-gradient(90deg, var(--bl-primary), var(--bl-primary-light)); border-radius: 100px; } /* 25/111 ≈ 23% */
+.bl-progress-fill { height: 100%; width: 23%; background: linear-gradient(90deg, var(--bl-primary), var(--bl-primary-light)); border-radius: 100px; } /* 26/112 ≈ 23% */
 
 /* Intro */
 .bl-intro { color: var(--bl-gray); font-size: 0.85rem; line-height: 1.7; margin-bottom: 1.5rem; }
@@ -179,6 +179,16 @@ html[data-theme="dark"] {
   display: inline-block;
 }
 .bl-achievement-link:hover { text-decoration: underline; }
+
+/* In-progress achievement card: has evidence to show but isn't complete yet,
+   so the badge and title follow the pending .bl-item styling, not the green. */
+.bl-achievement-card:not(.done) .bl-achievement-num {
+  background: var(--bl-light);
+  color: var(--bl-pending);
+}
+.bl-achievement-card:not(.done) .bl-achievement-title {
+  color: var(--bl-dark);
+}
 
 /* Video Card (text left, video right) */
 .bl-video-card {
@@ -304,7 +314,7 @@ html[data-theme="dark"] {
 <!-- Hero -->
 <div class="bl-hero">
   <p class="bl-hero-title">Life Goals Progress</p>
-  <p class="bl-hero-count"><span>25</span> / 111</p>
+  <p class="bl-hero-count"><span>26</span> / 112</p>
   <p class="bl-hero-label">Adventures Completed</p>
   <div class="bl-progress-bar"><div class="bl-progress-fill"></div></div>
 </div>
@@ -568,9 +578,8 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-items">
     <div class="bl-item"><div class="bl-item-num">47</div><div class="bl-item-content">Run a Marathon</div></div>
-    <div class="bl-item"><div class="bl-item-num">48</div><div class="bl-item-content">Spartan Trifecta</div></div>
   </div>
-  <div class="bl-achievement-card done">
+  <div class="bl-achievement-card">
     <div class="bl-achievement-imgs">
       <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/712166120.JPG" alt="Spartan Super 10k 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/712166120.JPG"></div>
       <div class="bl-achievement-img bl-achievement-img--wide"><img src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/spartan-10k-result.png" alt="Spartan Super Results" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan super 10k - may 2026/spartan-10k-result.png"></div>
@@ -578,10 +587,11 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img bl-achievement-img--wide"><img src="/assets/img/blog/projects/hybrid_athelete/spartan sprint 5k - may 2026/spartan-5k-results.png" alt="Spartan Sprint Results" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/spartan sprint 5k - may 2026/spartan-5k-results.png"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">49</div>
+      <div class="bl-achievement-num">48</div>
       <h3 class="bl-achievement-title">Spartan Trifecta</h3>
-      <p class="bl-achievement-meta">2026 — Spartan Super 10k, 2:06:42</p>
-      <p class="bl-achievement-meta">2026 — Spartan Sprint 5k, 2:05:46</p>
+      <p class="bl-achievement-meta"><span style="color: var(--bl-done)">✓</span> 2026 — Spartan Super 10k, 2:06:42</p>
+      <p class="bl-achievement-meta"><span style="color: var(--bl-done)">✓</span> 2026 — Spartan Sprint 5k, 2:05:46</p>
+      <p class="bl-achievement-meta">2026 — SLO CAL Spartan Beast 21k · Nov 7</p>
     </div>
   </div>
   <div class="bl-achievement-card done">
@@ -596,7 +606,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile-cert.png" alt="Deka Mile Certificate" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/deka-mile/deka-mile-cert.png"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">50</div>
+      <div class="bl-achievement-num">49</div>
       <h3 class="bl-achievement-title">Deka Trifecta</h3>
       <p class="bl-achievement-meta">2026 — Deka Strong (Jul 12), 20:00</p>
       <p class="bl-achievement-meta">2026 — Deka Strong (Mar 15), 25:30</p>
@@ -613,7 +623,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg" alt="Santa Cruz Triathlon Timing 2022" data-zoom-src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">51</div>
+      <div class="bl-achievement-num">50</div>
       <h3 class="bl-achievement-title">Run a Triathlon</h3>
       <p class="bl-achievement-meta">2014 — Hyderabad, India (Olympic, 4:15:07)</p>
       <p class="bl-achievement-meta">2017 — Darmstadt, Germany (Sprint, 1:49:27)</p>
@@ -621,7 +631,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     </div>
   </div>
   <div class="bl-items">
-  <div class="bl-item"><div class="bl-item-num">52</div><div class="bl-item-content">Run an Ironman</div></div>
+  <div class="bl-item"><div class="bl-item-num">51</div><div class="bl-item-content">Run an Ironman</div></div>
   </div>
 
   <div class="bl-achievement-card done">
@@ -634,7 +644,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-results.jpg" alt="Donner Lake Swim Timing 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-results.jpg"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">53</div>
+      <div class="bl-achievement-num">52</div>
       <h3 class="bl-achievement-title">Lake Swim</h3>
       <p class="bl-achievement-meta">2022 — Donner Lake, California (1.2 miles, 49:45)</p>
       <p class="bl-achievement-meta">2026 — Donner Lake, California (1.2 miles, 48:07 · 3rd in M30–39)</p>
@@ -645,14 +655,14 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2015_six_pack_1.jpg" alt="Six Pack" data-zoom-src="/assets/img/bucket_list/2015_six_pack_1.jpg"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">54</div>
+      <div class="bl-achievement-num">53</div>
       <h3 class="bl-achievement-title">Six pack abs</h3>
       <p class="bl-achievement-meta"><a href="/projects/six_pack_1/">2015 — Attempt 1</a></p>
       <p class="bl-achievement-meta"><a href="/projects/hybrid_athlete/">2026 — Attempt 2</a></p>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">55</div><div class="bl-item-content">Learn BJJ — Get a medal in competition</div></div>
+    <div class="bl-item"><div class="bl-item-num">54</div><div class="bl-item-content">Learn BJJ — Get a medal in competition</div></div>
   </div>
 </div>
 
@@ -663,7 +673,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Attend Sports Events</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">56</div><div class="bl-item-content">Cricket Match at Lord's</div></div>
+    <div class="bl-item"><div class="bl-item-num">55</div><div class="bl-item-content">Cricket Match at Lord's</div></div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
@@ -675,28 +685,28 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2018_australian_open_3.jpg" alt="Australian Open Quarters - 2018" data-zoom-src="/assets/img/bucket_list/2018_australian_open_3.jpg"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">57</div>
+      <div class="bl-achievement-num">56</div>
       <h3 class="bl-achievement-title">Tennis Grand Slam</h3>
       <p class="bl-achievement-meta">2021 — French Open Finals</p>
       <p class="bl-achievement-meta">2018 — Australian Open Quarters</p>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">58</div><div class="bl-item-content">Attend Football World Cup</div></div>
+    <div class="bl-item"><div class="bl-item-num">57</div><div class="bl-item-content">Attend Football World Cup</div></div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/cricket_worldcup_2019.JPG" alt="Cricket WorldCup 2019 IND vs NZ" data-zoom-src="/assets/img/bucket_list/cricket_worldcup_2019.JPG"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">59</div>
+      <div class="bl-achievement-num">58</div>
       <h3 class="bl-achievement-title">Cricket World Cup</h3>
       <p class="bl-achievement-meta">2019 — IND vs NZ, Old Trafford</p>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">60</div><div class="bl-item-content">Attend Olympics</div></div>
-    <div class="bl-item"><div class="bl-item-num">61</div><div class="bl-item-content">Attend Super Bowl</div></div>
+    <div class="bl-item"><div class="bl-item-num">59</div><div class="bl-item-content">Attend Olympics</div></div>
+    <div class="bl-item"><div class="bl-item-num">60</div><div class="bl-item-content">Attend Super Bowl</div></div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-imgs">
@@ -704,7 +714,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/ashes_test_match_2017_2.JPG" alt="Ashes Test Match 2017" data-zoom-src="/assets/img/bucket_list/ashes_test_match_2017_2.JPG"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">62</div>
+      <div class="bl-achievement-num">61</div>
       <h3 class="bl-achievement-title">Ashes Test match</h3>
       <p class="bl-achievement-meta">2017 — The Ashes, Australia</p>
     </div>
@@ -718,12 +728,12 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Learn — Skills</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">63</div><div class="bl-item-content">Learn Salsa dancing</div></div>
-    <div class="bl-item"><div class="bl-item-num">64</div><div class="bl-item-content">Learn a music instrument and perform</div></div>
-    <div class="bl-item"><div class="bl-item-num">65</div><div class="bl-item-content">Learn to Juggle</div></div>
-    <div class="bl-item"><div class="bl-item-num">66</div><div class="bl-item-content">Solve Rubik's Cube</div></div>
-    <div class="bl-item"><div class="bl-item-num">67</div><div class="bl-item-content">Learn to cook an exquisite meal</div></div>
-    <div class="bl-item"><div class="bl-item-num">68</div><div class="bl-item-content">Master chess (2000 rating)</div></div>
+    <div class="bl-item"><div class="bl-item-num">62</div><div class="bl-item-content">Learn Salsa dancing</div></div>
+    <div class="bl-item"><div class="bl-item-num">63</div><div class="bl-item-content">Learn a music instrument and perform</div></div>
+    <div class="bl-item"><div class="bl-item-num">64</div><div class="bl-item-content">Learn to Juggle</div></div>
+    <div class="bl-item"><div class="bl-item-num">65</div><div class="bl-item-content">Solve Rubik's Cube</div></div>
+    <div class="bl-item"><div class="bl-item-num">66</div><div class="bl-item-content">Learn to cook an exquisite meal</div></div>
+    <div class="bl-item"><div class="bl-item-num">67</div><div class="bl-item-content">Master chess (2000 rating)</div></div>
   </div>
 </div>
 
@@ -735,25 +745,25 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">69</div>
+      <div class="bl-achievement-num">68</div>
       <h3 class="bl-achievement-title">English</h3>
     </div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">70</div>
+      <div class="bl-achievement-num">69</div>
       <h3 class="bl-achievement-title">Hindi</h3>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">71</div><div class="bl-item-content">Spanish</div></div>
-    <div class="bl-item"><div class="bl-item-num">72</div><div class="bl-item-content">Mandarin</div></div>
-    <div class="bl-item"><div class="bl-item-num">73</div><div class="bl-item-content">Arabic</div></div>
-    <div class="bl-item"><div class="bl-item-num">74</div><div class="bl-item-content">Sign Language</div></div>
+    <div class="bl-item"><div class="bl-item-num">70</div><div class="bl-item-content">Spanish</div></div>
+    <div class="bl-item"><div class="bl-item-num">71</div><div class="bl-item-content">Mandarin</div></div>
+    <div class="bl-item"><div class="bl-item-num">72</div><div class="bl-item-content">Arabic</div></div>
+    <div class="bl-item"><div class="bl-item-num">73</div><div class="bl-item-content">Sign Language</div></div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">75</div><div class="bl-item-content">Telugu (Mother tongue)</div></div>
-    <div class="bl-item"><div class="bl-item-num">76</div><div class="bl-item-content">Tamil</div></div>
+    <div class="bl-item"><div class="bl-item-num">74</div><div class="bl-item-content">Telugu (Mother tongue)</div></div>
+    <div class="bl-item"><div class="bl-item-num">75</div><div class="bl-item-content">Tamil</div></div>
   </div>
 </div>
 
@@ -765,7 +775,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">77</div>
+      <div class="bl-achievement-num">76</div>
       <h3 class="bl-achievement-title">Attend a live concert</h3>
       <p class="bl-achievement-meta">2010 — Shaan</p>
     </div>
@@ -776,7 +786,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/opera_budapest_2.JPG" alt="Opera Budapest" data-zoom-src="/assets/img/bucket_list/opera_budapest_2.JPG"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">78</div>
+      <div class="bl-achievement-num">77</div>
       <h3 class="bl-achievement-title">Attend live orchestra / Opera</h3>
       <p class="bl-achievement-meta">2012 — Budapest, Hungary</p>
     </div>
@@ -790,13 +800,13 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Meet Celebrities</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">79</div><div class="bl-item-content">Bear Grylls</div></div>
-    <div class="bl-item"><div class="bl-item-num">80</div><div class="bl-item-content">Hrithik Roshan</div></div>
-    <div class="bl-item"><div class="bl-item-num">81</div><div class="bl-item-content">Rafa Nadal</div></div>
-    <div class="bl-item"><div class="bl-item-num">82</div><div class="bl-item-content">Rahul Dravid</div></div>
-    <div class="bl-item"><div class="bl-item-num">83</div><div class="bl-item-content">Abhinav Bindra</div></div>
-    <div class="bl-item"><div class="bl-item-num">84</div><div class="bl-item-content">Tim Ferriss</div></div>
-    <div class="bl-item"><div class="bl-item-num">85</div><div class="bl-item-content">Dan Martell</div></div>
+    <div class="bl-item"><div class="bl-item-num">78</div><div class="bl-item-content">Bear Grylls</div></div>
+    <div class="bl-item"><div class="bl-item-num">79</div><div class="bl-item-content">Hrithik Roshan</div></div>
+    <div class="bl-item"><div class="bl-item-num">80</div><div class="bl-item-content">Rafa Nadal</div></div>
+    <div class="bl-item"><div class="bl-item-num">81</div><div class="bl-item-content">Rahul Dravid</div></div>
+    <div class="bl-item"><div class="bl-item-num">82</div><div class="bl-item-content">Abhinav Bindra</div></div>
+    <div class="bl-item"><div class="bl-item-num">83</div><div class="bl-item-content">Tim Ferriss</div></div>
+    <div class="bl-item"><div class="bl-item-num">84</div><div class="bl-item-content">Dan Martell</div></div>
   </div>
 </div>
 
@@ -808,22 +818,22 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">86</div>
+      <div class="bl-achievement-num">85</div>
       <h3 class="bl-achievement-title">Vipassana 10 days meditation retreat</h3>
       <p class="bl-achievement-meta">2012</p>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">87</div><div class="bl-item-content">Volunteer for an NGO</div></div>
+    <div class="bl-item"><div class="bl-item-num">86</div><div class="bl-item-content">Volunteer for an NGO</div></div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">88</div>
+      <div class="bl-achievement-num">87</div>
       <h3 class="bl-achievement-title">Support a kid's education</h3>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">89</div><div class="bl-item-content">Make a difference in someone's life</div></div>
+    <div class="bl-item"><div class="bl-item-num">88</div><div class="bl-item-content">Make a difference in someone's life</div></div>
   </div>
 </div>
 
@@ -840,23 +850,23 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2019_phd_3.JPG" alt="PhD graduation" data-zoom-src="/assets/img/bucket_list/2019_phd_3.JPG"></div>
     </div>
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">90</div>
+      <div class="bl-achievement-num">89</div>
       <h3 class="bl-achievement-title">Get a PhD</h3>
       <p class="bl-achievement-meta">2019 — TU Darmstadt, Germany</p>
     </div>
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">91</div>
+      <div class="bl-achievement-num">90</div>
       <h3 class="bl-achievement-title">Start a personal website/blog</h3>
       <p class="bl-achievement-meta">2013</p>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">92</div><div class="bl-item-content">Start a business</div></div>
-    <div class="bl-item"><div class="bl-item-num">93</div><div class="bl-item-content">Give a TED Talk</div></div>
-    <div class="bl-item"><div class="bl-item-num">94</div><div class="bl-item-content">Give a keynote speech</div></div>
-    <div class="bl-item"><div class="bl-item-num">95</div><div class="bl-item-content">Mentor someone to success</div></div>
+    <div class="bl-item"><div class="bl-item-num">91</div><div class="bl-item-content">Start a business</div></div>
+    <div class="bl-item"><div class="bl-item-num">92</div><div class="bl-item-content">Give a TED Talk</div></div>
+    <div class="bl-item"><div class="bl-item-num">93</div><div class="bl-item-content">Give a keynote speech</div></div>
+    <div class="bl-item"><div class="bl-item-num">94</div><div class="bl-item-content">Mentor someone to success</div></div>
   </div>
 </div>
 
@@ -867,13 +877,13 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <h2 class="bl-section-title">Properties & Things</h2>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">96</div><div class="bl-item-content">Own SFH in California</div></div>
-    <div class="bl-item"><div class="bl-item-num">97</div><div class="bl-item-content">Own SFH in Bogota</div></div>
-    <div class="bl-item"><div class="bl-item-num">98</div><div class="bl-item-content">Own SFH in Hawaii</div></div>
-    <div class="bl-item"><div class="bl-item-num">99</div><div class="bl-item-content">Own SFH in Florida</div></div>
-    <div class="bl-item"><div class="bl-item-num">100</div><div class="bl-item-content">Own SFH in Spain</div></div>
-    <div class="bl-item"><div class="bl-item-num">101</div><div class="bl-item-content">Own a Mercedes Camper Van</div></div>
-    <div class="bl-item"><div class="bl-item-num">102</div><div class="bl-item-content">Own an Indian Cruiser Bike</div></div>
+    <div class="bl-item"><div class="bl-item-num">95</div><div class="bl-item-content">Own SFH in California</div></div>
+    <div class="bl-item"><div class="bl-item-num">96</div><div class="bl-item-content">Own SFH in Bogota</div></div>
+    <div class="bl-item"><div class="bl-item-num">97</div><div class="bl-item-content">Own SFH in Hawaii</div></div>
+    <div class="bl-item"><div class="bl-item-num">98</div><div class="bl-item-content">Own SFH in Florida</div></div>
+    <div class="bl-item"><div class="bl-item-num">99</div><div class="bl-item-content">Own SFH in Spain</div></div>
+    <div class="bl-item"><div class="bl-item-num">100</div><div class="bl-item-content">Own a Mercedes Camper Van</div></div>
+    <div class="bl-item"><div class="bl-item-num">101</div><div class="bl-item-content">Own an Indian Cruiser Bike</div></div>
   </div>
 </div>
 
@@ -885,13 +895,13 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">103</div>
+      <div class="bl-achievement-num">102</div>
       <h3 class="bl-achievement-title">Fly Business Class</h3>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">104</div><div class="bl-item-content">Fly First Class</div></div>
-    <div class="bl-item"><div class="bl-item-num">105</div><div class="bl-item-content">Fly Private Jet</div></div>
+    <div class="bl-item"><div class="bl-item-num">103</div><div class="bl-item-content">Fly First Class</div></div>
+    <div class="bl-item"><div class="bl-item-num">104</div><div class="bl-item-content">Fly Private Jet</div></div>
   </div>
 </div>
 
@@ -903,18 +913,18 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
   </div>
   <div class="bl-achievement-card done">
     <div class="bl-achievement-body">
-      <div class="bl-achievement-num">106</div>
+      <div class="bl-achievement-num">105</div>
       <h3 class="bl-achievement-title">Permanent Tattoo</h3>
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">107</div><div class="bl-item-content">100 Books project <span class="bl-item-date">6 so far</span></div></div>
-    <div class="bl-item"><div class="bl-item-num">108</div><div class="bl-item-content">100 Strangers Project</div></div>
-    <div class="bl-item"><div class="bl-item-num">109</div><div class="bl-item-content">100 Immigrant Stories Project</div></div>
-    <div class="bl-item"><div class="bl-item-num">110</div><div class="bl-item-content">Publish a book</div></div>
-    <div class="bl-item"><div class="bl-item-num">111</div><div class="bl-item-content">Get a photograph published</div></div>
-    <div class="bl-item"><div class="bl-item-num">112</div><div class="bl-item-content">Get an article published</div></div>
-    <div class="bl-item"><div class="bl-item-num">113</div><div class="bl-item-content">Financially independent by 45</div></div>
+    <div class="bl-item"><div class="bl-item-num">106</div><div class="bl-item-content">100 Books project <span class="bl-item-date">6 so far</span></div></div>
+    <div class="bl-item"><div class="bl-item-num">107</div><div class="bl-item-content">100 Strangers Project</div></div>
+    <div class="bl-item"><div class="bl-item-num">108</div><div class="bl-item-content">100 Immigrant Stories Project</div></div>
+    <div class="bl-item"><div class="bl-item-num">109</div><div class="bl-item-content">Publish a book</div></div>
+    <div class="bl-item"><div class="bl-item-num">110</div><div class="bl-item-content">Get a photograph published</div></div>
+    <div class="bl-item"><div class="bl-item-num">111</div><div class="bl-item-content">Get an article published</div></div>
+    <div class="bl-item"><div class="bl-item-num">112</div><div class="bl-item-content">Financially independent by 45</div></div>
   </div>
 </div>
 
