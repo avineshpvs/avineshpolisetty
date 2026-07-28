@@ -61,26 +61,24 @@ So I thought, as I have tried lots of things, why not Vipassana? Let's give it a
 
 **Course timetable:**
 
-|-----------------+-------------------------------|
-| Time | Activity |
-|:--------------|:---------------------------------|
-| 4:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Morning wake-up bell |
-| 4:30 - 6:30 | Meditate in the hall or in your room |
-| 6:30 - 8:00 | Breakfast break |
-| 8:00 - 9:00 | Group meditation in the hall |
-| 9:00 - 11:00 | Meditate in the hall or in your room according to the teacher's instructions |
-| 11:00 - 12:00 | Lunch break |
-| 12:00 - 1:00 | Rest and interviews with the teacher |
-| 1:00 - 2:30 | Meditate in the hall or in your room |
-| 2:30 - 3:30 | Group meditation in the hall |
-| 3:30 - 5:00 | Meditate in the hall or in your own room according to the teacher's instructions |
-| 5:00 - 6:00 | Tea break |
-| 6:00 - 7:00 | Group meditation in the hall |
-| 7:00 - 8:15 | Teacher's Discourse in the hall |
-| 8:15 - 9:00 | Group meditation in the hall |
-| 9:00 - 9:30 | Question time in the hall |
-| 9:30 | Retire to your own room. Lights out |
-|=========|
+| Time                                                                              | Activity                                                                         |
+| :-------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- |
+| 4:00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Morning wake-up bell                                                             |
+| 4:30 - 6:30                                                                       | Meditate in the hall or in your room                                             |
+| 6:30 - 8:00                                                                       | Breakfast break                                                                  |
+| 8:00 - 9:00                                                                       | Group meditation in the hall                                                     |
+| 9:00 - 11:00                                                                      | Meditate in the hall or in your room according to the teacher's instructions     |
+| 11:00 - 12:00                                                                     | Lunch break                                                                      |
+| 12:00 - 1:00                                                                      | Rest and interviews with the teacher                                             |
+| 1:00 - 2:30                                                                       | Meditate in the hall or in your room                                             |
+| 2:30 - 3:30                                                                       | Group meditation in the hall                                                     |
+| 3:30 - 5:00                                                                       | Meditate in the hall or in your own room according to the teacher's instructions |
+| 5:00 - 6:00                                                                       | Tea break                                                                        |
+| 6:00 - 7:00                                                                       | Group meditation in the hall                                                     |
+| 7:00 - 8:15                                                                       | Teacher's Discourse in the hall                                                  |
+| 8:15 - 9:00                                                                       | Group meditation in the hall                                                     |
+| 9:00 - 9:30                                                                       | Question time in the hall                                                        |
+| 9:30                                                                              | Retire to your own room. Lights out                                              |
 
 The first thing one would observe was no DINNER and only VEG.
 For the first few days it was hard for me.

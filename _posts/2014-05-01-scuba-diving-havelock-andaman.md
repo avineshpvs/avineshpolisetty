@@ -240,6 +240,7 @@ _**Tips and Tricks:**_
 
   <div style="float: left; max-width: 45%; margin: 0 1.5rem 1rem 0;">
     {% include figure.liquid loading="eager" path="/assets/img/blog/scuba/scuba-elephant-beach.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Sunset at Radhanagar Beach" caption="Sunset at Radhanagar Beach" %}
+
 </div>
 
 **Radhanagar beach** is one of the cleanest beach (no rocks at all) I had ever seen in my life.

@@ -67,24 +67,20 @@ If it is just a fun dive (or) discover scuba dive it doesn&#8217;t really matter
 
 **Basic entry-level certification courses**
 
-|-----------------+-------------------------------|
-| Course | Cost |
-|:--------------|:---------------------------------|
-| SSI Open Water Course (4 dives) | Rs.18,500 |
-| PADI Open Water Course (4 dives) | Rs.21,000 |
+| Course                                                                                                              | Cost      |
+| :------------------------------------------------------------------------------------------------------------------ | :-------- |
+| SSI Open Water Course (4 dives)                                                                                     | Rs.18,500 |
+| PADI Open Water Course (4 dives)                                                                                    | Rs.21,000 |
 | NAUI Scuba Diver Course (4 dives + more training in Rescue) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Rs.20,500 |
-|=========|
 
 **Advanced level certification courses**
 
-|-----------------+----------------------------|
-| Course | Cost |
-|:--------------|:-----------------------------|
-| SSI Advanced Adventurer (5 dives) | Rs.15,000 |
-| PADI Advanced Open Water (5 dives) | Rs.17,000 |
-| NAUI Advanced Diver (6 dives) | Rs.16,500 |
+| Course                                                                                           | Cost      |
+| :----------------------------------------------------------------------------------------------- | :-------- |
+| SSI Advanced Adventurer (5 dives)                                                                | Rs.15,000 |
+| PADI Advanced Open Water (5 dives)                                                               | Rs.17,000 |
+| NAUI Advanced Diver (6 dives)                                                                    | Rs.16,500 |
 | SSI Advanced Open Water Diver (8 dives/4 complete Specialties) Requires least 16 dives to enroll | Rs.26,000 |
-|=========|
 
 (<a href="http://www.diveindia.com/havelock/prices.html" title="Diving prices" target="_blank">More details</a>)
 
