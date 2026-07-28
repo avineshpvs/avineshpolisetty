@@ -640,7 +640,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_donner_swim_2.jpg" alt="Donner Lake Swim 2022" data-zoom-src="/assets/img/bucket_list/2022_donner_swim_2.jpg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_donner_lake_swim_timing.jpg" alt="Donner Lake Swim Timing 2022" data-zoom-src="/assets/img/bucket_list/2022_donner_lake_swim_timing.jpg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-swim.jpg" alt="Donner Lake Swim 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-swim.jpg"></div>
-      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-podium.jpg" alt="Donner Lake Swim 2026 — 3rd place podium with Rafa" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-podium.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-podium.jpg" alt="Donner Lake Swim 2026 — 3rd place podium" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-podium.jpg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-results.jpg" alt="Donner Lake Swim Timing 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/donner-lake-swim/donner-lake-results.jpg"></div>
     </div>
     <div class="bl-achievement-body">
