@@ -1,18 +1,18 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   F4u28JcAAAAJ:0EnyYjriUFMC:
     citations: 38
     title: Description of the system developed by team athene in the fnc-1
     year: '2017'
   F4u28JcAAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 10
     title: A data mining approach to learn reorder rules for SMT
     year: '2010'
   F4u28JcAAAAJ:3fE2CSJIrl8C:
     citations: 9
     title: Terms for query expansion using unstructured data
-    year: '2016'
+    year: '2019'
   F4u28JcAAAAJ:4DMP91E08xMC:
     citations: 18
     title: 'J3R: Joint multi-task learning of ratings and review summaries for explainable recommendation'
@@ -36,9 +36,9 @@ papers:
   F4u28JcAAAAJ:KlAtU1dfN6UC:
     citations: 17
     title: Answering natural language table queries through semantic table representation
-    year: '2016'
+    year: '2019'
   F4u28JcAAAAJ:L8Ckcad2t8MC:
-    citations: 17
+    citations: 18
     title: Comparative study of various machine learning methods for telugu part of speech tagging
     year: '2006'
   F4u28JcAAAAJ:M3ejUd6NZC8C:
@@ -46,7 +46,7 @@ papers:
     title: Comparative study of various Machine Learning methods For Telugu Part of Speech tagging
     year: '2006'
   F4u28JcAAAAJ:MXK_kJrjxJIC:
-    citations: 375
+    citations: 370
     title: A retrospective analysis of the fake news challenge stance-detection task
     year: '2018'
   F4u28JcAAAAJ:QIV2ME_5wuYC:
@@ -66,7 +66,7 @@ papers:
     title: Scoring candidate evidence passages for criteria validation using historical evidence data
     year: '2019'
   F4u28JcAAAAJ:UeHWp8X0CEIC:
-    citations: 1
+    citations: 2
     title: Phrase-Based Transliteration with Simple Heuristics
     year: '2010'
   F4u28JcAAAAJ:UebtZRa9Y70C:
@@ -78,15 +78,15 @@ papers:
     title: Information Preparation with the Human in the Loop
     year: '2020'
   F4u28JcAAAAJ:Y0pCki6q_DkC:
-    citations: 73
+    citations: 75
     title: 'Gap-fill Tests for Language Learners: Corpus-Driven Item Generation'
     year: '2010'
   F4u28JcAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 5
     title: 'ThinkMiners: Disorder Recognition using Conditional Random Fields and Distributional Semantics'
     year: '2014'
   F4u28JcAAAAJ:_kc_bZDykSQC:
-    citations: 10
+    citations: 9
     title: Live blog corpus for summarization
     year: '2018'
   F4u28JcAAAAJ:aqlVkmm33-oC:
@@ -122,7 +122,7 @@ papers:
     title: Can open domain question answering systems answer visual knowledge questions?
     year: '2022'
   F4u28JcAAAAJ:mVmsd5A6BfQC:
-    citations: 16
+    citations: 15
     title: Team Athene on the fake news challenge
     year: '2017'
   F4u28JcAAAAJ:qUcmZB5y_30C:
@@ -130,15 +130,15 @@ papers:
     title: 'J3R: Joint Multi-task Learning of Ratings and Review Summaries for Explainable Recommendation'
     year: '2020'
   F4u28JcAAAAJ:qjMakFHDy7sC:
-    citations: 10
+    citations: 11
     title: Comparable Corpora BootCaT
     year: '2011'
   F4u28JcAAAAJ:u-x6o8ySG0sC:
-    citations: 168
+    citations: 166
     title: A Corpus Factory for Many Languages.
     year: '2010'
   F4u28JcAAAAJ:u5HHmVD_uO8C:
-    citations: 169
+    citations: 165
     title: Part-of-speech tagging and chunking using conditional random fields and transformation based learning
     year: '2007'
   F4u28JcAAAAJ:ufrVoPGSRksC:
