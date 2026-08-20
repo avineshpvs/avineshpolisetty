@@ -84,6 +84,12 @@ permalink: /projects/hybrid_athlete/
 /* photos pre-cropped 3:2 around the subject; 40% biases the trim downward so heads
    survive the wide single-column card on mobile */
 .ha-event-imgs.centered img { object-position: center 40%; }
+/* the card is already single-column on a phone; splitting it further makes each
+   tile taller than it is wide, which trims a 3:2 photo down to its middle third */
+@media (max-width: 576px) {
+  .ha-event-imgs.cols-2,
+  .ha-event-imgs.cols-3 { grid-template-columns: 1fr; }
+}
 .ha-event-body { padding: 0.85rem 1rem; }
 .ha-venue { font-size: 0.78rem; color: var(--global-text-color-light, #666); margin-bottom: 0.55rem; }
 .ha-stat-row { display: flex; gap: 0.7rem; flex-wrap: wrap; }
@@ -429,10 +435,10 @@ permalink: /projects/hybrid_athlete/
       <div style="text-align:right"><div class="ha-race-result">48:07 🥉</div></div>
     </div>
 
-    <div class="ha-race-row future">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">Aug 9</div></div>
-      <div><div class="ha-race-name">Triathlon — Santa Cruz</div><div class="ha-race-meta">Santa Cruz, CA · Sprint or Olympic</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Sprint &lt;1:25 / Olympic &lt;2:50</div><span class="ha-badge upcoming">Upcoming</span></div>
+      <div><div class="ha-race-name">Tri Santa Cruz</div><div class="ha-race-meta">Santa Cruz, CA · Olympic · Bib #462</div></div>
+      <div style="text-align:right"><div class="ha-race-result">2:39:53 🥉 PR</div></div>
     </div>
 
     <div class="ha-race-row future">
@@ -450,7 +456,7 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-race-row future">
       <div><div class="ha-race-date">Sep 27</div></div>
       <div><div class="ha-race-name">Olympic/Sprint Triathlon</div><div class="ha-race-meta">Triathlon</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Goal: Sub 2:45 Olympic</div><span class="ha-badge upcoming">Upcoming</span></div>
+      <div style="text-align:right"><div class="ha-race-goal">Goal: Sub 2:30 Olympic</div><span class="ha-badge upcoming">Upcoming</span></div>
     </div>
 
     <div class="ha-race-row future">
@@ -691,10 +697,98 @@ permalink: /projects/hybrid_athlete/
 
 ---
 
+<!-- ── TRI SANTA CRUZ ── -->
+<div class="ha-section">
+  <h2>🌊 Tri Santa Cruz — August 2026 <span class="ha-badge">Completed</span></h2>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">
+    The same Olympic course as 2022, four years and one hybrid season later. The season goal was sub-2:50. The result was 2:39:53 — a thirty-two minute personal best over the distance, and a first triathlon age-group podium.
+  </p>
+
+  <div class="ha-events-grid">
+
+    <!-- Tri Santa Cruz — Olympic -->
+    <div class="ha-event-card">
+      <div class="ha-event-header">
+        <span class="ev-name">TRI SANTA CRUZ — OLYMPIC</span>
+        <span class="ev-date">Aug 9, 2026</span>
+      </div>
+      <div class="ha-event-imgs cols-3 centered">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/swim-exit.jpg' | relative_url }}" alt="Tri Santa Cruz 2026 — swim exit" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/bike.jpg' | relative_url }}" alt="Tri Santa Cruz 2026 — bike leg" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/run.jpg' | relative_url }}" alt="Tri Santa Cruz 2026 — run leg" loading="lazy">
+      </div>
+      <div class="ha-event-imgs cols-2 centered">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/finish.jpg' | relative_url }}" alt="Tri Santa Cruz 2026 — finish line" style="object-position: center 20%;" loading="lazy">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/team-asha.jpg' | relative_url }}" alt="Team Asha on the beach before the swim start" loading="lazy">
+      </div>
+      <div class="ha-event-body">
+        <div class="ha-venue">📍 Santa Cruz, CA · International (Olympic) Distance · Bib #462 · Team Asha</div>
+        <div class="ha-stat-row">
+          <div class="ha-stat"><div class="sl">Chip Time</div><div class="sv">2:39:53</div></div>
+          <div class="ha-stat"><div class="sl">Overall</div><div class="sv">#59/187</div></div>
+          <div class="ha-stat"><div class="sl">Male</div><div class="sv">#50/142</div></div>
+          <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">🥉 3/12</div></div>
+        </div>
+        <table class="ha-zone-table">
+          <thead>
+            <tr>
+              <th>Leg</th>
+              <th>Time</th>
+              <th>Pace</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Swim</td>
+              <td>40:56</td>
+              <td>2:43 /100m</td>
+            </tr>
+            <tr>
+              <td>T1</td>
+              <td>5:15</td>
+              <td>—</td>
+            </tr>
+            <tr>
+              <td>Bike</td>
+              <td>1:00:51</td>
+              <td>22.09 mph</td>
+            </tr>
+            <tr>
+              <td>T2</td>
+              <td>0:55</td>
+              <td>—</td>
+            </tr>
+            <tr>
+              <td>Run</td>
+              <td>51:54</td>
+              <td>9:06 /mi</td>
+            </tr>
+            <tr>
+              <td><strong>Total</strong></td>
+              <td><strong>2:39:53</strong></td>
+              <td>—</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/tri-santa-cruz-results.png' | relative_url }}" alt="Tri Santa Cruz 2026 — M35–39 age group results" loading="lazy">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="ha-note-box">
+    <strong>Four years, thirty-two minutes.</strong> The same Olympic course took <strong>3:12:25</strong> in 2022. This time it was <strong>2:39:53</strong> — inside the sub-2:50 goal set at the start of the season, and clear enough of it that September's target moves to <strong>sub-2:30</strong>. The bike was the strongest of the three legs at <strong>1:00:51 (22.09 mph)</strong>, and the run held 9:06/mi off it. The swim, at 40:56, is where the next block of work goes — and it is exactly the leg the Santa Cruz 70.3 relay in September will test.
+  </div>
+</div>
+
+---
+
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
-  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Male 35–39 · as of July 2026</p>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Male 35–39 · as of August 2026</p>
 
   <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">DEKA — Global Leaderboard · Villa Sport</p>
   <div class="ha-rank-grid" style="margin-bottom:1.5rem;">
@@ -757,6 +851,17 @@ permalink: /projects/hybrid_athlete/
       <div class="rk-lbl">Overall</div>
       <div class="rk-time">48:07</div>
       <div class="rk-ag">🥉 3rd · AG M30–39</div>
+    </div>
+  </div>
+
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">Triathlon — Santa Cruz, CA · August 2026</p>
+  <div class="ha-rank-grid">
+    <div class="ha-rank-card">
+      <div class="rk-type">Tri Santa Cruz — Olympic</div>
+      <div class="rk-num">#59</div>
+      <div class="rk-lbl">Overall / 187</div>
+      <div class="rk-time">2:39:53</div>
+      <div class="rk-ag">🥉 3rd · AG M35–39 (3/12) · Male #50/142</div>
     </div>
   </div>
 

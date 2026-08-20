@@ -621,6 +621,11 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2017_darmstadt_triathlon.png" alt="Darmstadt Triathlon 2017" data-zoom-src="/assets/img/bucket_list/2017_darmstadt_triathlon.png"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_santa_cruz_triathlon.jpeg" alt="Santa Cruz Triathlon 2022" data-zoom-src="/assets/img/bucket_list/2022_santa_cruz_triathlon.jpeg"></div>
       <div class="bl-achievement-img"><img src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg" alt="Santa Cruz Triathlon Timing 2022" data-zoom-src="/assets/img/bucket_list/2022_santa_cruz_triathlon_timing.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/swim-exit.jpg" alt="Santa Cruz Triathlon 2026 — swim exit" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/swim-exit.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/bike.jpg" alt="Santa Cruz Triathlon 2026 — bike leg" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/bike.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/run.jpg" alt="Santa Cruz Triathlon 2026 — run leg" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/run.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/finish.jpg" alt="Santa Cruz Triathlon 2026 — finish line" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/finish.jpg"></div>
+      <div class="bl-achievement-img"><img src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/tri-santa-cruz-splits.png" alt="Santa Cruz Triathlon Timing 2026" data-zoom-src="/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz/tri-santa-cruz-splits.png"></div>
     </div>
     <div class="bl-achievement-body">
       <div class="bl-achievement-num">50</div>
@@ -628,6 +633,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
       <p class="bl-achievement-meta">2014 — Hyderabad, India (Olympic, 4:15:07)</p>
       <p class="bl-achievement-meta">2017 — Darmstadt, Germany (Sprint, 1:49:27)</p>
       <p class="bl-achievement-meta">2022 — Santa Cruz, USA (Olympic, 3:12:25)</p>
+      <p class="bl-achievement-meta">2026 — Santa Cruz, USA (Olympic, 2:39:53 · 3rd in M35–39)</p>
     </div>
   </div>
   <div class="bl-items">
