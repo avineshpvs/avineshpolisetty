@@ -739,7 +739,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     <div class="bl-item"><div class="bl-item-num">64</div><div class="bl-item-content">Learn to Juggle</div></div>
     <div class="bl-item"><div class="bl-item-num">65</div><div class="bl-item-content">Solve Rubik's Cube</div></div>
     <div class="bl-item"><div class="bl-item-num">66</div><div class="bl-item-content">Learn to cook an exquisite meal</div></div>
-    <div class="bl-item"><div class="bl-item-num">67</div><div class="bl-item-content">Master chess (2000 rating)</div></div>
+    <div class="bl-item"><div class="bl-item-num">67</div><div class="bl-item-content"><a href="{{ '/projects/chess/' | relative_url }}">Master chess (2000 rating)</a> — In progress</div></div>
   </div>
 </div>
 
@@ -762,7 +762,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">70</div><div class="bl-item-content">Spanish</div></div>
+    <div class="bl-item"><div class="bl-item-num">70</div><div class="bl-item-content"><a href="{{ '/projects/spanish/' | relative_url }}">Spanish</a> — In progress</div></div>
     <div class="bl-item"><div class="bl-item-num">71</div><div class="bl-item-content">Mandarin</div></div>
     <div class="bl-item"><div class="bl-item-num">72</div><div class="bl-item-content">Arabic</div></div>
     <div class="bl-item"><div class="bl-item-num">73</div><div class="bl-item-content">Sign Language</div></div>
