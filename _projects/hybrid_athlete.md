@@ -104,6 +104,42 @@ permalink: /projects/hybrid_athlete/
 .ha-stat .sv { font-weight: 800; color: #e63946; font-size: 1.05rem; line-height: 1.2; }
 .ha-cert { margin-top: 0.85rem; }
 .ha-cert img { width: 100%; border-radius: 6px; border: 1px solid var(--global-divider-color, #ddd); }
+.ha-cert.result-card--wide,
+.ha-cert.result-card--portrait { margin: 1rem auto; }
+.ha-cert.result-card--wide { max-width: 560px; }
+.ha-cert.result-card--portrait { max-width: 220px; }
+.ha-relay-details {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 300px);
+  grid-template-rows: 285px;
+  gap: 2rem;
+  align-items: start;
+  margin: 1rem 0 1.25rem;
+}
+.ha-relay-details .ha-cert { margin: 0 auto; width: 100%; }
+.ha-relay-details > div:first-child { grid-column: 1; }
+.ha-relay-details .result-card--portrait {
+  grid-column: 2;
+  grid-row: 1;
+  align-self: stretch;
+  display: flex;
+  align-items: stretch;
+  height: 285px;
+}
+.ha-relay-details > div:first-child,
+.ha-relay-details .ha-zone-table { height: 100%; }
+.ha-relay-details .result-card--portrait img {
+  height: 100%;
+  object-fit: contain;
+}
+@media (max-width: 576px) {
+  .ha-relay-details { grid-template-columns: 1fr; grid-template-rows: auto; }
+  .ha-relay-details > div:first-child,
+  .ha-relay-details .result-card--portrait { grid-column: auto; grid-row: auto; }
+  .ha-relay-details .result-card--portrait,
+  .ha-relay-details > div:first-child,
+  .ha-relay-details .ha-zone-table { height: auto; }
+}
 
 /* ── Rankings ── */
 .ha-rank-grid {
@@ -441,16 +477,16 @@ permalink: /projects/hybrid_athlete/
       <div style="text-align:right"><div class="ha-race-result">2:39:53 🥉 PR</div></div>
     </div>
 
-    <div class="ha-race-row future">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">Aug 29</div></div>
       <div><div class="ha-race-name">Spartan Super 10K NorCal + Kids Race</div><div class="ha-race-meta">Elk Grove, CA · OCF 10km</div></div>
-      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+      <div style="text-align:right"><div class="ha-race-result">1:46:09 ✓</div></div>
     </div>
 
-    <div class="ha-race-row future">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">Sep 13</div></div>
       <div><div class="ha-race-name">Santa Cruz 70.3 Swim Relay</div><div class="ha-race-meta">Santa Cruz, CA · 1.9km swim leg</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Goal: Sub 48 min</div><span class="ha-badge upcoming">Upcoming</span></div>
+      <div style="text-align:right"><div class="ha-race-result">46:36 ✓</div><div class="ha-race-goal">Sub-48 goal achieved</div></div>
     </div>
 
     <div class="ha-race-row future">
@@ -785,10 +821,111 @@ permalink: /projects/hybrid_athlete/
 
 ---
 
+<!-- ── SPARTAN NORCAL — AUGUST 2026 ── -->
+<div class="ha-section">
+  <h2>⚔️ Spartan NorCal — August 2026 <span class="ha-badge">Completed</span></h2>
+
+  <div class="ha-event-card">
+    <div class="ha-event-header">
+      <span class="ev-name">NORCAL SPARTAN SUPER 10K</span>
+      <span class="ev-date">Aug 29, 2026</span>
+    </div>
+    <div class="ha-event-imgs cols-3 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/cargo-net.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — climbing over the cargo net" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/monkey-bars.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — crossing the monkey bars" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/bucket-carry.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — bucket carry" loading="lazy">
+    </div>
+    <div class="ha-event-imgs cols-3 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/rings.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — traversing the rings" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/climb.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — climbing the metal bars" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/descent.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — descending the metal bars" loading="lazy">
+    </div>
+    <div class="ha-event-imgs centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/medal.jpg' | relative_url }}" alt="NorCal Spartan Super August 2026 — finisher medal" style="object-position:center 40%;" loading="lazy">
+    </div>
+    <div class="ha-event-body">
+      <div class="ha-venue">📍 Elk Grove, CA · 10 KM · Open Heat</div>
+      <div class="ha-stat-row">
+        <div class="ha-stat"><div class="sl">Time</div><div class="sv">1:46:09</div></div>
+        <div class="ha-stat"><div class="sl">Category</div><div class="sv">#256/1744</div></div>
+        <div class="ha-stat"><div class="sl">Gender</div><div class="sv">#243/1274</div></div>
+        <div class="ha-stat"><div class="sl">AG 35–39</div><div class="sv">#34/236</div></div>
+        <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 15%</div></div>
+      </div>
+      <div class="ha-cert result-card--wide">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/results.png' | relative_url }}" alt="August 29, 2026 NorCal Spartan Super 10K Open Heat results: 1:46:09, category 256 of 1744, gender 243 of 1274, age 35–39 rank 34 of 236" width="1386" height="834" style="height:auto;" loading="lazy">
+      </div>
+    </div>
+  </div>
+
+  <div class="ha-note-box">
+    <strong>20:33 faster than May.</strong> The August Super took <strong>1:46:09</strong>, compared with <strong>2:06:42</strong> at Salinas in May. These were different courses, so the times are a season comparison rather than a same-course benchmark.
+  </div>
+</div>
+
+---
+
+<!-- ── IRONMAN 70.3 SANTA CRUZ RELAY — SEPTEMBER 2026 ── -->
+<div class="ha-section">
+  <h2>🌊 IRONMAN 70.3 Santa Cruz Relay — September 2026 <span class="ha-badge">Completed</span></h2>
+
+  <div class="ha-event-card">
+    <div class="ha-event-header">
+      <span class="ev-name">TEAM ASHA RELAY 4</span>
+      <span class="ev-date">Sep 13, 2026</span>
+    </div>
+    <div class="ha-event-imgs cols-3 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/ironman_relay_2026/team-before-race.jpg' | relative_url }}" alt="Team Asha gathering before IRONMAN 70.3 Santa Cruz 2026" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/ironman_relay_2026/swim-start.jpg' | relative_url }}" alt="IRONMAN swim start arch on Santa Cruz beach at dawn" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/ironman_relay_2026/swimmers.jpg' | relative_url }}" alt="Team Asha swimmers on the beach before the relay swim" loading="lazy">
+    </div>
+    <div class="ha-event-imgs cols-2 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/ironman_relay_2026/team-after-race.jpg' | relative_url }}" alt="Team Asha celebrating with medals on Santa Cruz beach after the race" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/ironman_relay_2026/relay-medals.jpg' | relative_url }}" alt="Three relay finishers displaying their IRONMAN 70.3 medals" loading="lazy">
+    </div>
+    <div class="ha-event-body">
+      <div class="ha-venue">📍 Santa Cruz, CA · Men's Relay · My leg: 1.9km swim</div>
+      <div class="ha-stat-row">
+        <div class="ha-stat"><div class="sl">My Swim</div><div class="sv">46:36</div></div>
+        <div class="ha-stat"><div class="sl">Swim Pace</div><div class="sv">2:25 /100m</div></div>
+        <div class="ha-stat"><div class="sl">Team Finish</div><div class="sv">6:14:53</div></div>
+        <div class="ha-stat"><div class="sl">Men's Relay</div><div class="sv">#11/26</div></div>
+      </div>
+
+      <div class="ha-relay-details">
+        <div style="overflow-x:auto;">
+        <table class="ha-zone-table">
+          <thead><tr><th>Relay Leg</th><th>Split</th></tr></thead>
+          <tbody>
+            <tr><td><strong>Swim — my leg</strong></td><td><strong>46:36</strong></td></tr>
+            <tr><td>T1</td><td>4:55</td></tr>
+            <tr><td>Bike — teammate</td><td>3:16:58</td></tr>
+            <tr><td>T2</td><td>2:03</td></tr>
+            <tr><td>Run — teammate</td><td>2:04:23</td></tr>
+            <tr><td><strong>Team finish</strong></td><td><strong>6:14:53</strong></td></tr>
+          </tbody>
+        </table>
+        </div>
+        <div class="ha-cert result-card--portrait">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/ironman_relay_2026/results.png' | relative_url }}" alt="IRONMAN 70.3 Santa Cruz 2026 Team Asha Relay 4 result badge: team finish 6:14:53, swim 46:36, men's relay rank 11 of 26" style="height:auto;" width="1220" height="1580" loading="lazy">
+        </div>
+      </div>
+      <p style="font-size:0.78rem;color:var(--global-text-color-light,#666);">Team standings on the race badge: men's relay 11/26 · gender 892/1670 · overall 1096/2238. The badge marks results as preliminary; splits and finish time are reproduced as shown.</p>
+    </div>
+
+  </div>
+
+  <div class="ha-note-box">
+    <strong>Swim goal achieved.</strong> My <strong>46:36</strong> swim was <strong>1:24 under the 48-minute target</strong>. Team Asha Relay 4 finished in <strong>6:14:53</strong>, placing <strong>11th of 26 men's relay teams</strong> on the race badge.
+  </div>
+</div>
+
+---
+
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
-  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Male 35–39 · as of August 2026</p>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Individual results: Male 35–39 · relay team results listed separately · as of September 2026</p>
 
   <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">DEKA — Global Leaderboard · Villa Sport</p>
   <div class="ha-rank-grid" style="margin-bottom:1.5rem;">
@@ -862,6 +999,28 @@ permalink: /projects/hybrid_athlete/
       <div class="rk-lbl">Overall / 187</div>
       <div class="rk-time">2:39:53</div>
       <div class="rk-ag">🥉 3rd · AG M35–39 (3/12) · Male #50/142</div>
+    </div>
+  </div>
+
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">Spartan — Elk Grove, CA · August 2026</p>
+  <div class="ha-rank-grid">
+    <div class="ha-rank-card">
+      <div class="rk-type">Spartan Super — NorCal</div>
+      <div class="rk-num">#256</div>
+      <div class="rk-lbl">Category / 1744</div>
+      <div class="rk-time">1:46:09</div>
+      <div class="rk-ag">AG 35–39 #34/236 · Gender #243/1274 · Top 15%</div>
+    </div>
+  </div>
+
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">IRONMAN 70.3 — Santa Cruz Relay · September 2026</p>
+  <div class="ha-rank-grid">
+    <div class="ha-rank-card">
+      <div class="rk-type">Team Asha Relay 4</div>
+      <div class="rk-num">#11</div>
+      <div class="rk-lbl">Men's Relay / 26 teams</div>
+      <div class="rk-time">6:14:53 team finish</div>
+      <div class="rk-ag">My swim: 46:36 · Preliminary race badge</div>
     </div>
   </div>
 
