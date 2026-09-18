@@ -1374,7 +1374,7 @@ permalink: /projects/hybrid_athlete/
           <li><strong>2 hrs before:</strong> Light oats, no heavy foods</li>
           <li><strong>30 min before:</strong> Gel or gummy chews + electrolyte drink</li>
           <li><strong>During:</strong> Nothing needed (20–40 min event)</li>
-          <li><strong>After:</strong> Protein + carbs ASAP · daal + rice</li>
+          <li><strong>After:</strong> Protein + carbs ASAP</li>
         </ul>
       </div>
     </div>
