@@ -883,7 +883,7 @@ permalink: /projects/hybrid_athlete/
             <th>Date</th>
             <th>Weight (lb)</th>
             <th>Body Fat %</th>
-            <th>Δ BF%</th>
+            <th>Δ BF (pp)</th>
             <th>Skeletal Muscle (lb)</th>
             <th>ECW/TBW</th>
           </tr>
@@ -901,7 +901,7 @@ permalink: /projects/hybrid_athlete/
             <td><strong>Mar 28, 2026</strong></td>
             <td>159.1</td>
             <td>14.5%</td>
-            <td style="color:#22c55e;font-weight:700;">↓ 1.8%</td>
+            <td style="color:#22c55e;font-weight:700;">↓ 1.8</td>
             <td>77.6</td>
             <td>0.369</td>
           </tr>
@@ -909,7 +909,7 @@ permalink: /projects/hybrid_athlete/
             <td><strong>May 7, 2026</strong></td>
             <td>161.2</td>
             <td>14.9%</td>
-            <td style="color:#f59e0b;font-weight:700;">↑ 0.4%</td>
+            <td style="color:#f59e0b;font-weight:700;">↑ 0.4</td>
             <td>78.7</td>
             <td>0.365</td>
           </tr>
@@ -917,14 +917,24 @@ permalink: /projects/hybrid_athlete/
             <td><strong>Jun 3, 2026</strong></td>
             <td>161.9</td>
             <td>13.9%</td>
-            <td style="color:#22c55e;font-weight:700;">↓ 1.0%</td>
+            <td style="color:#22c55e;font-weight:700;">↓ 1.0</td>
             <td>79.8</td>
             <td>0.367</td>
+          </tr>
+          <tr>
+            <td><strong>Jul 9, 2026</strong></td>
+            <td>159.5</td>
+            <td>14.4%</td>
+            <td style="color:#f59e0b;font-weight:700;">↑ 0.5</td>
+            <td>78.3</td>
+            <td>0.368</td>
           </tr>
         </tbody>
       </table>
     </div>
   </div>
+
+  <p style="font-size:0.78rem;color:var(--global-text-color-light,#666);">Body fat changes are shown in percentage points (pp) since the previous scan.</p>
 
   <div class="ha-months-grid">
 
@@ -941,6 +951,21 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> May 2026</div>
       <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/may.jpg' | relative_url }}" alt="May 2026" loading="lazy">
+    </div>
+
+    <div class="ha-month-col">
+      <div class="ha-month-label"><span class="ha-dot"></span> June 2026</div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/june.jpg' | relative_url }}" alt="June 2026 physique progress photo" loading="lazy">
+    </div>
+
+    <div class="ha-month-col">
+      <div class="ha-month-label"><span class="ha-dot"></span> July 2026</div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/july.jpg' | relative_url }}" alt="July 2026 physique progress photo" loading="lazy">
+    </div>
+
+    <div class="ha-month-col">
+      <div class="ha-month-label"><span class="ha-dot"></span> August 2026</div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/august.jpg' | relative_url }}" alt="August 2026 physique progress photo" loading="lazy">
     </div>
 
   </div>
