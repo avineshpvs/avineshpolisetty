@@ -924,7 +924,7 @@ So I redefined it as My I'M Possible List — a reminder that these aren't just 
     </div>
   </div>
   <div class="bl-items">
-    <div class="bl-item"><div class="bl-item-num">106</div><div class="bl-item-content">100 Books project <span class="bl-item-date">6 so far</span></div></div>
+    <div class="bl-item"><div class="bl-item-num">106</div><div class="bl-item-content"><a href="{{ '/projects/book_reviews/' | relative_url }}">100 Books project</a> — In progress <span class="bl-item-date">6 so far</span></div></div>
     <div class="bl-item"><div class="bl-item-num">107</div><div class="bl-item-content">100 Strangers Project</div></div>
     <div class="bl-item"><div class="bl-item-num">108</div><div class="bl-item-content">100 Immigrant Stories Project</div></div>
     <div class="bl-item"><div class="bl-item-num">109</div><div class="bl-item-content">Publish a book</div></div>
