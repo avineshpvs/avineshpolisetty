@@ -144,14 +144,14 @@ permalink: /projects/hybrid_athlete/
 /* ── Rankings ── */
 .ha-rank-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-  gap: 1rem;
-  margin-bottom: 1.1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.7rem;
+  margin-bottom: 0.8rem;
 }
 .ha-rank-card {
   border: 1px solid var(--global-divider-color, #e0e0e0);
   border-radius: 10px;
-  padding: 1rem 1.1rem;
+  padding: 0.75rem 0.8rem;
   text-align: center;
 }
 .ha-rank-card .rk-type { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: #e63946; }
@@ -159,6 +159,9 @@ permalink: /projects/hybrid_athlete/
 .ha-rank-card .rk-lbl  { font-size: 0.7rem; color: var(--global-text-color-light, #888); }
 .ha-rank-card .rk-time { font-size: 1.15rem; font-weight: 700; margin-top: 0.4rem; }
 .ha-rank-card .rk-ag   { font-size: 0.72rem; color: var(--global-text-color-light, #888); }
+@media (max-width: 700px) {
+  .ha-rank-grid { grid-template-columns: 1fr; }
+}
 .ha-ranking-screenshot img { width: 100%; border-radius: 8px; border: 1px solid var(--global-divider-color, #ddd); }
 
 /* ── Monthly Progress ── */
@@ -955,7 +958,7 @@ permalink: /projects/hybrid_athlete/
     Best-time standings on the Global DEKA individuals leaderboard. Deka Strong reflects the 20:00 mark set on Jul 12, 2026.
   </p>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">Spartan — Salinas, CA · May 2026</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">Spartan — 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
       <div class="rk-type">Spartan Super</div>
@@ -971,9 +974,16 @@ permalink: /projects/hybrid_athlete/
       <div class="rk-time">2:05:46</div>
       <div class="rk-ag">AG M35–39 #153/240 · Top 66%</div>
     </div>
+    <div class="ha-rank-card">
+      <div class="rk-type">Spartan Super — NorCal</div>
+      <div class="rk-num">#256</div>
+      <div class="rk-lbl">Category / 1744</div>
+      <div class="rk-time">1:46:09</div>
+      <div class="rk-ag">AG 35–39 #34/236 · Gender #243/1274 · Top 15%</div>
+    </div>
   </div>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">Road &amp; Open Water — July 2026</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Road &amp; Open Water — July 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
       <div class="rk-type">Stars &amp; Strides 10K</div>
@@ -991,7 +1001,7 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">Triathlon — Santa Cruz, CA · August 2026</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Triathlon — Santa Cruz, CA · August 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
       <div class="rk-type">Tri Santa Cruz — Olympic</div>
@@ -1002,18 +1012,7 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">Spartan — Elk Grove, CA · August 2026</p>
-  <div class="ha-rank-grid">
-    <div class="ha-rank-card">
-      <div class="rk-type">Spartan Super — NorCal</div>
-      <div class="rk-num">#256</div>
-      <div class="rk-lbl">Category / 1744</div>
-      <div class="rk-time">1:46:09</div>
-      <div class="rk-ag">AG 35–39 #34/236 · Gender #243/1274 · Top 15%</div>
-    </div>
-  </div>
-
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:1.5rem 0 0.6rem;">IRONMAN 70.3 — Santa Cruz Relay · September 2026</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">IRONMAN 70.3 — Santa Cruz Relay · September 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
       <div class="rk-type">Team Asha Relay 4</div>
