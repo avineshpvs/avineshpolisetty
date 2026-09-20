@@ -240,11 +240,21 @@ html[data-theme="dark"] {
 
 /* Responsive */
 @media (max-width: 600px) {
+  .bucket-list-wrapper { width: 100%; max-width: none; min-width: 0; }
+  .bl-section-header { align-items: flex-start; }
+  .bl-section-title { font-size: 0.9rem; line-height: 1.25; }
+  .bl-item { align-items: flex-start; padding: 0.55rem 0.6rem; }
+  .bl-item-content { min-width: 0; overflow-wrap: anywhere; }
+  .bl-item-date { display: inline-block; margin: 0.2rem 0 0 0.25rem; }
   .bl-achievement-card, .bl-video-card { flex-direction: column; }
-  .bl-achievement-img { flex: none; height: 120px; order: 1; }
+  .bl-achievement-imgs { width: 100%; max-width: none; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .bl-achievement-img { width: 100%; min-width: 0; flex: none; height: 140px; order: 1; }
+  .bl-achievement-img--wide { width: 100%; height: auto; grid-column: span 2; aspect-ratio: 12 / 5; }
   .bl-achievement-body { order: 2; padding: 0.75rem; }
   .bl-video-embed { flex: none; width: 100%; order: 1; }
   .bl-video-body { order: 2; padding: 0.75rem; }
+  .bl-countries-list { gap: 0.5rem; }
+  .bl-continent-group { min-width: min(130px, 100%); }
 }
 
 /* Countries Map Widget */
