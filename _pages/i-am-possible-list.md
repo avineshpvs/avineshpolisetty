@@ -249,6 +249,7 @@ html[data-theme="dark"] {
   .bl-achievement-card, .bl-video-card { flex-direction: column; }
   .bl-achievement-imgs { width: 100%; max-width: none; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .bl-achievement-img { width: 100%; min-width: 0; flex: none; height: 140px; order: 1; }
+  .bl-achievement-img img { object-position: center top; }
   .bl-achievement-img--wide { width: 100%; height: auto; grid-column: span 2; aspect-ratio: 12 / 5; }
   .bl-achievement-body { order: 2; padding: 0.75rem; }
   .bl-video-embed { flex: none; width: 100%; order: 1; }
