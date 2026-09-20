@@ -358,6 +358,17 @@ permalink: /projects/hybrid_athlete/
 .ha-meal-body { padding: 0.6rem 0.8rem; }
 .ha-meal-body ul { margin: 0; padding-left: 1rem; }
 .ha-meal-body ul li { margin-bottom: 0.2rem; }
+.ha-flexibility-table { margin: 0.8rem 0 1.1rem; }
+.ha-flexibility-table th,
+.ha-flexibility-table td { white-space: nowrap; }
+.ha-flexibility-table td:nth-child(2) { white-space: normal; }
+.ha-flexibility-note { margin: 0.6rem 0 1rem; font-size: 0.8rem; color: var(--global-text-color-light, #666); }
+@media (max-width: 600px) {
+  .ha-macro-card .mc-val { font-size: 1.25rem; }
+  .ha-flexibility-table { font-size: 0.76rem; }
+  .ha-flexibility-table th,
+  .ha-flexibility-table td { white-space: normal; }
+}
 .ha-note-box {
   margin-top: 1.1rem;
   background: var(--global-bg-color, #f8faff);
@@ -1292,15 +1303,29 @@ permalink: /projects/hybrid_athlete/
 <div class="ha-section">
   <h2>🥗 Nutrition</h2>
   <p style="font-size:0.83rem;color:var(--global-text-color-light,#666);margin-bottom:1rem;">
-    Target: <strong>0.8–1g protein × bodyweight (lbs)</strong> · Carbs 2–3g × bodyweight · Fats 0.4g × bodyweight. Fuel every session — you cannot out-train poor nutrition.
+    Four-week metabolic flexibility protocol after the upcoming race. Keep protein steady, move most carbohydrates toward harder sessions, and let easy days create a controlled low-carb stimulus without compromising recovery.
   </p>
 
   <div class="ha-macro-row">
-    <div class="ha-macro-card cal"><div class="mc-lbl">Calories</div><div class="mc-val">~2,600</div><div class="mc-sub">kcal / day</div></div>
-    <div class="ha-macro-card prot"><div class="mc-lbl">Protein</div><div class="mc-val">~180g</div><div class="mc-sub">0.9g × lb</div></div>
-    <div class="ha-macro-card carb"><div class="mc-lbl">Carbs</div><div class="mc-val">~260g</div><div class="mc-sub">2.5g × lb</div></div>
-    <div class="ha-macro-card fat"><div class="mc-lbl">Fats</div><div class="mc-val">~80g</div><div class="mc-sub">0.4g × lb</div></div>
+    <div class="ha-macro-card cal"><div class="mc-lbl">Calories</div><div class="mc-val">2,350–2,450</div><div class="mc-sub">kcal average while cutting</div></div>
+    <div class="ha-macro-card prot"><div class="mc-lbl">Protein</div><div class="mc-val">175–180g</div><div class="mc-sub">every day</div></div>
+    <div class="ha-macro-card carb"><div class="mc-lbl">Carbs</div><div class="mc-val">160–380g</div><div class="mc-sub">cycle with training load</div></div>
+    <div class="ha-macro-card fat"><div class="mc-lbl">Fats</div><div class="mc-val">~60–90g</div><div class="mc-sub">adjust to hit calories</div></div>
   </div>
+
+  <table class="ha-zone-table ha-flexibility-table">
+    <thead><tr><th>Day</th><th>Training focus</th><th>Carbohydrates</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Monday</strong></td><td>Strength</td><td>220–250g · normal</td></tr>
+      <tr><td><strong>Tuesday</strong></td><td>Easy Zone 2</td><td>180–200g · lower</td></tr>
+      <tr><td><strong>Wednesday</strong></td><td>Legs + harder bike/run</td><td>300–330g · high</td></tr>
+      <tr><td><strong>Thursday</strong></td><td>Easy / recovery</td><td>160–190g · lower</td></tr>
+      <tr><td><strong>Friday</strong></td><td>Strength / quality session</td><td>250–300g · moderate-high</td></tr>
+      <tr><td><strong>Saturday</strong></td><td>Long brick</td><td>320–380g · high</td></tr>
+      <tr><td><strong>Sunday</strong></td><td>45–60 min easy Zone 2 before breakfast or rest</td><td>160–200g · lower</td></tr>
+    </tbody>
+  </table>
+  <p class="ha-flexibility-note"><strong>How to use it:</strong> Keep the 175–180g protein target daily. Put the largest carb portions at breakfast and the meal before or after hard sessions; on lower-carb days, keep vegetables and protein high and replace some starch with olive oil, avocado, nuts, or eggs. This creates the repeating pattern <strong>fat → carbs → fat → carbs</strong> across the week.</p>
 
   <div class="ha-meal-grid">
 
@@ -1310,7 +1335,8 @@ permalink: /projects/hybrid_athlete/
         <ul>
           <li>Creatine 3–5g in water/juice</li>
           <li>1–2 cups black coffee or tea</li>
-          <li>Half banana (if feeling low energy)</li>
+          <li>High-carb days: banana + oats or toast before the session</li>
+          <li>Lower-carb Zone 2 days: coffee, water, and electrolytes if energy is good</li>
         </ul>
       </div>
     </div>
@@ -1322,7 +1348,7 @@ permalink: /projects/hybrid_athlete/
           <li>Overnight oats + mixed berries</li>
           <li>Half banana + nuts + milk</li>
           <li>Protein powder + cinnamon</li>
-          <li>+1 scoop extra on heavy lift days</li>
+          <li>Increase oats, fruit, or toast on Wed/Fri/Sat; reduce the starch portion on Tue/Thu/Sun</li>
         </ul>
         <div style="font-size:0.72rem;color:var(--global-text-color-light,#888);margin-top:0.4rem;">~500 cal · 35g P · 55g C · 12g F</div>
       </div>
@@ -1336,6 +1362,7 @@ permalink: /projects/hybrid_athlete/
           <li>Mediterranean: Greek bowl / falafel plate / grilled fish</li>
           <li>Indian: Chicken tikka masala / tandoori + dal / paneer bowl</li>
           <li>Mexican: Chicken burrito bowl / carne asada tacos</li>
+          <li>Scale rice, potatoes, tortillas, or pita to the day’s carbohydrate target</li>
         </ul>
         <div style="font-size:0.72rem;color:var(--global-text-color-light,#888);margin-top:0.4rem;">~650 cal · 45g P · 60g C · 15g F</div>
       </div>
@@ -1362,6 +1389,7 @@ permalink: /projects/hybrid_athlete/
           <li>Med: Lamb kofta + tabbouleh + hummus</li>
           <li>Indian: Butter chicken + roti / tandoori + rice</li>
           <li>Mexican: Shrimp fajita bowl / tacos</li>
+          <li>Keep the largest dinner starch portions for Wed and Sat; emphasize vegetables and protein on lower-carb days</li>
         </ul>
       </div>
     </div>
