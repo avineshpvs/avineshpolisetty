@@ -189,6 +189,14 @@ permalink: /projects/hybrid_athlete/
   border: 1px solid var(--global-divider-color, #ddd);
   display: block;
 }
+.ha-scan-report {
+  display: inline-flex;
+  margin-top: 0.35rem;
+  color: #3b82f6;
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+.ha-scan-report:hover { text-decoration: underline; }
 .ha-coming-soon {
   padding: 1.2rem;
   text-align: center;
@@ -503,10 +511,10 @@ permalink: /projects/hybrid_athlete/
       <div style="text-align:right"><div class="ha-race-result">46:36 ✓</div><div class="ha-race-goal">Sub-48 goal achieved</div></div>
     </div>
 
-    <div class="ha-race-row future">
+    <div class="ha-race-row done">
       <div><div class="ha-race-date">Sep 27</div></div>
-      <div><div class="ha-race-name">Olympic/Sprint Triathlon</div><div class="ha-race-meta">Triathlon</div></div>
-      <div style="text-align:right"><div class="ha-race-goal">Goal: Sub 2:30 Olympic</div><span class="ha-badge upcoming">Upcoming</span></div>
+      <div><div class="ha-race-name">Santa Cruz Triathlon</div><div class="ha-race-meta">Santa Cruz, CA · Olympic</div></div>
+      <div style="text-align:right"><div class="ha-race-result">3:17:59 ✓</div><div class="ha-race-goal">Bib #7</div></div>
     </div>
 
     <div class="ha-race-row future">
@@ -936,6 +944,56 @@ permalink: /projects/hybrid_athlete/
 
 ---
 
+<!-- ── SANTA CRUZ TRIATHLON — SEPTEMBER 2026 ── -->
+<div class="ha-section">
+  <h2>🌊 Santa Cruz Triathlon — September 2026 <span class="ha-badge">Completed</span></h2>
+
+  <div class="ha-event-card">
+    <div class="ha-event-header">
+      <span class="ev-name">SANTA CRUZ — OLYMPIC TRIATHLON</span>
+      <span class="ev-date">Sep 27, 2026</span>
+    </div>
+    <div class="ha-event-imgs cols-3 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/swim-exit.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon swim exit" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/bike.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon bike leg" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/family-finish.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon finish with family" loading="lazy">
+    </div>
+    <div class="ha-event-imgs cols-2 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/family-sign.jpg' | relative_url }}" alt="Family cheering at the September 2026 Santa Cruz Triathlon" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/finish-beach.jpg' | relative_url }}" alt="Family celebrating on the beach after the September 2026 Santa Cruz Triathlon" loading="lazy">
+    </div>
+    <div class="ha-event-body">
+      <div class="ha-venue">📍 Santa Cruz, CA · Olympic distance · Bib #7</div>
+      <div class="ha-stat-row">
+        <div class="ha-stat"><div class="sl">Elapsed</div><div class="sv">3:17:59</div></div>
+        <div class="ha-stat"><div class="sl">Overall</div><div class="sv">#282/455</div></div>
+        <div class="ha-stat"><div class="sl">Gender</div><div class="sv">#212/319</div></div>
+        <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#33/44</div></div>
+      </div>
+      <table class="ha-zone-table">
+        <thead><tr><th>Leg</th><th>Time</th><th>Pace</th></tr></thead>
+        <tbody>
+          <tr><td>Swim</td><td>34:46</td><td>2:19 /100m</td></tr>
+          <tr><td>T1</td><td>10:12</td><td>—</td></tr>
+          <tr><td>Bike</td><td>1:30:13</td><td>16.56 mph</td></tr>
+          <tr><td>T2</td><td>1:40</td><td>—</td></tr>
+          <tr><td>Run</td><td>1:01:05</td><td>9:51 /mi</td></tr>
+          <tr><td><strong>Total</strong></td><td><strong>3:17:59</strong></td><td>—</td></tr>
+        </tbody>
+      </table>
+      <div class="ha-cert result-card--wide">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/results.png' | relative_url }}" alt="Santa Cruz Triathlon September 2026 results: 3:17:59 elapsed, overall 282 of 455, M35–39 33 of 44" loading="lazy">
+      </div>
+    </div>
+  </div>
+
+  <div class="ha-note-box">
+    September's Olympic triathlon finish was <strong>3:17:59</strong>, with a 34:46 swim, 1:30:13 bike, and 1:01:05 run. The result places me <strong>282nd overall</strong>, <strong>212th by gender</strong>, and <strong>33rd in M35–39</strong>.
+  </div>
+</div>
+
+---
+
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
@@ -1023,6 +1081,17 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Triathlon — Santa Cruz, CA · September 2026</p>
+  <div class="ha-rank-grid">
+    <div class="ha-rank-card">
+      <div class="rk-type">Santa Cruz — Olympic</div>
+      <div class="rk-num">#282</div>
+      <div class="rk-lbl">Overall / 455</div>
+      <div class="rk-time">3:17:59</div>
+      <div class="rk-ag">M35–39 #33/44 · Gender #212/319 · Bib #7</div>
+    </div>
+  </div>
+
   <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">IRONMAN 70.3 — Santa Cruz Relay · September 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
@@ -1098,12 +1167,22 @@ permalink: /projects/hybrid_athlete/
             <td>78.3</td>
             <td>0.368</td>
           </tr>
+          <tr>
+            <td><strong>Sep 30, 2026</strong></td>
+            <td>161.1</td>
+            <td>14.9%</td>
+            <td style="color:#f59e0b;font-weight:700;">↑ 0.5</td>
+            <td>78.5</td>
+            <td>0.368</td>
+          </tr>
         </tbody>
       </table>
     </div>
   </div>
 
   <p style="font-size:0.78rem;color:var(--global-text-color-light,#666);">Body fat changes are shown in percentage points (pp) since the previous scan.</p>
+  <p style="font-size:0.78rem;color:var(--global-text-color-light,#666);">September scan highlights: InBody score <strong>88</strong> · BMI <strong>25.2</strong> · visceral fat level <strong>4</strong> · basal metabolic rate <strong>7,167 kJ</strong>.</p>
+  <a class="ha-scan-report" href="{{ '/assets/img/blog/projects/hybrid_athelete/physique/september/inbody-report.pdf' | relative_url }}" target="_blank" rel="noopener">View the September 2026 InBody report (PDF)</a>
 
   <div class="ha-months-grid">
 
@@ -1135,6 +1214,16 @@ permalink: /projects/hybrid_athlete/
     <div class="ha-month-col">
       <div class="ha-month-label"><span class="ha-dot"></span> August 2026</div>
       <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/august.jpg' | relative_url }}" alt="August 2026 physique progress photo" loading="lazy">
+    </div>
+
+    <div class="ha-month-col">
+      <div class="ha-month-label"><span class="ha-dot"></span> September 2026 — Front</div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/september/front.jpg' | relative_url }}" alt="September 2026 front physique progress photo" loading="lazy">
+    </div>
+
+    <div class="ha-month-col">
+      <div class="ha-month-label"><span class="ha-dot"></span> September 2026 — Side</div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/september/side.jpg' | relative_url }}" alt="September 2026 side physique progress photo" loading="lazy">
     </div>
 
   </div>
