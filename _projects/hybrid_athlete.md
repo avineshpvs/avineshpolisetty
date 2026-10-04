@@ -108,6 +108,26 @@ permalink: /projects/hybrid_athlete/
 .ha-cert.result-card--portrait { margin: 1rem auto; }
 .ha-cert.result-card--wide { max-width: 560px; }
 .ha-cert.result-card--portrait { max-width: 220px; }
+/* stat tiles beside a landscape result card, so neither floats in empty space */
+.ha-result-split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr);
+  gap: 1.25rem;
+  align-items: center;
+}
+.ha-result-split .ha-stat-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+.ha-result-split .ha-stat { min-width: 0; padding: 0.55rem 0.8rem; }
+.ha-result-split .ha-stat.hero { grid-column: 1 / -1; }
+.ha-result-split .ha-stat.hero .sv { font-size: 1.9rem; line-height: 1.1; }
+.ha-result-split .ha-cert { margin: 0; }
+.ha-result-split .ha-cert img { display: block; box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+@media (max-width: 700px) {
+  .ha-result-split { grid-template-columns: 1fr; }
+}
 .ha-relay-details {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(180px, 300px);
@@ -144,23 +164,23 @@ permalink: /projects/hybrid_athlete/
 /* ── Rankings ── */
 .ha-rank-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.7rem;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 0.6rem;
   margin-bottom: 0.8rem;
 }
 .ha-rank-card {
   border: 1px solid var(--global-divider-color, #e0e0e0);
   border-radius: 10px;
-  padding: 0.75rem 0.8rem;
+  padding: 0.5rem 0.6rem;
   text-align: center;
 }
-.ha-rank-card .rk-type { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: #e63946; }
-.ha-rank-card .rk-num  { font-size: 2.6rem; font-weight: 800; line-height: 1.05; }
-.ha-rank-card .rk-lbl  { font-size: 0.7rem; color: var(--global-text-color-light, #888); }
-.ha-rank-card .rk-time { font-size: 1.15rem; font-weight: 700; margin-top: 0.4rem; }
-.ha-rank-card .rk-ag   { font-size: 0.72rem; color: var(--global-text-color-light, #888); }
+.ha-rank-card .rk-type { font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: #e63946; }
+.ha-rank-card .rk-num  { font-size: 1.7rem; font-weight: 800; line-height: 1.1; }
+.ha-rank-card .rk-lbl  { font-size: 0.66rem; color: var(--global-text-color-light, #888); }
+.ha-rank-card .rk-time { font-size: 0.95rem; font-weight: 700; margin-top: 0.2rem; }
+.ha-rank-card .rk-ag   { font-size: 0.66rem; color: var(--global-text-color-light, #888); }
 @media (max-width: 700px) {
-  .ha-rank-grid { grid-template-columns: 1fr; }
+  .ha-rank-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 .ha-ranking-screenshot img { width: 100%; border-radius: 8px; border: 1px solid var(--global-divider-color, #ddd); }
 
@@ -867,15 +887,17 @@ permalink: /projects/hybrid_athlete/
     </div>
     <div class="ha-event-body">
       <div class="ha-venue">📍 Elk Grove, CA · 10 KM · Open Heat</div>
-      <div class="ha-stat-row">
-        <div class="ha-stat"><div class="sl">Time</div><div class="sv">1:46:09</div></div>
-        <div class="ha-stat"><div class="sl">Category</div><div class="sv">#256/1744</div></div>
-        <div class="ha-stat"><div class="sl">Gender</div><div class="sv">#243/1274</div></div>
-        <div class="ha-stat"><div class="sl">AG 35–39</div><div class="sv">#34/236</div></div>
-        <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 15%</div></div>
-      </div>
-      <div class="ha-cert result-card--wide">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/results.png' | relative_url }}" alt="August 29, 2026 NorCal Spartan Super 10K Open Heat results: 1:46:09, category 256 of 1744, gender 243 of 1274, age 35–39 rank 34 of 236" width="1386" height="834" style="height:auto;" loading="lazy">
+      <div class="ha-result-split">
+        <div class="ha-stat-row">
+          <div class="ha-stat hero"><div class="sl">Finish Time</div><div class="sv">1:46:09</div></div>
+          <div class="ha-stat"><div class="sl">Category</div><div class="sv">#256/1744</div></div>
+          <div class="ha-stat"><div class="sl">Gender</div><div class="sv">#243/1274</div></div>
+          <div class="ha-stat"><div class="sl">AG 35–39</div><div class="sv">#34/236</div></div>
+          <div class="ha-stat"><div class="sl">Percentile</div><div class="sv">Top 15%</div></div>
+        </div>
+        <div class="ha-cert">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/spartan_august_2026/results.png' | relative_url }}" alt="August 29, 2026 NorCal Spartan Super 10K Open Heat results: 1:46:09, category 256 of 1744, gender 243 of 1274, age 35–39 rank 34 of 236" width="1386" height="834" style="height:auto;" loading="lazy">
+        </div>
       </div>
     </div>
   </div>
@@ -954,13 +976,13 @@ permalink: /projects/hybrid_athlete/
       <span class="ev-date">Sep 27, 2026</span>
     </div>
     <div class="ha-event-imgs cols-3 centered">
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/swim-exit.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon swim exit" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/swim-exit.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon swim exit" style="object-position: center 8%;" loading="lazy">
       <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/bike.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon bike leg" loading="lazy">
       <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/family-finish.jpg' | relative_url }}" alt="September 2026 Santa Cruz Triathlon finish with family" loading="lazy">
     </div>
     <div class="ha-event-imgs cols-2 centered">
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/family-sign.jpg' | relative_url }}" alt="Family cheering at the September 2026 Santa Cruz Triathlon" loading="lazy">
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/finish-beach.jpg' | relative_url }}" alt="Family celebrating on the beach after the September 2026 Santa Cruz Triathlon" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/family-sign.jpg' | relative_url }}" alt="Family cheering at the September 2026 Santa Cruz Triathlon" style="object-position: center 45%;" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/finish-beach.jpg' | relative_url }}" alt="Family celebrating on the beach after the September 2026 Santa Cruz Triathlon" style="object-position: center 62%;" loading="lazy">
     </div>
     <div class="ha-event-body">
       <div class="ha-venue">📍 Santa Cruz, CA · Olympic distance · Bib #7</div>
@@ -970,21 +992,28 @@ permalink: /projects/hybrid_athlete/
         <div class="ha-stat"><div class="sl">Gender</div><div class="sv">#212/319</div></div>
         <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#33/44</div></div>
       </div>
-      <table class="ha-zone-table">
-        <thead><tr><th>Leg</th><th>Time</th><th>Pace</th></tr></thead>
-        <tbody>
-          <tr><td>Swim</td><td>34:46</td><td>2:19 /100m</td></tr>
-          <tr><td>T1</td><td>10:12</td><td>—</td></tr>
-          <tr><td>Bike</td><td>1:30:13</td><td>16.56 mph</td></tr>
-          <tr><td>T2</td><td>1:40</td><td>—</td></tr>
-          <tr><td>Run</td><td>1:01:05</td><td>9:51 /mi</td></tr>
-          <tr><td><strong>Total</strong></td><td><strong>3:17:59</strong></td><td>—</td></tr>
-        </tbody>
-      </table>
-      <div class="ha-cert result-card--wide">
-        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/results.png' | relative_url }}" alt="Santa Cruz Triathlon September 2026 results: 3:17:59 elapsed, overall 282 of 455, M35–39 33 of 44" loading="lazy">
+
+      <div class="ha-relay-details">
+        <div style="overflow-x:auto;">
+        <table class="ha-zone-table">
+          <thead><tr><th>Leg</th><th>Time</th><th>Pace</th></tr></thead>
+          <tbody>
+            <tr><td>Swim</td><td>34:46</td><td>2:19 /100m</td></tr>
+            <tr><td>T1</td><td>10:12</td><td>—</td></tr>
+            <tr><td>Bike</td><td>1:30:13</td><td>16.56 mph</td></tr>
+            <tr><td>T2</td><td>1:40</td><td>—</td></tr>
+            <tr><td>Run</td><td>1:01:05</td><td>9:51 /mi</td></tr>
+            <tr><td><strong>Total</strong></td><td><strong>3:17:59</strong></td><td>—</td></tr>
+          </tbody>
+        </table>
+        </div>
+        <div class="ha-cert result-card--portrait">
+          <img src="{{ '/assets/img/blog/projects/hybrid_athelete/tri-santa-cruz-september-2026/results.png' | relative_url }}" alt="Santa Cruz Triathlon September 2026 results: 3:17:59 elapsed, overall 282 of 455, M35–39 33 of 44" style="height:auto;" width="976" height="862" loading="lazy">
+        </div>
       </div>
+      <p style="font-size:0.78rem;color:var(--global-text-color-light,#666);">Standings from the results card: overall 282/455 · gender 212/319 · M35–39 33/44. Run splits: 1.5 mi in 15:47 (10:31/mi), 4.5 mi in 46:43 (10:22/mi).</p>
     </div>
+
   </div>
 
   <div class="ha-note-box">
@@ -1070,36 +1099,28 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Triathlon — Santa Cruz, CA · August 2026</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Triathlon — Santa Cruz, CA · August–September 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
-      <div class="rk-type">Tri Santa Cruz — Olympic</div>
+      <div class="rk-type">Tri Santa Cruz — Olympic · Aug</div>
       <div class="rk-num">#59</div>
       <div class="rk-lbl">Overall / 187</div>
       <div class="rk-time">2:39:53</div>
       <div class="rk-ag">🥉 3rd · AG M35–39 (3/12) · Male #50/142</div>
     </div>
-  </div>
-
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Triathlon — Santa Cruz, CA · September 2026</p>
-  <div class="ha-rank-grid">
     <div class="ha-rank-card">
-      <div class="rk-type">Santa Cruz — Olympic</div>
+      <div class="rk-type">Santa Cruz — Olympic · Sep</div>
       <div class="rk-num">#282</div>
       <div class="rk-lbl">Overall / 455</div>
       <div class="rk-time">3:17:59</div>
       <div class="rk-ag">M35–39 #33/44 · Gender #212/319 · Bib #7</div>
     </div>
-  </div>
-
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">IRONMAN 70.3 — Santa Cruz Relay · September 2026</p>
-  <div class="ha-rank-grid">
     <div class="ha-rank-card">
-      <div class="rk-type">Team Asha Relay 4</div>
+      <div class="rk-type">IRONMAN 70.3 Relay · Sep</div>
       <div class="rk-num">#11</div>
       <div class="rk-lbl">Men's Relay / 26 teams</div>
       <div class="rk-time">6:14:53 team finish</div>
-      <div class="rk-ag">My swim: 46:36 · Preliminary race badge</div>
+      <div class="rk-ag">Team Asha Relay 4 · My swim: 46:36</div>
     </div>
   </div>
 
@@ -1217,13 +1238,8 @@ permalink: /projects/hybrid_athlete/
     </div>
 
     <div class="ha-month-col">
-      <div class="ha-month-label"><span class="ha-dot"></span> September 2026 — Front</div>
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/september/front.jpg' | relative_url }}" alt="September 2026 front physique progress photo" loading="lazy">
-    </div>
-
-    <div class="ha-month-col">
-      <div class="ha-month-label"><span class="ha-dot"></span> September 2026 — Side</div>
-      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/september/side.jpg' | relative_url }}" alt="September 2026 side physique progress photo" loading="lazy">
+      <div class="ha-month-label"><span class="ha-dot"></span> September 2026</div>
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/physique/september/front.jpg' | relative_url }}" alt="September 2026 physique progress photo" loading="lazy">
     </div>
 
   </div>
