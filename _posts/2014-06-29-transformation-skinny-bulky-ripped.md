@@ -124,7 +124,7 @@ categories: fitness
     <div class="t14-tl-content">
       <div class="t14-tl-label">Getting Ripped — 3 Months</div>
       <div class="t14-tl-text">Corporate life brought structure. Three months of focused work — consistent training, dialled-in diet — and I finally got there. This post is about exactly what that looked like.</div>
-      <div class="t14-continue">The story continues → <a href="/projects/hybrid_athlete/">Hybrid Athlete 2026</a></div>
+      <div class="t14-continue">The story continues → <a href="/projects/hybrid-athlete-2026/">Hybrid Athlete 2026</a></div>
     </div>
   </div>
 </div>

@@ -5,7 +5,7 @@ description: A working father in his late-thirties chasing strength and enduranc
 img: assets/img/blog/projects/hybrid_athelete/hybrid_athlete_thumb.jpg
 importance: 3
 category: Personal
-permalink: /projects/hybrid_athlete/
+permalink: /projects/hybrid-athlete-2026/
 ---
 
 <style>
@@ -537,10 +537,10 @@ permalink: /projects/hybrid_athlete/
       <div style="text-align:right"><div class="ha-race-result">3:17:59 ✓</div><div class="ha-race-goal">Bib #7</div></div>
     </div>
 
-    <div class="ha-race-row future">
-      <div><div class="ha-race-date">Oct 3–4</div></div>
-      <div><div class="ha-race-name">Rock 'n' Roll San Jose 10K</div><div class="ha-race-meta">San Jose, CA · 10K Run</div></div>
-      <div style="text-align:right"><span class="ha-badge upcoming">Upcoming</span></div>
+    <div class="ha-race-row done">
+      <div><div class="ha-race-date">Oct 4</div></div>
+      <div><div class="ha-race-name">Rock 'n' Roll San Jose 10K</div><div class="ha-race-meta">San Jose, CA · 10K Run · Bib #20104</div></div>
+      <div style="text-align:right"><div class="ha-race-result">52:05 ✓</div><div class="ha-race-goal">AG M35–39 #13</div></div>
     </div>
 
     <div class="ha-race-row future">
@@ -1023,10 +1023,49 @@ permalink: /projects/hybrid_athlete/
 
 ---
 
+<!-- ── ROCK 'N' ROLL SAN JOSE 10K — OCTOBER 2026 ── -->
+<div class="ha-section">
+  <h2>🎸 Rock 'n' Roll San Jose 10K — October 2026 <span class="ha-badge">Completed</span></h2>
+
+  <div class="ha-event-card">
+    <div class="ha-event-header">
+      <span class="ev-name">ROCK 'N' ROLL SAN JOSE 10K</span>
+      <span class="ev-date">Oct 4, 2026</span>
+    </div>
+    <div class="ha-event-imgs cols-2 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/rocknroll-san-jose-10k/running.jpg' | relative_url }}" alt="Rock 'n' Roll San Jose 10K 2026 — running on the course" style="object-position: center 15%;" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/rocknroll-san-jose-10k/finish.jpg' | relative_url }}" alt="Rock 'n' Roll San Jose 10K 2026 — high-five at the finish line" style="object-position: center 10%;" loading="lazy">
+    </div>
+    <div class="ha-event-imgs cols-2 centered">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/rocknroll-san-jose-10k/medal.jpg' | relative_url }}" alt="Rock 'n' Roll San Jose 10K 2026 — holding up the finisher medal" style="object-position: center 15%;" loading="lazy">
+      <img src="{{ '/assets/img/blog/projects/hybrid_athelete/rocknroll-san-jose-10k/medal-bite.jpg' | relative_url }}" alt="Rock 'n' Roll San Jose 10K 2026 — biting the finisher medal" style="object-position: center 3%;" loading="lazy">
+    </div>
+    <div class="ha-event-body">
+      <div class="ha-venue">📍 San Jose, CA · 10K Road · Bib #20104</div>
+      <div class="ha-stat-row">
+        <div class="ha-stat"><div class="sl">Finish</div><div class="sv">52:05</div></div>
+        <div class="ha-stat"><div class="sl">Pace</div><div class="sv">8:23 /mi</div></div>
+        <div class="ha-stat"><div class="sl">Overall</div><div class="sv">#89</div></div>
+        <div class="ha-stat"><div class="sl">Gender</div><div class="sv">#73</div></div>
+        <div class="ha-stat"><div class="sl">AG M35–39</div><div class="sv">#13</div></div>
+      </div>
+      <div class="ha-cert">
+        <img src="{{ '/assets/img/blog/projects/hybrid_athelete/rocknroll-san-jose-10k/results.png' | relative_url }}" alt="Rock 'n' Roll San Jose 10K 2026 results: finish 0:52:05, overall rank 89, gender rank 73, M35–39 division rank 13, bib 20104" width="2388" height="734" style="height:auto;" loading="lazy">
+      </div>
+    </div>
+  </div>
+
+  <div class="ha-note-box">
+    <strong>52:05 in San Jose</strong> — <strong>89th overall</strong>, <strong>73rd by gender</strong>, and <strong>13th in M35–39</strong>, a week after the Santa Cruz Olympic triathlon. That is 2:23 slower than the 49:42 at Stars &amp; Strides in July, on a different course.
+  </div>
+</div>
+
+---
+
 <!-- ── RANKINGS ── -->
 <div class="ha-section">
   <h2>📊 Current Rankings</h2>
-  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Individual results: Male 35–39 · relay team results listed separately · as of September 2026</p>
+  <p style="font-size:0.82rem;color:var(--global-text-color-light,#666);margin-bottom:1.2rem;">Individual results: Male 35–39 · relay team results listed separately · as of October 2026</p>
 
   <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin-bottom:0.6rem;">DEKA — Global Leaderboard · Villa Sport</p>
   <div class="ha-rank-grid" style="margin-bottom:1.5rem;">
@@ -1081,7 +1120,7 @@ permalink: /projects/hybrid_athlete/
     </div>
   </div>
 
-  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Road &amp; Open Water — July 2026</p>
+  <p style="font-size:0.78rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--global-text-color-light,#888);margin:0.9rem 0 0.45rem;">Road &amp; Open Water — July–October 2026</p>
   <div class="ha-rank-grid">
     <div class="ha-rank-card">
       <div class="rk-type">Stars &amp; Strides 10K</div>
@@ -1096,6 +1135,13 @@ permalink: /projects/hybrid_athlete/
       <div class="rk-lbl">Overall</div>
       <div class="rk-time">48:07</div>
       <div class="rk-ag">🥉 3rd · AG M30–39</div>
+    </div>
+    <div class="ha-rank-card">
+      <div class="rk-type">Rock 'n' Roll SJ 10K · Oct</div>
+      <div class="rk-num">#89</div>
+      <div class="rk-lbl">Overall</div>
+      <div class="rk-time">52:05</div>
+      <div class="rk-ag">AG M35–39 #13 · Gender #73</div>
     </div>
   </div>
 
